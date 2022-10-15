@@ -1,0 +1,2000 @@
+Guzodgrauel, Blacksmith of Samamudial | 6 | @ | When you demolish a structure gain a food and When ~ defends build a structure | !4 | #6 | 
+Blood Shrine of Guzodgragrass | & | 4 | If you would build a structure do it twice instead | #7 | 
+Sacred Grave | & | 2 | Your units get +4/+2 | #3 | 
+Temple Castle | & | 2 | Each turn get 2 food | #4 | 
+Blood Tomb | & | 2 | Each turn get 2 crystal | #4 | 
+Snoddamdial, Mason of Adadamville | 5 | @ | When ~ dies gain a crystal and When you draw gain a gold | !6 | #6 | 
+Defender of Matatheuel | 3 | @ | When you play ~ ~ gets +2/+2 until the end of your next turn | !6 | #3 | 
+Steam Vents | & | 4 | If you would build a structure do it twice instead | #3 | 
+Stomping Fountain | & | 4 | If you would build a structure do it twice instead | #4 | 
+Forgotten Tomb | & | 2 | Your units get +2/+2 | #3 | 
+Summuzdiaam, Mason of Guzmervgrass | 5 | @ | When you play ~ draw a card and When ~ defends draw a card | !5 | #5 | 
+Stomping Shrine | & | 2 | Each turn get 2 wood | #2 | 
+Adaodgraville, Blacksmith of Samamuam | 4 | @ | When you play ~ gain a iron and When you draw gain a iron | !6 | #4 | 
+Mason of Summodgragrass | 3 | @ | When you build a structure gain a iron | !3 | #2 | 
+Forgotten Keep of Snododgraville | & | 6 | Your units get +2/+4 | #7 | 
+Samdamdial, Knight of Adaamudial | 6 | @ | When you draw ~ gets +4/+2 until the end of your next turn | !8 | #7 | 
+Summmervdial, Barbarian of Guzdamdial | 6 | @ | When ~ defends ~ gets +2/+3 until the end of your turn | !7 | #7 | 
+Blacksmith of Matamuuel | 4 | @ | When you build a structure build a structure | !2 | #2 | 
+Hallowed Crypt of Guzdamuel | & | 5 | Your units get +3/+3 | #7 | 
+Forgotten Foundry | & | 3 | Your units get +4/+3 | #4 | 
+Artisan of Samdamthew | 4 | @ | When you draw gain a iron | !2 | #3 | 
+Overgrown Crypt of Adaamuam | & | 4 | If you would draw a card do it twice instead | #9 | 
+Sacred Tomb of Matdamam | & | 5 | Your units get +2/+4 | #7 | 
+Adamervgrass, Stonecutter of Snoduzdiagrass | 5 | @ | When ~ defends build a structure and When ~ attacks draw a card | !6 | #4 | 
+Godless Tomb | & | 4 | Your units get +3/+4 | #2 | 
+Watery Pool | & | 3 | If you would attack do it twice instead | #2 | 
+Snodmervdial, Knight of Adadamgrass | 6 | @ | When you draw protect all structures until ~ attacks | !9 | #7 | 
+Summodgraville, Farmer of Guzmervville | 4 | @ | When ~ dies draw a card and When ~ dies build a structure | !4 | #4 | 
+Hallowed Vents | & | 2 | Your units get +4/+4 | #3 | 
+Farmer of Guzmervuel | 3 | @ | When you demolish a structure draw a card | !4 | #4 | 
+Sacred Fountain | & | 4 | Each turn get 2 iron | #2 | 
+Artisan of Samamuthew | 4 | @ | When ~ defends build a structure | !4 | #3 | 
+Hallowed Grave of Summodgragrass | & | 6 | Each turn get 2 iron | #9 | 
+Hallowed Keep | & | 4 | Your units get +2/+3 | #4 | 
+Guzdamuel, Defender of Adaodgraville | 5 | @ | When ~ defends deal 1 to 2 structures | !9 | #7 | 
+Steam Ground | & | 3 | Your units get +3/+4 | #3 | 
+Hallowed Ground | & | 3 | Your units get +3/+2 | #3 | 
+Snodathedial, Barbarian of Matatheuel | 6 | @ | When ~ defends ~ gets +4/+2 until the end of the game | !9 | #9 | 
+Samamugrass, Artisan of Summodgradial | 4 | @ | When ~ dies gain a food and When ~ defends gain a wood | !5 | #6 | 
+Summatheuel, Warrior of Guzathethew | 4 | @ | When ~ defends deal 1 to all structures | !9 | #9 | 
+Summmervam, Ranger of Matatheville | 4 | @ | When you play ~ deal 1 to a structure | !7 | #7 | 
+Warrior of Samathethew | 6 | @ |  | !9 | #6 | 
+Stonecutter of Matuzdiaam | 4 | @ | When you build a structure gain a iron | !2 | #4 | 
+Artisan of Snododgraam | 3 | @ | When ~ dies build a structure | !3 | #3 | 
+Knight of Sammervgrass | 4 | @ |  | !9 | #4 | 
+Sacred Tomb | & | 4 | Each turn get 2 wood | #4 | 
+Temple Fountain | & | 2 | Your units get +3/+3 | #4 | 
+Defender of Summodgragrass | 4 | @ |  | !8 | #5 | 
+Steam Crypt | & | 4 | Each turn get 2 crystal | #4 | 
+Forgotten Pool of Matodgrauel | & | 5 | If you would build a structure do it twice instead | #8 | 
+Sacred Pool | & | 4 | Your units get +2/+3 | #3 | 
+Snododgraam, Ranger of Samdamuel | 4 | @ | When you build a structure deal 1 to a structure | !7 | #8 | 
+Blood Shrine | & | 3 | Each turn get 2 gold | #4 | 
+Overgrown Castle | & | 3 | If you would build a structure do it twice instead | #3 | 
+Defender of Snodamudial | 2 | @ |  | !4 | #6 | 
+Godless Grave of Adaathethew | & | 5 | Your units get +4/+2 | #9 | 
+Architect of Snodatheam | 3 | @ | When you demolish a structure build a structure | !4 | #2 | 
+Artisan of Samamugrass | 2 | @ | When you build a structure gain a food | !4 | #4 | 
+Guzuzdiagrass, Knight of Matamuam | 6 | @ | When you build a structure deal 1 to 3 structures | !9 | #9 | 
+Barbarian of Samamuville | 5 | @ |  | !8 | #6 | 
+Stonecutter of Summamuthew | 4 | @ | When you play ~ gain a crystal | !2 | #3 | 
+Stonecutter of Summatheville | 4 | @ | When you draw draw a card | !3 | #2 | 
+Warrior of Matmervam | 3 | @ |  | !6 | #6 | 
+Adauzdiauel, Stonecutter of Summuzdiaam | 5 | @ | When you demolish a structure gain a gold and When ~ attacks draw a card | !4 | #6 | 
+Temple Crypt | & | 4 | Your units get +2/+2 | #2 | 
+Overgrown Keep | & | 3 | Each turn get 2 crystal | #2 | 
+Hallowed Crypt | & | 3 | Each turn get 2 gold | #4 | 
+Steam Pool | & | 3 | If you would build a structure do it twice instead | #4 | 
+Sacred Crypt of Guzuzdiaville | & | 4 | Each turn get 2 food | #7 | 
+Architect of Guzuzdiagrass | 3 | @ | When ~ attacks build a structure | !2 | #4 | 
+Blacksmith of Adaamugrass | 4 | @ | When you build a structure build a structure | !4 | #3 | 
+Godless Tomb | & | 3 | Each turn get 2 crystal | #2 | 
+Adadamthew, Farmer of Adaodgraville | 6 | @ | When you build a structure draw a card and When you demolish a structure draw a card | !6 | #5 | 
+Adadamville, Blacksmith of Summamuam | 6 | @ | When ~ dies build a structure and When ~ dies gain a crystal | !6 | #6 | 
+Barbarian of Summdamville | 2 | @ | When ~ defends protect all structures until ~ dies | !5 | #4 | 
+Mason of Summodgrauel | 4 | @ | When ~ attacks build a structure | !2 | #3 | 
+Mason of Matuzdiaville | 4 | @ | When ~ defends gain a iron | !2 | #3 | 
+Temple Shrine of Adaatheuel | & | 4 | If you would protect a structure do it twice instead | #9 | 
+Breeding Tomb of Matuzdiathew | & | 6 | If you would draw a card do it twice instead | #7 | 
+Blood Castle of Samodgraville | & | 6 | Each turn get 2 food | #7 | 
+Barbarian of Snodmervthew | 6 | @ |  | !9 | #6 | 
+Architect of Samodgragrass | 2 | @ | When ~ dies build a structure | !4 | #4 | 
+Blood Shrine of Samdamam | & | 5 | Your units get +4/+3 | #8 | 
+Sammervdial, Warrior of Snodatheuel | 5 | @ | When you demolish a structure deal 1 to all structures | !7 | #9 | 
+Knight of Samamuville | 4 | @ |  | !7 | #4 | 
+Steam Tomb of Samdamuel | & | 5 | Your units get +3/+4 | #9 | 
+Forgotten Vents of Summuzdiagrass | & | 5 | Each turn get 2 crystal | #8 | 
+Blacksmith of Snoduzdiadial | 4 | @ | When you draw draw a card | !3 | #2 | 
+Summuzdiauel, Architect of Adaatheville | 6 | @ | When ~ attacks draw a card and When you play ~ draw a card | !6 | #4 | 
+Godless Pool | & | 3 | Your units get +4/+3 | #3 | 
+Adadamdial, Mason of Matmervville | 4 | @ | When ~ attacks build a structure and When you demolish a structure build a structure | !6 | #6 | 
+Stomping Pool | & | 3 | If you would build a structure do it twice instead | #3 | 
+Temple Fountain of Snododgraam | & | 6 | If you would protect a structure do it twice instead | #7 | 
+Snoduzdiaville, Stonecutter of Adamervuel | 4 | @ | When ~ attacks gain a food and When you draw gain a wood | !6 | #5 | 
+Adauzdiauel, Architect of Summamugrass | 5 | @ | When you build a structure gain a crystal and When you demolish a structure draw a card | !6 | #5 | 
+Godless Crypt of Matuzdiaville | & | 6 | Each turn get 2 food | #7 | 
+Blacksmith of Samamudial | 3 | @ | When you demolish a structure draw a card | !3 | #4 | 
+Barbarian of Snodathedial | 5 | @ |  | !7 | #4 | 
+Stomping Pool | & | 3 | If you would attack do it twice instead | #4 | 
+Stomping Tomb of Matamuville | & | 4 | If you would draw a card do it twice instead | #7 | 
+Summuzdiagrass, Mason of Samdamgrass | 6 | @ | When ~ attacks gain a crystal and When you play ~ gain a food | !6 | #6 | 
+Warrior of Adaamugrass | 6 | @ |  | !7 | #6 | 
+Forgotten Shrine | & | 3 | If you would protect a structure do it twice instead | #4 | 
+Matmervthew, Mason of Summuzdiadial | 6 | @ | When ~ attacks gain a food and When you build a structure build a structure | !6 | #5 | 
+Stomping Garden | & | 2 | If you would attack do it twice instead | #4 | 
+Defender of Adaamuam | 5 | @ |  | !8 | #5 | 
+Stonecutter of Snoduzdiauel | 3 | @ | When you build a structure draw a card | !2 | #3 | 
+Blood Foundry of Snoddamuel | & | 6 | Your units get +4/+2 | #9 | 
+Ranger of Guzathethew | 4 | @ | When you play ~ ~ gets +2/+4 until ~ dies | !4 | #2 | 
+Snodamugrass, Architect of Snoddamam | 4 | @ | When you play ~ draw a card and When you draw draw a card | !4 | #4 | 
+Barbarian of Snododgraam | 4 | @ |  | !7 | #4 | 
+Summdamgrass, Blacksmith of Samodgraville | 5 | @ | When ~ dies draw a card and When ~ defends gain a gold | !6 | #6 | 
+Ranger of Adadamdial | 3 | @ |  | !4 | #4 | 
+Blacksmith of Guzamuthew | 3 | @ | When ~ dies gain a gold | !2 | #3 | 
+Artisan of Adadamam | 2 | @ | When you build a structure draw a card | !2 | #3 | 
+Godless Ground of Adaathedial | & | 4 | Your units get +4/+2 | #9 | 
+Summodgraville, Barbarian of Summmervgrass | 5 | @ | When you play ~ protect a structure until the end of your turn | !9 | #7 | 
+Overgrown Grave | & | 4 | Your units get +2/+3 | #2 | 
+Watery Crypt | & | 4 | Each turn get 2 gold | #4 | 
+Knight of Adaodgragrass | 2 | @ | When you draw deal 1 to a structure | !6 | #2 | 
+Samuzdiagrass, Barbarian of Matathedial | 6 | @ | When you demolish a structure protect a structure until ~ dies | !7 | #9 | 
+Samatheuel, Warrior of Snoduzdiauel | 6 | @ | When you play ~ ~ gets +4/+3 until your next turn | !7 | #9 | 
+Overgrown Vents of Snodamuam | & | 6 | Your units get +2/+3 | #9 | 
+Ranger of Summdamthew | 2 | @ | When ~ dies ~ gets +3/+2 until the end of your next turn | !5 | #4 | 
+Ranger of Summdamdial | 3 | @ |  | !6 | #6 | 
+Ranger of Summamuville | 4 | @ |  | !7 | #6 | 
+Forgotten Crypt | & | 3 | Your units get +3/+4 | #3 | 
+Hallowed Tomb of Summathegrass | & | 4 | If you would attack do it twice instead | #7 | 
+Adadamgrass, Architect of Adaamuuel | 4 | @ | When ~ dies gain a crystal and When you demolish a structure draw a card | !5 | #5 | 
+Matodgraam, Architect of Guzodgrathew | 6 | @ | When ~ attacks draw a card and When you build a structure gain a crystal | !4 | #6 | 
+Stomping Garden | & | 2 | Your units get +2/+2 | #3 | 
+Adaodgraam, Barbarian of Samamuthew | 6 | @ | When you draw protect a structure until the end of your turn | !8 | #8 | 
+Summuzdiadial, Artisan of Guzuzdiadial | 5 | @ | When ~ attacks gain a wood and When you demolish a structure gain a food | !6 | #4 | 
+Adamervdial, Mason of Guzodgraville | 4 | @ | When you play ~ draw a card and When you play ~ gain a iron | !4 | #6 | 
+Sacred Crypt | & | 3 | Your units get +3/+3 | #4 | 
+Hallowed Crypt | & | 3 | Your units get +4/+2 | #3 | 
+Hallowed Tomb of Guzmervuel | & | 6 | If you would draw a card do it twice instead | #9 | 
+Mason of Adaamuthew | 2 | @ | When ~ defends draw a card | !2 | #4 | 
+Summathethew, Farmer of Adaathethew | 6 | @ | When ~ defends gain a iron and When you play ~ draw a card | !6 | #5 | 
+Adauzdiathew, Architect of Samodgragrass | 6 | @ | When you draw gain a gold and When you build a structure gain a crystal | !4 | #6 | 
+Hallowed Garden of Samdamville | & | 6 | Your units get +3/+2 | #7 | 
+Stonecutter of Guzatheuel | 3 | @ | When you build a structure build a structure | !3 | #3 | 
+Snoddamthew, Architect of Summodgrathew | 6 | @ | When you build a structure build a structure and When ~ dies build a structure | !5 | #6 | 
+Blood Tomb of Summodgrathew | & | 5 | Each turn get 2 wood | #7 | 
+Overgrown Tomb | & | 2 | Each turn get 2 crystal | #2 | 
+Stomping Castle | & | 2 | Your units get +4/+3 | #4 | 
+Guzamuuel, Architect of Samatheville | 5 | @ | When ~ attacks gain a wood and When you play ~ build a structure | !6 | #5 | 
+Guzamuthew, Farmer of Samuzdiaam | 4 | @ | When ~ attacks build a structure and When ~ defends build a structure | !4 | #4 | 
+Stomping Garden of Guzdamgrass | & | 6 | If you would protect a structure do it twice instead | #9 | 
+Sacred Crypt of Adauzdiaville | & | 4 | Your units get +3/+4 | #8 | 
+Sacred Castle of Snododgrathew | & | 5 | If you would build a structure do it twice instead | #8 | 
+Stomping Fountain of Matdamdial | & | 5 | Your units get +2/+4 | #8 | 
+Forgotten Keep | & | 3 | Each turn get 2 iron | #4 | 
+Forgotten Grave of Summdamam | & | 4 | Your units get +4/+3 | #7 | 
+Watery Tomb | & | 2 | If you would protect a structure do it twice instead | #4 | 
+Hallowed Pool | & | 4 | Each turn get 2 food | #2 | 
+Steam Vents | & | 4 | Each turn get 2 gold | #2 | 
+Snoddamgrass, Artisan of Snodathethew | 6 | @ | When you demolish a structure draw a card and When you demolish a structure build a structure | !5 | #6 | 
+Architect of Adauzdiagrass | 4 | @ | When you build a structure draw a card | !4 | #3 | 
+Stonecutter of Snodatheam | 2 | @ | When ~ attacks build a structure | !3 | #4 | 
+Forgotten Grave | & | 2 | Each turn get 2 crystal | #2 | 
+Snododgraville, Mason of Adaatheam | 4 | @ | When you build a structure build a structure and When ~ dies gain a iron | !6 | #6 | 
+Stonecutter of Adaamuam | 4 | @ | When you draw build a structure | !4 | #2 | 
+Blood Crypt | & | 2 | Your units get +4/+3 | #3 | 
+Forgotten Shrine | & | 4 | Each turn get 2 gold | #2 | 
+Samatheam, Mason of Summmervthew | 4 | @ | When ~ defends gain a crystal and When you play ~ build a structure | !6 | #4 | 
+Samdamville, Artisan of Guzamuville | 4 | @ | When ~ defends build a structure and When ~ dies draw a card | !5 | #4 | 
+Artisan of Samdamuel | 3 | @ | When you demolish a structure draw a card | !3 | #3 | 
+Sacred Crypt | & | 3 | If you would protect a structure do it twice instead | #2 | 
+Stonecutter of Guzodgrauel | 2 | @ | When you build a structure draw a card | !2 | #4 | 
+Forgotten Tomb of Guzatheville | & | 6 | Each turn get 2 gold | #7 | 
+Matuzdiaam, Architect of Samdamgrass | 4 | @ | When ~ defends draw a card and When you draw draw a card | !6 | #5 | 
+Summodgrauel, Artisan of Snodatheuel | 5 | @ | When you build a structure build a structure and When ~ attacks draw a card | !4 | #6 | 
+Forgotten Shrine | & | 4 | If you would draw a card do it twice instead | #4 | 
+Barbarian of Snodmervville | 4 | @ | When you play ~ ~ gets +3/+2 until the end of the game | !6 | #3 | 
+Guzamuam, Architect of Adauzdiaam | 6 | @ | When you draw build a structure and When you draw build a structure | !5 | #4 | 
+Blood Foundry of Samodgragrass | & | 4 | If you would protect a structure do it twice instead | #8 | 
+Godless Pool | & | 2 | Your units get +3/+4 | #3 | 
+Steam Garden | & | 2 | Your units get +2/+3 | #2 | 
+Overgrown Tomb | & | 2 | Your units get +3/+4 | #4 | 
+Sacred Ground | & | 4 | Your units get +2/+2 | #2 | 
+Overgrown Keep of Snoddamam | & | 5 | Each turn get 2 iron | #8 | 
+Sacred Pool of Summdamville | & | 4 | Each turn get 2 food | #7 | 
+Steam Crypt of Adadamgrass | & | 5 | Your units get +4/+2 | #8 | 
+Summathedial, Warrior of Matdamville | 4 | @ | When ~ defends deal 1 to a structure | !7 | #7 | 
+Temple Keep | & | 4 | Your units get +2/+4 | #3 | 
+Sacred Shrine | & | 2 | Each turn get 2 crystal | #4 | 
+Mason of Samdamdial | 4 | @ | When you demolish a structure draw a card | !2 | #2 | 
+Forgotten Crypt of Snodmervthew | & | 5 | Your units get +3/+2 | #8 | 
+Sacred Tomb | & | 3 | Your units get +2/+4 | #4 | 
+Adauzdiaville, Architect of Guzdamgrass | 5 | @ | When you play ~ build a structure and When you play ~ gain a iron | !6 | #6 | 
+Sacred Pool | & | 4 | If you would build a structure do it twice instead | #2 | 
+Hallowed Fountain | & | 3 | Each turn get 2 gold | #3 | 
+Breeding Shrine | & | 3 | Your units get +2/+2 | #4 | 
+Sacred Tomb | & | 4 | Your units get +3/+2 | #2 | 
+Artisan of Guzodgrauel | 2 | @ | When ~ dies draw a card | !3 | #3 | 
+Watery Vents of Snodathethew | & | 6 | Each turn get 2 wood | #7 | 
+Forgotten Crypt | & | 3 | If you would attack do it twice instead | #2 | 
+Summdamville, Barbarian of Samodgraville | 5 | @ | When you build a structure deal 1 to a structure | !7 | #9 | 
+Sammervgrass, Stonecutter of Adamervgrass | 5 | @ | When you play ~ draw a card and When ~ defends draw a card | !4 | #4 | 
+Matuzdiadial, Architect of Matodgraville | 4 | @ | When you play ~ gain a iron and When you demolish a structure draw a card | !4 | #4 | 
+Snodathegrass, Mason of Guzdamthew | 6 | @ | When you play ~ gain a iron and When you draw build a structure | !4 | #5 | 
+Stomping Ground | & | 2 | Each turn get 2 iron | #4 | 
+Hallowed Ground of Snodmervville | & | 6 | If you would protect a structure do it twice instead | #7 | 
+Ranger of Samdamgrass | 4 | @ | When ~ dies deal 1 to a structure | !5 | #2 | 
+Adauzdiaville, Mason of Samathethew | 6 | @ | When you build a structure draw a card and When ~ dies gain a wood | !5 | #6 | 
+Ranger of Snododgradial | 2 | @ | When ~ defends ~ gets +3/+3 until ~ dies | !4 | #4 | 
+Watery Pool of Matamugrass | & | 5 | If you would protect a structure do it twice instead | #8 | 
+Stomping Keep | & | 3 | Your units get +3/+3 | #3 | 
+Guzdamam, Stonecutter of Snododgradial | 4 | @ | When you play ~ gain a food and When you build a structure gain a gold | !4 | #6 | 
+Hallowed Keep of Snoduzdiathew | & | 5 | Each turn get 2 crystal | #9 | 
+Guzuzdiaville, Ranger of Guzodgraam | 5 | @ | When ~ defends ~ gets +4/+3 until the end of your turn | !8 | #8 | 
+Farmer of Guzuzdiagrass | 3 | @ | When you demolish a structure draw a card | !4 | #4 | 
+Overgrown Foundry | & | 4 | If you would protect a structure do it twice instead | #4 | 
+Hallowed Vents | & | 3 | If you would build a structure do it twice instead | #3 | 
+Godless Crypt | & | 3 | If you would draw a card do it twice instead | #2 | 
+Adauzdiadial, Stonecutter of Snododgraam | 5 | @ | When you play ~ draw a card and When you play ~ draw a card | !5 | #4 | 
+Adaamuville, Knight of Matodgrathew | 5 | @ | When ~ defends protect all structures until ~ attacks | !9 | #8 | 
+Adaodgraville, Architect of Matamudial | 6 | @ | When ~ attacks gain a food and When you draw build a structure | !5 | #6 | 
+Artisan of Summodgraam | 3 | @ | When ~ dies build a structure | !2 | #2 | 
+Hallowed Grave of Adauzdiaam | & | 4 | Your units get +3/+4 | #7 | 
+Overgrown Vents | & | 2 | Each turn get 2 food | #2 | 
+Matodgrauel, Farmer of Guzamudial | 6 | @ | When ~ dies draw a card and When ~ attacks build a structure | !4 | #5 | 
+Godless Garden | & | 4 | Your units get +4/+4 | #4 | 
+Mason of Matamuville | 2 | @ | When you demolish a structure gain a food | !4 | #4 | 
+Forgotten Fountain | & | 4 | If you would attack do it twice instead | #4 | 
+Summuzdiathew, Stonecutter of Guzodgragrass | 5 | @ | When ~ attacks gain a wood and When ~ dies build a structure | !6 | #5 | 
+Temple Vents | & | 4 | Your units get +2/+3 | #2 | 
+Sammervam, Artisan of Guzodgragrass | 5 | @ | When ~ dies gain a food and When you play ~ draw a card | !5 | #4 | 
+Godless Foundry | & | 4 | Each turn get 2 food | #3 | 
+Watery Grave of Snododgradial | & | 5 | Each turn get 2 food | #9 | 
+Defender of Summamuuel | 2 | @ | When you play ~ ~ gets +3/+2 until ~ dies | !5 | #3 | 
+Watery Fountain | & | 3 | Each turn get 2 crystal | #4 | 
+Summdamgrass, Blacksmith of Adamervthew | 4 | @ | When you build a structure gain a gold and When you draw draw a card | !5 | #5 | 
+Adaamuville, Barbarian of Snoddamdial | 6 | @ | When you build a structure protect all structures until ~ dies | !7 | #9 | 
+Summuzdiaam, Warrior of Sammervthew | 4 | @ | When you demolish a structure ~ gets +3/+2 until the end of the game | !9 | #8 | 
+Summmervam, Architect of Samdamdial | 6 | @ | When you play ~ build a structure and When you demolish a structure build a structure | !5 | #4 | 
+Watery Shrine of Adaamugrass | & | 4 | Each turn get 2 wood | #7 | 
+Overgrown Crypt | & | 3 | Each turn get 2 iron | #3 | 
+Watery Shrine | & | 3 | Each turn get 2 wood | #2 | 
+Overgrown Castle | & | 3 | Each turn get 2 crystal | #4 | 
+Farmer of Adamervam | 4 | @ | When ~ defends draw a card | !4 | #4 | 
+Ranger of Adauzdiagrass | 4 | @ | When you draw protect a structure until ~ attacks | !6 | #4 | 
+Sacred Crypt of Samamugrass | & | 5 | Each turn get 2 crystal | #8 | 
+Stomping Garden | & | 4 | Each turn get 2 food | #4 | 
+Farmer of Guzamuuel | 2 | @ | When ~ attacks draw a card | !3 | #4 | 
+Breeding Tomb | & | 4 | Your units get +3/+4 | #3 | 
+Sammervdial, Knight of Matamuville | 4 | @ | When you play ~ deal 1 to a structure | !8 | #7 | 
+Breeding Vents | & | 4 | If you would build a structure do it twice instead | #4 | 
+Matodgrauel, Warrior of Samdamthew | 6 | @ | When ~ attacks deal 1 to 2 structures | !9 | #8 | 
+Forgotten Pool of Sammervuel | & | 5 | Your units get +2/+3 | #8 | 
+Blacksmith of Guzmervdial | 3 | @ | When you play ~ draw a card | !4 | #3 | 
+Breeding Shrine of Adauzdiauel | & | 6 | Your units get +2/+3 | #7 | 
+Summuzdiaam, Farmer of Samamudial | 4 | @ | When ~ attacks gain a gold and When you draw build a structure | !4 | #4 | 
+Breeding Pool of Samamugrass | & | 4 | Each turn get 2 wood | #7 | 
+Forgotten Tomb | & | 4 | Each turn get 2 gold | #3 | 
+Steam Grave | & | 4 | Your units get +2/+4 | #3 | 
+Architect of Summodgrauel | 3 | @ | When you build a structure gain a iron | !2 | #4 | 
+Mason of Guzmervam | 3 | @ | When you demolish a structure draw a card | !3 | #2 | 
+Hallowed Crypt of Samuzdiagrass | & | 5 | Each turn get 2 gold | #9 | 
+Warrior of Guzuzdiadial | 4 | @ |  | !9 | #6 | 
+Warrior of Adauzdiaville | 2 | @ | When you draw deal 1 to a structure | !5 | #2 | 
+Forgotten Tomb | & | 2 | Each turn get 2 crystal | #2 | 
+Knight of Adauzdiathew | 6 | @ |  | !9 | #6 | 
+Stomping Keep of Adaathedial | & | 5 | If you would attack do it twice instead | #8 | 
+Defender of Sammervam | 4 | @ |  | !7 | #5 | 
+Overgrown Grave of Guzdamuel | & | 6 | If you would protect a structure do it twice instead | #7 | 
+Steam Foundry | & | 4 | If you would draw a card do it twice instead | #4 | 
+Sammervuel, Defender of Snodatheam | 4 | @ | When you draw deal 1 to all structures | !9 | #7 | 
+Artisan of Snododgraam | 3 | @ | When you play ~ build a structure | !3 | #2 | 
+Sacred Crypt | & | 3 | Your units get +2/+3 | #3 | 
+Temple Tomb of Adamervville | & | 6 | Your units get +4/+3 | #9 | 
+Matodgraville, Warrior of Summmervam | 5 | @ | When you build a structure protect a structure until ~ dies | !8 | #8 | 
+Godless Crypt of Matuzdiaville | & | 4 | Each turn get 2 gold | #9 | 
+Defender of Summuzdiadial | 3 | @ | When you play ~ ~ gets +2/+3 until the end of your turn | !4 | #3 | 
+Stomping Grave of Samdamuel | & | 5 | Your units get +2/+4 | #9 | 
+Forgotten Pool | & | 4 | Your units get +4/+4 | #2 | 
+Overgrown Pool of Adaamuuel | & | 6 | Each turn get 2 food | #8 | 
+Godless Castle | & | 4 | Your units get +2/+4 | #3 | 
+Sacred Pool | & | 3 | If you would draw a card do it twice instead | #3 | 
+Hallowed Ground of Samamuville | & | 4 | Each turn get 2 iron | #9 | 
+Samamuville, Artisan of Samuzdiauel | 5 | @ | When ~ defends draw a card and When you play ~ build a structure | !6 | #5 | 
+Forgotten Garden of Summodgraville | & | 5 | Your units get +4/+3 | #7 | 
+Temple Foundry of Summmervthew | & | 5 | If you would protect a structure do it twice instead | #7 | 
+Mason of Snododgrathew | 2 | @ | When ~ dies draw a card | !2 | #3 | 
+Watery Crypt of Summatheam | & | 6 | If you would draw a card do it twice instead | #8 | 
+Watery Vents of Summatheville | & | 6 | Each turn get 2 gold | #8 | 
+Sacred Pool of Summamuville | & | 6 | Each turn get 2 crystal | #7 | 
+Ranger of Samdamville | 5 | @ |  | !9 | #4 | 
+Forgotten Crypt | & | 4 | Your units get +2/+3 | #4 | 
+Adaamuam, Architect of Matathethew | 5 | @ | When ~ attacks build a structure and When ~ dies build a structure | !5 | #4 | 
+Watery Crypt of Matamugrass | & | 4 | Your units get +4/+2 | #9 | 
+Samatheam, Architect of Guzodgrathew | 4 | @ | When ~ dies draw a card and When you demolish a structure gain a wood | !6 | #4 | 
+Matuzdiathew, Stonecutter of Matmervville | 6 | @ | When ~ attacks build a structure and When you play ~ build a structure | !4 | #5 | 
+Samamugrass, Architect of Snodamuuel | 6 | @ | When ~ attacks draw a card and When ~ attacks gain a iron | !6 | #5 | 
+Overgrown Castle of Snodamuville | & | 6 | If you would build a structure do it twice instead | #9 | 
+Guzdamthew, Mason of Snodathedial | 5 | @ | When ~ defends draw a card and When you build a structure draw a card | !4 | #5 | 
+Watery Garden of Samamuuel | & | 6 | If you would protect a structure do it twice instead | #7 | 
+Architect of Summuzdiauel | 2 | @ | When you play ~ gain a crystal | !2 | #3 | 
+Godless Tomb | & | 3 | Your units get +3/+3 | #2 | 
+Stonecutter of Snoddamam | 4 | @ | When you demolish a structure draw a card | !2 | #3 | 
+Sacred Ground | & | 2 | Each turn get 2 iron | #3 | 
+Hallowed Keep of Summmervam | & | 4 | If you would draw a card do it twice instead | #8 | 
+Farmer of Matathethew | 2 | @ | When you draw gain a iron | !3 | #4 | 
+Adaamuthew, Barbarian of Snoduzdiagrass | 5 | @ | When ~ attacks protect all structures until the end of your next turn | !7 | #7 | 
+Mason of Guzuzdiaam | 3 | @ | When you demolish a structure build a structure | !4 | #4 | 
+Hallowed Tomb | & | 2 | Your units get +4/+4 | #3 | 
+Hallowed Shrine of Snodamuville | & | 5 | If you would draw a card do it twice instead | #8 | 
+Defender of Snododgraville | 4 | @ |  | !6 | #5 | 
+Breeding Pool | & | 3 | Your units get +4/+4 | #3 | 
+Forgotten Crypt | & | 4 | Each turn get 2 wood | #3 | 
+Summdamgrass, Blacksmith of Sammervthew | 5 | @ | When ~ defends gain a crystal and When you draw build a structure | !4 | #5 | 
+Matuzdiauel, Artisan of Guzdamdial | 4 | @ | When you draw build a structure and When you demolish a structure draw a card | !5 | #6 | 
+Steam Grave | & | 2 | Each turn get 2 crystal | #4 | 
+Farmer of Snododgradial | 3 | @ | When ~ defends build a structure | !4 | #3 | 
+Steam Shrine of Samatheuel | & | 4 | Each turn get 2 food | #8 | 
+Breeding Shrine | & | 2 | Your units get +4/+3 | #4 | 
+Guzodgraam, Farmer of Summuzdiadial | 4 | @ | When ~ attacks gain a gold and When ~ defends draw a card | !6 | #4 | 
+Stonecutter of Adadamthew | 2 | @ | When you build a structure draw a card | !4 | #3 | 
+Warrior of Samodgrauel | 5 | @ |  | !9 | #5 | 
+Breeding Shrine of Matathedial | & | 6 | Your units get +2/+3 | #9 | 
+Overgrown Shrine of Sammervdial | & | 6 | Your units get +2/+4 | #7 | 
+Temple Pool of Adaathedial | & | 5 | Each turn get 2 food | #9 | 
+Forgotten Pool of Guzdamam | & | 5 | If you would attack do it twice instead | #7 | 
+Snododgrathew, Stonecutter of Guzdamgrass | 5 | @ | When you play ~ draw a card and When ~ attacks draw a card | !4 | #5 | 
+Guzathegrass, Knight of Matodgragrass | 5 | @ | When you play ~ deal 1 to all structures | !9 | #8 | 
+Forgotten Castle | & | 2 | Each turn get 2 food | #2 | 
+Stomping Shrine | & | 2 | If you would protect a structure do it twice instead | #3 | 
+Sacred Tomb | & | 4 | If you would draw a card do it twice instead | #3 | 
+Warrior of Guzuzdiathew | 2 | @ | When you draw protect all structures until the end of your turn | !5 | #4 | 
+Breeding Keep | & | 3 | If you would protect a structure do it twice instead | #4 | 
+Hallowed Shrine of Adaamudial | & | 6 | Each turn get 2 gold | #7 | 
+Samathethew, Knight of Summuzdiathew | 5 | @ | When ~ dies ~ gets +4/+4 until the end of your turn | !8 | #7 | 
+Temple Crypt | & | 2 | Each turn get 2 gold | #4 | 
+Snoddamdial, Warrior of Sammervam | 4 | @ | When you draw deal 1 to all structures | !8 | #7 | 
+Godless Crypt of Adaatheam | & | 5 | Each turn get 2 gold | #7 | 
+Blacksmith of Samuzdiadial | 4 | @ | When you build a structure build a structure | !4 | #2 | 
+Guzmervam, Barbarian of Matuzdiaam | 5 | @ | When you build a structure protect 2 structures until the end of your next turn | !9 | #8 | 
+Mason of Guzodgraam | 4 | @ | When ~ attacks gain a wood | !3 | #4 | 
+Farmer of Adaamudial | 4 | @ | When ~ attacks gain a crystal | !2 | #2 | 
+Watery Ground | & | 3 | Each turn get 2 crystal | #3 | 
+Matdamam, Blacksmith of Snoddamam | 5 | @ | When ~ defends build a structure and When you play ~ draw a card | !6 | #6 | 
+Blood Foundry of Snododgrauel | & | 5 | If you would attack do it twice instead | #9 | 
+Sacred Pool | & | 4 | If you would attack do it twice instead | #4 | 
+Forgotten Tomb | & | 2 | Your units get +2/+2 | #4 | 
+Overgrown Grave of Snoduzdiauel | & | 5 | If you would draw a card do it twice instead | #7 | 
+Hallowed Pool of Guzuzdiaam | & | 4 | Each turn get 2 wood | #7 | 
+Warrior of Guzamuuel | 2 | @ |  | !6 | #4 | 
+Temple Foundry | & | 3 | Each turn get 2 crystal | #2 | 
+Samdamdial, Artisan of Snodatheuel | 4 | @ | When you build a structure gain a crystal and When ~ attacks draw a card | !5 | #5 | 
+Guzodgrathew, Defender of Summdamam | 6 | @ | When you build a structure deal 1 to all structures | !9 | #9 | 
+Matuzdiaville, Architect of Adaamuthew | 4 | @ | When ~ dies draw a card and When ~ attacks gain a food | !6 | #6 | 
+Breeding Shrine | & | 3 | Each turn get 2 crystal | #2 | 
+Forgotten Castle of Matodgrauel | & | 6 | Each turn get 2 gold | #7 | 
+Stonecutter of Adaatheville | 4 | @ | When you draw build a structure | !4 | #4 | 
+Adamervthew, Artisan of Guzodgrauel | 6 | @ | When you demolish a structure gain a crystal and When you demolish a structure draw a card | !6 | #4 | 
+Godless Castle of Adaamudial | & | 4 | If you would attack do it twice instead | #7 | 
+Sacred Keep of Summodgragrass | & | 4 | Each turn get 2 wood | #8 | 
+Architect of Summatheuel | 4 | @ | When you demolish a structure build a structure | !4 | #3 | 
+Stomping Tomb of Adauzdiaville | & | 4 | Each turn get 2 gold | #7 | 
+Matuzdiagrass, Warrior of Summamuuel | 5 | @ | When ~ dies ~ gets +3/+3 until ~ dies | !8 | #8 | 
+Farmer of Samuzdiagrass | 4 | @ | When ~ dies draw a card | !2 | #3 | 
+Defender of Adamervam | 2 | @ |  | !6 | #6 | 
+Mason of Snododgradial | 2 | @ | When you draw gain a food | !2 | #3 | 
+Temple Keep | & | 2 | If you would build a structure do it twice instead | #4 | 
+Temple Tomb | & | 2 | Your units get +3/+3 | #3 | 
+Hallowed Keep | & | 3 | Your units get +2/+3 | #2 | 
+Adaodgraville, Mason of Snodatheam | 4 | @ | When you play ~ gain a iron and When you demolish a structure build a structure | !6 | #6 | 
+Snoddamthew, Farmer of Matmervville | 5 | @ | When ~ dies gain a food and When you play ~ gain a gold | !4 | #4 | 
+Samuzdiagrass, Blacksmith of Guzathethew | 6 | @ | When you demolish a structure draw a card and When ~ defends gain a wood | !6 | #6 | 
+Godless Garden of Samathegrass | & | 4 | If you would attack do it twice instead | #9 | 
+Snoduzdiathew, Defender of Matuzdiauel | 5 | @ | When ~ defends ~ gets +3/+2 until your next turn | !8 | #9 | 
+Watery Fountain of Guzodgrauel | & | 6 | Each turn get 2 food | #8 | 
+Stomping Garden of Summdamam | & | 5 | If you would draw a card do it twice instead | #9 | 
+Guzmervthew, Artisan of Samamuam | 4 | @ | When you play ~ build a structure and When you play ~ build a structure | !6 | #5 | 
+Defender of Snodathegrass | 2 | @ | When ~ dies deal 1 to a structure | !6 | #4 | 
+Defender of Adadamdial | 4 | @ |  | !8 | #5 | 
+Snodatheuel, Barbarian of Matodgrathew | 6 | @ | When you draw ~ gets +2/+2 until your next turn | !7 | #8 | 
+Steam Vents | & | 3 | Your units get +3/+3 | #4 | 
+Matathegrass, Blacksmith of Summuzdiagrass | 5 | @ | When ~ defends gain a wood and When ~ dies build a structure | !6 | #5 | 
+Stomping Crypt | & | 4 | Your units get +2/+3 | #4 | 
+Snodathethew, Defender of Snoduzdiagrass | 5 | @ | When you build a structure ~ gets +2/+4 until ~ dies | !7 | #8 | 
+Stomping Keep | & | 4 | Your units get +2/+4 | #3 | 
+Watery Pool of Summathegrass | & | 6 | Each turn get 2 iron | #9 | 
+Ranger of Matodgrathew | 3 | @ | When ~ attacks deal 1 to 2 structures | !4 | #3 | 
+Breeding Pool of Guzdamdial | & | 5 | Your units get +3/+3 | #8 | 
+Guzamuville, Warrior of Adadamuel | 5 | @ | When ~ dies protect all structures until the end of the game | !8 | #9 | 
+Adauzdiauel, Artisan of Summodgradial | 5 | @ | When you play ~ gain a gold and When you build a structure gain a iron | !4 | #6 | 
+Breeding Vents of Summdamthew | & | 4 | If you would draw a card do it twice instead | #9 | 
+Breeding Grave | & | 2 | If you would attack do it twice instead | #3 | 
+Temple Garden of Guzdamgrass | & | 5 | Your units get +3/+2 | #7 | 
+Summmervdial, Stonecutter of Adadamdial | 4 | @ | When you play ~ build a structure and When you play ~ gain a iron | !4 | #6 | 
+Ranger of Snoddamthew | 5 | @ |  | !8 | #4 | 
+Barbarian of Guzatheam | 6 | @ |  | !9 | #4 | 
+Guzdamville, Farmer of Matdamam | 6 | @ | When you build a structure draw a card and When you build a structure draw a card | !6 | #4 | 
+Temple Shrine | & | 2 | Each turn get 2 wood | #3 | 
+Overgrown Grave | & | 4 | If you would attack do it twice instead | #4 | 
+Blacksmith of Adadamthew | 2 | @ | When ~ dies draw a card | !4 | #2 | 
+Snoddamthew, Barbarian of Summathedial | 5 | @ | When ~ attacks protect all structures until the end of your turn | !8 | #7 | 
+Snodmervville, Ranger of Matamugrass | 6 | @ | When ~ attacks protect a structure until ~ attacks | !9 | #9 | 
+Knight of Adaatheam | 4 | @ |  | !5 | #6 | 
+Snoddamville, Stonecutter of Snododgrathew | 6 | @ | When you draw build a structure and When you play ~ draw a card | !4 | #5 | 
+Overgrown Shrine | & | 2 | Each turn get 2 wood | #4 | 
+Forgotten Vents of Guzodgrauel | & | 4 | Your units get +2/+4 | #7 | 
+Ranger of Adaodgrauel | 3 | @ | When you build a structure ~ gets +4/+4 until the end of the game | !6 | #4 | 
+Stomping Castle of Matuzdiadial | & | 5 | Each turn get 2 wood | #7 | 
+Summmervuel, Artisan of Summodgraam | 6 | @ | When you draw gain a iron and When ~ defends build a structure | !4 | #5 | 
+Warrior of Matdamville | 3 | @ | When you draw ~ gets +3/+2 until your next turn | !4 | #3 | 
+Barbarian of Sammervgrass | 6 | @ |  | !7 | #6 | 
+Godless Tomb of Snodmervdial | & | 4 | Your units get +3/+3 | #8 | 
+Snodmervam, Ranger of Summamuville | 6 | @ | When ~ defends deal 1 to all structures | !8 | #8 | 
+Architect of Summdamthew | 2 | @ | When ~ attacks build a structure | !2 | #4 | 
+Steam Shrine | & | 4 | Your units get +4/+4 | #2 | 
+Knight of Matmervuel | 2 | @ |  | !6 | #6 | 
+Summmervam, Knight of Summamuville | 4 | @ | When you draw ~ gets +2/+3 until ~ dies | !9 | #7 | 
+Barbarian of Samatheuel | 2 | @ |  | !5 | #4 | 
+Adaatheam, Defender of Samdamam | 5 | @ | When you play ~ ~ gets +3/+3 until ~ attacks | !9 | #8 | 
+Breeding Fountain of Summamugrass | & | 6 | Your units get +4/+2 | #7 | 
+Matuzdiagrass, Architect of Snodmervdial | 6 | @ | When you demolish a structure build a structure and When you play ~ draw a card | !6 | #4 | 
+Steam Tomb of Summuzdiauel | & | 6 | Your units get +2/+2 | #7 | 
+Steam Garden of Samatheam | & | 4 | Each turn get 2 food | #7 | 
+Stomping Vents of Summuzdiathew | & | 6 | Each turn get 2 wood | #9 | 
+Temple Foundry | & | 2 | If you would attack do it twice instead | #2 | 
+Guzdamam, Artisan of Snodatheville | 6 | @ | When you build a structure draw a card and When you draw draw a card | !5 | #4 | 
+Matuzdiauel, Mason of Snodamuuel | 5 | @ | When ~ defends draw a card and When you build a structure draw a card | !5 | #5 | 
+Forgotten Ground | & | 3 | Your units get +3/+4 | #2 | 
+Farmer of Guzdamuel | 3 | @ | When ~ dies draw a card | !3 | #2 | 
+Guzmervgrass, Defender of Adaodgradial | 6 | @ | When you build a structure ~ gets +2/+2 until ~ dies | !7 | #8 | 
+Overgrown Keep | & | 4 | Each turn get 2 food | #4 | 
+Watery Tomb of Adaathethew | & | 6 | Each turn get 2 iron | #8 | 
+Architect of Samuzdiaam | 4 | @ | When you demolish a structure build a structure | !3 | #2 | 
+Hallowed Tomb | & | 4 | Each turn get 2 crystal | #4 | 
+Snodmervthew, Mason of Adaamudial | 4 | @ | When you draw draw a card and When ~ defends gain a gold | !4 | #6 | 
+Watery Tomb of Guzodgraville | & | 5 | Your units get +3/+4 | #8 | 
+Ranger of Summuzdiauel | 4 | @ | When ~ attacks deal 1 to all structures | !6 | #3 | 
+Defender of Adaathedial | 4 | @ | When you draw deal 1 to 3 structures | !6 | #2 | 
+Stomping Pool of Snoduzdiadial | & | 4 | Each turn get 2 gold | #8 | 
+Watery Crypt | & | 4 | If you would build a structure do it twice instead | #3 | 
+Sacred Garden of Sammervdial | & | 4 | Each turn get 2 gold | #7 | 
+Summdamville, Barbarian of Samdamdial | 5 | @ | When ~ dies deal 1 to a structure | !9 | #7 | 
+Ranger of Matuzdiaam | 4 | @ |  | !7 | #5 | 
+Blood Tomb of Sammervam | & | 4 | If you would attack do it twice instead | #9 | 
+Knight of Summuzdiaville | 2 | @ | When you draw deal 1 to all structures | !6 | #3 | 
+Defender of Guzamuuel | 4 | @ | When you build a structure protect all structures until ~ attacks | !5 | #4 | 
+Steam Vents | & | 3 | Each turn get 2 food | #2 | 
+Blood Castle | & | 4 | Your units get +3/+3 | #4 | 
+Summatheville, Warrior of Guzamuville | 6 | @ | When ~ defends deal 1 to all structures | !7 | #9 | 
+Forgotten Fountain of Matuzdiauel | & | 6 | Your units get +4/+3 | #8 | 
+Artisan of Adauzdiauel | 4 | @ | When you play ~ draw a card | !3 | #2 | 
+Summdamdial, Architect of Guzodgradial | 5 | @ | When you draw draw a card and When ~ attacks draw a card | !6 | #6 | 
+Forgotten Shrine of Adaamuthew | & | 6 | Each turn get 2 iron | #9 | 
+Temple Fountain | & | 3 | Your units get +4/+2 | #2 | 
+Watery Tomb | & | 3 | If you would protect a structure do it twice instead | #2 | 
+Blacksmith of Matodgrauel | 2 | @ | When ~ dies build a structure | !2 | #4 | 
+Blacksmith of Matdamuel | 3 | @ | When you draw build a structure | !2 | #2 | 
+Sammervgrass, Stonecutter of Guzdamthew | 6 | @ | When ~ dies draw a card and When you build a structure build a structure | !5 | #4 | 
+Godless Garden of Snodatheuel | & | 6 | Your units get +3/+3 | #7 | 
+Godless Keep of Samatheuel | & | 5 | If you would build a structure do it twice instead | #8 | 
+Summatheam, Warrior of Snodmervdial | 4 | @ | When you build a structure ~ gets +2/+3 until ~ attacks | !8 | #7 | 
+Snoddamthew, Ranger of Sammervuel | 6 | @ | When you play ~ protect 2 structures until the end of your turn | !8 | #8 | 
+Breeding Grave of Snodamudial | & | 4 | Each turn get 2 food | #9 | 
+Artisan of Samuzdiagrass | 4 | @ | When you build a structure build a structure | !2 | #4 | 
+Blacksmith of Matamugrass | 2 | @ | When you play ~ gain a iron | !2 | #4 | 
+Stonecutter of Samamudial | 4 | @ | When ~ defends build a structure | !4 | #2 | 
+Godless Garden | & | 3 | Your units get +2/+4 | #2 | 
+Summuzdiaam, Ranger of Snododgradial | 5 | @ | When ~ defends protect 3 structures until ~ dies | !9 | #7 | 
+Snodamugrass, Blacksmith of Snoduzdiaam | 4 | @ | When you demolish a structure gain a iron and When you play ~ draw a card | !4 | #6 | 
+Matmervgrass, Architect of Adaatheam | 5 | @ | When you play ~ draw a card and When you play ~ gain a food | !6 | #4 | 
+Barbarian of Matmervam | 3 | @ |  | !6 | #5 | 
+Godless Fountain | & | 2 | If you would protect a structure do it twice instead | #2 | 
+Sacred Crypt | & | 2 | Each turn get 2 wood | #2 | 
+Forgotten Keep of Matodgradial | & | 4 | Your units get +3/+3 | #9 | 
+Farmer of Samatheuel | 2 | @ | When you build a structure draw a card | !4 | #2 | 
+Samamudial, Blacksmith of Summmervthew | 5 | @ | When ~ attacks draw a card and When ~ dies draw a card | !4 | #5 | 
+Samodgrauel, Architect of Adaamuam | 5 | @ | When ~ defends gain a crystal and When ~ dies gain a iron | !5 | #6 | 
+Knight of Snododgradial | 4 | @ |  | !8 | #6 | 
+Snodamuuel, Architect of Snodamuuel | 6 | @ | When you demolish a structure draw a card and When you build a structure build a structure | !5 | #4 | 
+Hallowed Fountain | & | 4 | Your units get +4/+3 | #4 | 
+Adaathedial, Defender of Snoduzdiathew | 6 | @ | When ~ attacks deal 1 to a structure | !9 | #9 | 
+Sacred Vents of Adaodgradial | & | 4 | Each turn get 2 iron | #9 | 
+Steam Garden of Snododgraam | & | 6 | Each turn get 2 food | #8 | 
+Hallowed Garden of Samodgraam | & | 5 | Each turn get 2 iron | #7 | 
+Breeding Grave of Summamuthew | & | 5 | If you would draw a card do it twice instead | #9 | 
+Summatheam, Barbarian of Sammervdial | 6 | @ | When ~ dies deal 1 to 3 structures | !7 | #7 | 
+Defender of Adaamuuel | 2 | @ |  | !4 | #5 | 
+Blood Shrine | & | 4 | Your units get +3/+3 | #2 | 
+Summuzdiaam, Warrior of Adaamuville | 4 | @ | When ~ attacks protect all structures until your next turn | !9 | #9 | 
+Barbarian of Guzuzdiauel | 4 | @ | When ~ attacks protect all structures until ~ dies | !6 | #4 | 
+Temple Pool | & | 3 | If you would build a structure do it twice instead | #2 | 
+Blood Castle of Adaodgraville | & | 4 | Your units get +3/+3 | #9 | 
+Overgrown Ground of Sammervdial | & | 6 | Your units get +4/+4 | #9 | 
+Mason of Adaathedial | 4 | @ | When you draw draw a card | !2 | #4 | 
+Summdamuel, Architect of Snodathethew | 4 | @ | When ~ attacks draw a card and When ~ attacks build a structure | !6 | #5 | 
+Snodathethew, Warrior of Matmervthew | 5 | @ | When you demolish a structure protect all structures until ~ attacks | !8 | #8 | 
+Warrior of Samdamdial | 3 | @ |  | !6 | #4 | 
+Overgrown Ground | & | 3 | Each turn get 2 gold | #2 | 
+Ranger of Adamervdial | 2 | @ |  | !5 | #5 | 
+Guzamuuel, Ranger of Summmervville | 5 | @ | When ~ defends ~ gets +4/+3 until your next turn | !8 | #8 | 
+Steam Crypt of Samdamville | & | 6 | Your units get +4/+3 | #7 | 
+Sacred Vents | & | 2 | Your units get +4/+3 | #4 | 
+Matdamuel, Barbarian of Summuzdiaville | 6 | @ | When you play ~ ~ gets +4/+3 until the end of your turn | !9 | #7 | 
+Mason of Summodgradial | 2 | @ | When you demolish a structure draw a card | !2 | #4 | 
+Samuzdiadial, Defender of Guzmervthew | 6 | @ | When you draw protect a structure until ~ attacks | !9 | #8 | 
+Snodathethew, Barbarian of Matodgragrass | 5 | @ | When you build a structure protect a structure until the end of your turn | !8 | #7 | 
+Matuzdiaville, Warrior of Matamuthew | 5 | @ | When you build a structure ~ gets +2/+4 until your next turn | !7 | #7 | 
+Adaodgrauel, Defender of Matodgrathew | 5 | @ | When you draw ~ gets +3/+4 until your next turn | !8 | #8 | 
+Matmervdial, Ranger of Adadamthew | 4 | @ | When ~ attacks ~ gets +2/+2 until your next turn | !7 | #8 | 
+Adauzdiaville, Architect of Adaamuthew | 4 | @ | When you build a structure gain a crystal and When ~ attacks gain a food | !4 | #6 | 
+Stonecutter of Snodmervam | 3 | @ | When you play ~ build a structure | !2 | #2 | 
+Summodgrathew, Ranger of Matdamdial | 5 | @ | When you demolish a structure protect 3 structures until the end of your turn | !7 | #8 | 
+Breeding Shrine of Matuzdiaville | & | 5 | Your units get +4/+4 | #8 | 
+Ranger of Matodgrauel | 5 | @ |  | !8 | #4 | 
+Adamervthew, Ranger of Adauzdiaville | 5 | @ | When you build a structure protect 3 structures until the end of your next turn | !9 | #9 | 
+Blood Vents | & | 2 | Your units get +3/+3 | #4 | 
+Hallowed Ground | & | 3 | If you would attack do it twice instead | #3 | 
+Knight of Matuzdiaville | 4 | @ | When ~ dies deal 1 to all structures | !4 | #4 | 
+Breeding Pool of Samamuville | & | 5 | If you would protect a structure do it twice instead | #9 | 
+Summuzdiaville, Farmer of Summodgrathew | 6 | @ | When you draw draw a card and When ~ attacks gain a food | !6 | #4 | 
+Overgrown Keep of Guzodgragrass | & | 6 | Your units get +4/+3 | #9 | 
+Overgrown Fountain | & | 2 | Each turn get 2 wood | #4 | 
+Stomping Grave of Snoduzdiagrass | & | 6 | If you would build a structure do it twice instead | #7 | 
+Blacksmith of Snoddamville | 2 | @ | When ~ dies gain a food | !2 | #3 | 
+Samathegrass, Defender of Summodgrauel | 5 | @ | When ~ attacks ~ gets +2/+2 until the end of your turn | !8 | #8 | 
+Watery Pool of Adadamthew | & | 4 | Your units get +2/+3 | #9 | 
+Stonecutter of Summuzdiauel | 3 | @ | When ~ attacks build a structure | !4 | #4 | 
+Summmervthew, Barbarian of Snoduzdiadial | 6 | @ | When you draw protect all structures until the end of your turn | !9 | #7 | 
+Summamuam, Architect of Adamervgrass | 6 | @ | When ~ attacks gain a wood and When you build a structure gain a food | !5 | #4 | 
+Summmervdial, Barbarian of Snododgradial | 5 | @ | When ~ dies deal 1 to a structure | !8 | #9 | 
+Snododgrauel, Mason of Samuzdiadial | 6 | @ | When ~ attacks draw a card and When you draw gain a wood | !4 | #4 | 
+Knight of Samatheuel | 4 | @ | When ~ attacks protect all structures until ~ dies | !6 | #2 | 
+Sacred Pool | & | 4 | Your units get +3/+2 | #4 | 
+Guzmervdial, Defender of Adauzdiaville | 5 | @ | When ~ defends protect all structures until your next turn | !7 | #7 | 
+Sacred Tomb | & | 2 | Your units get +3/+3 | #4 | 
+Mason of Matatheam | 4 | @ | When ~ dies gain a wood | !2 | #2 | 
+Samodgragrass, Barbarian of Matdamthew | 6 | @ | When you play ~ protect all structures until the end of your next turn | !7 | #9 | 
+Matatheam, Mason of Adaodgragrass | 4 | @ | When you demolish a structure draw a card and When ~ attacks gain a gold | !5 | #6 | 
+Ranger of Guzodgraam | 5 | @ |  | !8 | #6 | 
+Architect of Summamuuel | 4 | @ | When you demolish a structure build a structure | !4 | #4 | 
+Adaamuthew, Knight of Guzmervam | 6 | @ | When ~ attacks deal 1 to all structures | !9 | #7 | 
+Artisan of Guzamugrass | 2 | @ | When ~ attacks build a structure | !4 | #3 | 
+Ranger of Snodamuthew | 3 | @ |  | !6 | #6 | 
+Stonecutter of Adaodgraam | 4 | @ | When you draw gain a crystal | !2 | #2 | 
+Snodmervuel, Architect of Adaodgrathew | 5 | @ | When you demolish a structure draw a card and When ~ dies gain a crystal | !4 | #4 | 
+Blacksmith of Matuzdiagrass | 2 | @ | When you play ~ build a structure | !3 | #3 | 
+Godless Garden of Matuzdiadial | & | 5 | Your units get +3/+4 | #9 | 
+Artisan of Snodmervgrass | 3 | @ | When ~ dies build a structure | !2 | #4 | 
+Forgotten Tomb | & | 4 | Each turn get 2 wood | #4 | 
+Ranger of Adadamuel | 5 | @ |  | !9 | #4 | 
+Samdamgrass, Mason of Snoddamgrass | 4 | @ | When you build a structure gain a iron and When ~ defends build a structure | !4 | #5 | 
+Godless Keep | & | 4 | If you would attack do it twice instead | #3 | 
+Summdamville, Blacksmith of Samdamuel | 4 | @ | When you draw build a structure and When ~ dies draw a card | !4 | #6 | 
+Watery Pool of Samatheville | & | 5 | Each turn get 2 food | #9 | 
+Architect of Guzathegrass | 3 | @ | When ~ defends gain a gold | !4 | #4 | 
+Mason of Summamuam | 3 | @ | When you build a structure build a structure | !2 | #2 | 
+Godless Tomb | & | 2 | If you would draw a card do it twice instead | #2 | 
+Snodamuuel, Stonecutter of Samdamam | 5 | @ | When you build a structure gain a gold and When ~ dies build a structure | !4 | #4 | 
+Samdamdial, Mason of Samuzdiaville | 5 | @ | When you demolish a structure gain a gold and When you demolish a structure draw a card | !4 | #4 | 
+Godless Vents | & | 4 | Your units get +4/+2 | #2 | 
+Blood Keep | & | 3 | If you would draw a card do it twice instead | #2 | 
+Summamuville, Architect of Samuzdiaville | 6 | @ | When you draw draw a card and When ~ dies draw a card | !6 | #5 | 
+Hallowed Keep | & | 2 | If you would build a structure do it twice instead | #3 | 
+Artisan of Snododgragrass | 4 | @ | When you play ~ gain a gold | !3 | #2 | 
+Guzuzdiagrass, Farmer of Guzamuam | 4 | @ | When ~ attacks build a structure and When ~ defends draw a card | !5 | #5 | 
+Stomping Shrine of Summdamdial | & | 5 | If you would protect a structure do it twice instead | #7 | 
+Adaodgrathew, Knight of Samdamthew | 6 | @ | When ~ dies deal 1 to 3 structures | !9 | #9 | 
+Guzuzdiathew, Defender of Matamuam | 4 | @ | When ~ dies protect all structures until your next turn | !7 | #7 | 
+Hallowed Shrine of Samuzdiaville | & | 6 | Your units get +4/+3 | #9 | 
+Hallowed Pool of Guzamuam | & | 5 | If you would draw a card do it twice instead | #8 | 
+Steam Pool of Samuzdiagrass | & | 4 | Each turn get 2 wood | #9 | 
+Forgotten Crypt of Matdamgrass | & | 4 | If you would attack do it twice instead | #9 | 
+Summathegrass, Ranger of Matatheville | 6 | @ | When you draw protect a structure until the end of the game | !9 | #7 | 
+Summodgragrass, Artisan of Snodmervville | 4 | @ | When ~ attacks draw a card and When you play ~ gain a crystal | !4 | #6 | 
+Snodmervdial, Knight of Adaatheuel | 6 | @ | When ~ dies deal 1 to all structures | !9 | #8 | 
+Matdamdial, Blacksmith of Snodatheuel | 5 | @ | When ~ dies gain a food and When ~ defends draw a card | !5 | #5 | 
+Artisan of Matuzdiaville | 2 | @ | When ~ attacks draw a card | !3 | #2 | 
+Temple Fountain | & | 3 | Your units get +2/+4 | #4 | 
+Defender of Snodathethew | 4 | @ | When you demolish a structure deal 1 to a structure | !6 | #3 | 
+Ranger of Summodgraam | 3 | @ |  | !6 | #6 | 
+Breeding Castle | & | 3 | If you would build a structure do it twice instead | #4 | 
+Warrior of Summamugrass | 4 | @ |  | !6 | #4 | 
+Forgotten Ground | & | 4 | Your units get +3/+4 | #3 | 
+Warrior of Summdamdial | 4 | @ | When ~ dies deal 1 to all structures | !6 | #2 | 
+Overgrown Crypt | & | 4 | If you would build a structure do it twice instead | #4 | 
+Steam Pool | & | 4 | If you would build a structure do it twice instead | #4 | 
+Snodamuam, Mason of Samuzdiaville | 5 | @ | When ~ defends build a structure and When ~ attacks gain a iron | !6 | #4 | 
+Overgrown Foundry of Matodgrauel | & | 5 | Each turn get 2 gold | #7 | 
+Mason of Summathethew | 3 | @ | When ~ dies gain a iron | !2 | #2 | 
+Watery Vents | & | 2 | Your units get +4/+4 | #4 | 
+Snoduzdiathew, Blacksmith of Guzathedial | 6 | @ | When ~ attacks gain a food and When ~ defends gain a gold | !4 | #6 | 
+Ranger of Matmervuel | 4 | @ | When you demolish a structure deal 1 to all structures | !5 | #2 | 
+Samodgraam, Mason of Adauzdiathew | 5 | @ | When you build a structure build a structure and When you draw build a structure | !4 | #4 | 
+Godless Castle | & | 2 | Your units get +3/+3 | #3 | 
+Samatheuel, Farmer of Adaamuthew | 4 | @ | When ~ attacks draw a card and When you draw gain a wood | !6 | #4 | 
+Overgrown Foundry of Samdamuel | & | 4 | Your units get +3/+4 | #9 | 
+Overgrown Tomb | & | 4 | Your units get +4/+3 | #4 | 
+Blacksmith of Matodgraville | 4 | @ | When you build a structure gain a iron | !4 | #2 | 
+Breeding Shrine of Guzmervuel | & | 5 | Each turn get 2 iron | #7 | 
+Overgrown Keep | & | 4 | Each turn get 2 food | #2 | 
+Blacksmith of Matodgraam | 2 | @ | When you play ~ build a structure | !4 | #3 | 
+Mason of Snodamuam | 3 | @ | When you demolish a structure draw a card | !4 | #3 | 
+Defender of Samodgraam | 4 | @ | When ~ attacks protect a structure until the end of your next turn | !6 | #2 | 
+Steam Vents of Matuzdiauel | & | 4 | If you would protect a structure do it twice instead | #7 | 
+Blacksmith of Adadamthew | 2 | @ | When ~ dies draw a card | !2 | #3 | 
+Warrior of Matmervgrass | 2 | @ |  | !6 | #4 | 
+Matamudial, Stonecutter of Summamuam | 4 | @ | When ~ dies draw a card and When you demolish a structure build a structure | !6 | #6 | 
+Blood Pool of Matdamthew | & | 5 | If you would protect a structure do it twice instead | #8 | 
+Godless Castle of Adaathedial | & | 4 | If you would build a structure do it twice instead | #9 | 
+Overgrown Garden | & | 2 | Your units get +2/+3 | #4 | 
+Forgotten Fountain | & | 3 | Each turn get 2 crystal | #4 | 
+Warrior of Snododgrathew | 4 | @ |  | !4 | #5 | 
+Steam Foundry of Summamuville | & | 6 | Each turn get 2 wood | #7 | 
+Mason of Samodgrauel | 4 | @ | When ~ defends gain a wood | !2 | #4 | 
+Samatheam, Mason of Guzmervthew | 4 | @ | When ~ defends draw a card and When ~ defends draw a card | !6 | #5 | 
+Sacred Castle of Snodmervgrass | & | 4 | If you would attack do it twice instead | #8 | 
+Stomping Foundry of Sammervuel | & | 4 | If you would protect a structure do it twice instead | #9 | 
+Overgrown Castle | & | 2 | Each turn get 2 iron | #4 | 
+Stonecutter of Samuzdiauel | 4 | @ | When you build a structure draw a card | !3 | #4 | 
+Warrior of Adaodgraville | 2 | @ | When you build a structure ~ gets +2/+2 until the end of your next turn | !6 | #2 | 
+Blacksmith of Summamuville | 4 | @ | When ~ attacks build a structure | !3 | #4 | 
+Temple Tomb | & | 4 | If you would build a structure do it twice instead | #4 | 
+Forgotten Keep of Summodgradial | & | 6 | Each turn get 2 crystal | #8 | 
+Sacred Shrine of Summmervuel | & | 6 | If you would protect a structure do it twice instead | #8 | 
+Samodgradial, Mason of Samuzdiauel | 4 | @ | When you demolish a structure gain a food and When you build a structure draw a card | !5 | #4 | 
+Barbarian of Snodathegrass | 5 | @ |  | !9 | #5 | 
+Sammervdial, Architect of Guzamuam | 6 | @ | When ~ attacks build a structure and When ~ attacks gain a wood | !4 | #4 | 
+Watery Vents of Snoduzdiaam | & | 4 | If you would draw a card do it twice instead | #7 | 
+Sacred Pool of Matamuthew | & | 6 | Your units get +4/+4 | #9 | 
+Sacred Ground | & | 3 | If you would attack do it twice instead | #2 | 
+Watery Shrine of Snoddamthew | & | 6 | Each turn get 2 wood | #9 | 
+Blood Crypt of Summdamgrass | & | 4 | Each turn get 2 iron | #9 | 
+Warrior of Matmervthew | 4 | @ |  | !9 | #5 | 
+Samuzdiadial, Architect of Guzodgrathew | 5 | @ | When ~ dies gain a food and When ~ defends build a structure | !4 | #4 | 
+Matuzdiadial, Mason of Snodathegrass | 5 | @ | When ~ attacks draw a card and When you draw build a structure | !4 | #4 | 
+Forgotten Grave of Guzdamam | & | 5 | Your units get +4/+3 | #7 | 
+Artisan of Adadamam | 3 | @ | When ~ defends build a structure | !4 | #3 | 
+Godless Castle of Summdamuel | & | 6 | Each turn get 2 food | #9 | 
+Overgrown Tomb | & | 4 | Each turn get 2 crystal | #2 | 
+Temple Tomb | & | 2 | If you would attack do it twice instead | #2 | 
+Steam Tomb | & | 4 | Each turn get 2 crystal | #3 | 
+Watery Grave of Samathedial | & | 5 | Each turn get 2 crystal | #8 | 
+Blacksmith of Sammervuel | 2 | @ | When you draw gain a food | !2 | #2 | 
+Matamuville, Ranger of Summodgradial | 4 | @ | When you demolish a structure deal 1 to all structures | !8 | #8 | 
+Hallowed Ground | & | 2 | If you would protect a structure do it twice instead | #3 | 
+Temple Tomb | & | 2 | Each turn get 2 wood | #3 | 
+Barbarian of Matodgraville | 4 | @ | When you draw deal 1 to all structures | !6 | #4 | 
+Blood Vents of Summuzdiadial | & | 5 | Each turn get 2 crystal | #7 | 
+Barbarian of Guzdamuel | 5 | @ |  | !7 | #5 | 
+Ranger of Matathedial | 4 | @ |  | !4 | #5 | 
+Forgotten Grave of Summuzdiadial | & | 6 | If you would build a structure do it twice instead | #7 | 
+Barbarian of Samuzdiadial | 4 | @ |  | !8 | #4 | 
+Godless Crypt | & | 4 | If you would build a structure do it twice instead | #4 | 
+Overgrown Grave | & | 2 | Each turn get 2 iron | #2 | 
+Samamudial, Knight of Snododgradial | 6 | @ | When you play ~ deal 1 to 3 structures | !7 | #7 | 
+Summodgrathew, Architect of Matmervville | 4 | @ | When you play ~ draw a card and When ~ attacks draw a card | !6 | #5 | 
+Samuzdiathew, Artisan of Sammervdial | 4 | @ | When you demolish a structure build a structure and When ~ attacks gain a food | !5 | #5 | 
+Farmer of Snodmervdial | 2 | @ | When you build a structure draw a card | !2 | #3 | 
+Temple Vents | & | 4 | Each turn get 2 food | #3 | 
+Blood Vents of Matamuam | & | 4 | If you would build a structure do it twice instead | #9 | 
+Warrior of Matuzdiaam | 5 | @ |  | !7 | #5 | 
+Knight of Samuzdiagrass | 5 | @ |  | !7 | #5 | 
+Sacred Grave of Guzmervuel | & | 4 | If you would protect a structure do it twice instead | #8 | 
+Hallowed Foundry of Snododgrauel | & | 6 | Each turn get 2 wood | #9 | 
+Guzamudial, Mason of Summmervgrass | 5 | @ | When you play ~ gain a iron and When you play ~ build a structure | !4 | #5 | 
+Breeding Foundry of Guzatheuel | & | 6 | Your units get +3/+2 | #9 | 
+Samamuam, Ranger of Adaodgraam | 5 | @ | When ~ defends deal 1 to all structures | !8 | #7 | 
+Hallowed Foundry of Summdamthew | & | 6 | Your units get +2/+4 | #9 | 
+Watery Castle of Snodamuthew | & | 6 | If you would attack do it twice instead | #8 | 
+Ranger of Adadamdial | 4 | @ | When you play ~ ~ gets +3/+4 until ~ attacks | !5 | #4 | 
+Samamuthew, Farmer of Adaathethew | 5 | @ | When ~ defends gain a wood and When ~ attacks gain a wood | !6 | #5 | 
+Farmer of Adadamthew | 4 | @ | When you demolish a structure build a structure | !3 | #3 | 
+Architect of Summathethew | 3 | @ | When you draw draw a card | !4 | #4 | 
+Blood Foundry | & | 2 | Each turn get 2 iron | #2 | 
+Snoddamdial, Mason of Snodathethew | 4 | @ | When ~ dies build a structure and When you build a structure gain a gold | !4 | #4 | 
+Breeding Tomb of Adamervam | & | 6 | Each turn get 2 food | #8 | 
+Matdamam, Knight of Summmervville | 4 | @ | When ~ attacks ~ gets +3/+4 until your next turn | !7 | #8 | 
+Overgrown Keep | & | 2 | If you would protect a structure do it twice instead | #3 | 
+Samatheville, Barbarian of Snododgrauel | 6 | @ | When ~ dies ~ gets +2/+4 until the end of your next turn | !9 | #7 | 
+Matdamthew, Barbarian of Guzathethew | 5 | @ | When ~ attacks protect 4 structures until ~ dies | !8 | #8 | 
+Ranger of Samodgraam | 4 | @ |  | !7 | #5 | 
+Blacksmith of Guzodgraam | 4 | @ | When you draw gain a gold | !4 | #3 | 
+Knight of Snododgradial | 3 | @ |  | !4 | #6 | 
+Steam Pool of Adaamuville | & | 6 | Your units get +2/+2 | #9 | 
+Guzmervthew, Architect of Guzamugrass | 6 | @ | When ~ attacks gain a wood and When you build a structure gain a crystal | !5 | #4 | 
+Breeding Crypt of Summamuthew | & | 5 | Each turn get 2 gold | #7 | 
+Matodgragrass, Defender of Adamervuel | 5 | @ | When you play ~ ~ gets +3/+3 until ~ dies | !8 | #7 | 
+Stonecutter of Snodmervthew | 3 | @ | When ~ attacks build a structure | !4 | #3 | 
+Warrior of Matatheam | 2 | @ | When ~ dies protect 2 structures until ~ attacks | !5 | #2 | 
+Samodgradial, Mason of Summamugrass | 4 | @ | When ~ defends build a structure and When you play ~ build a structure | !5 | #5 | 
+Snododgraville, Barbarian of Matathethew | 6 | @ | When you build a structure ~ gets +4/+4 until your next turn | !7 | #9 | 
+Sacred Ground of Snoddamgrass | & | 5 | Your units get +3/+4 | #9 | 
+Stomping Castle | & | 3 | Each turn get 2 gold | #2 | 
+Forgotten Shrine of Matatheville | & | 5 | Each turn get 2 wood | #7 | 
+Breeding Garden of Matodgradial | & | 4 | If you would attack do it twice instead | #8 | 
+Hallowed Grave | & | 4 | If you would build a structure do it twice instead | #3 | 
+Overgrown Tomb of Guzdamgrass | & | 5 | If you would build a structure do it twice instead | #9 | 
+Adadamthew, Mason of Summmervgrass | 4 | @ | When ~ attacks draw a card and When you build a structure draw a card | !6 | #5 | 
+Architect of Adaatheuel | 2 | @ | When ~ dies build a structure | !2 | #3 | 
+Stonecutter of Guzdamdial | 3 | @ | When you demolish a structure draw a card | !3 | #3 | 
+Guzdamville, Farmer of Matamuam | 5 | @ | When you demolish a structure gain a crystal and When you draw gain a gold | !4 | #6 | 
+Blood Shrine of Guzuzdiauel | & | 4 | Your units get +3/+4 | #7 | 
+Watery Garden of Samathegrass | & | 5 | Your units get +2/+3 | #8 | 
+Warrior of Matuzdiadial | 4 | @ |  | !7 | #4 | 
+Summamuuel, Warrior of Samodgraville | 5 | @ | When you play ~ deal 1 to a structure | !7 | #8 | 
+Blood Pool of Adaathethew | & | 5 | If you would protect a structure do it twice instead | #9 | 
+Farmer of Samuzdiagrass | 3 | @ | When you build a structure draw a card | !3 | #4 | 
+Overgrown Tomb of Samuzdiaville | & | 6 | Your units get +3/+2 | #9 | 
+Sacred Grave | & | 3 | Your units get +2/+3 | #3 | 
+Hallowed Ground | & | 3 | If you would attack do it twice instead | #2 | 
+Temple Crypt | & | 2 | If you would draw a card do it twice instead | #4 | 
+Samamuville, Artisan of Summmervam | 4 | @ | When you demolish a structure build a structure and When you build a structure build a structure | !6 | #6 | 
+Matuzdiauel, Barbarian of Summuzdiadial | 6 | @ | When ~ attacks ~ gets +4/+2 until your next turn | !8 | #7 | 
+Forgotten Keep | & | 2 | Each turn get 2 crystal | #2 | 
+Blood Fountain | & | 4 | Each turn get 2 food | #3 | 
+Breeding Garden of Sammervdial | & | 5 | Each turn get 2 gold | #9 | 
+Samuzdiauel, Defender of Guzamuville | 5 | @ | When you demolish a structure protect all structures until the end of your turn | !9 | #7 | 
+Godless Foundry | & | 4 | Each turn get 2 wood | #2 | 
+Overgrown Pool of Matathethew | & | 5 | Your units get +4/+2 | #8 | 
+Stomping Shrine | & | 3 | If you would attack do it twice instead | #3 | 
+Stonecutter of Guzmervam | 2 | @ | When ~ attacks gain a iron | !2 | #2 | 
+Steam Foundry | & | 2 | Your units get +3/+3 | #3 | 
+Adaamuam, Farmer of Snododgraam | 4 | @ | When ~ attacks build a structure and When you build a structure draw a card | !5 | #4 | 
+Hallowed Tomb | & | 4 | Your units get +4/+4 | #4 | 
+Defender of Matmervam | 4 | @ |  | !9 | #6 | 
+Ranger of Summodgraam | 4 | @ |  | !9 | #4 | 
+Summuzdiathew, Barbarian of Summuzdiagrass | 5 | @ | When you build a structure protect all structures until ~ dies | !9 | #7 | 
+Forgotten Garden of Summodgraville | & | 6 | Each turn get 2 iron | #7 | 
+Adaatheam, Stonecutter of Snodmervam | 4 | @ | When you play ~ draw a card and When ~ defends build a structure | !4 | #5 | 
+Guzmervdial, Barbarian of Summamugrass | 6 | @ | When ~ dies protect a structure until the end of your turn | !9 | #9 | 
+Mason of Summmervville | 4 | @ | When you build a structure draw a card | !3 | #4 | 
+Adaodgrathew, Barbarian of Adamervuel | 6 | @ | When ~ dies protect all structures until ~ attacks | !7 | #8 | 
+Temple Crypt | & | 3 | Your units get +2/+2 | #4 | 
+Knight of Matdamville | 4 | @ |  | !4 | #4 | 
+Ranger of Samamuthew | 2 | @ | When you demolish a structure protect all structures until ~ dies | !5 | #3 | 
+Adaodgrathew, Ranger of Guzodgradial | 5 | @ | When you play ~ ~ gets +3/+4 until the end of your next turn | !7 | #9 | 
+Breeding Foundry of Summuzdiaville | & | 4 | Your units get +3/+2 | #9 | 
+Stomping Foundry | & | 2 | If you would draw a card do it twice instead | #2 | 
+Architect of Summamuthew | 4 | @ | When you demolish a structure draw a card | !3 | #3 | 
+Godless Vents | & | 4 | If you would build a structure do it twice instead | #2 | 
+Matamuville, Knight of Adaamudial | 4 | @ | When ~ defends ~ gets +2/+2 until ~ attacks | !9 | #7 | 
+Guzdamville, Artisan of Guzuzdiaville | 4 | @ | When you demolish a structure draw a card and When you build a structure build a structure | !5 | #4 | 
+Adauzdiaam, Barbarian of Matdamthew | 5 | @ | When you demolish a structure deal 1 to all structures | !8 | #7 | 
+Adadamuel, Knight of Matodgrathew | 4 | @ | When you build a structure ~ gets +2/+4 until your next turn | !8 | #9 | 
+Matuzdiagrass, Stonecutter of Guzdamam | 4 | @ | When you play ~ gain a crystal and When ~ attacks build a structure | !6 | #4 | 
+Godless Vents | & | 3 | Each turn get 2 iron | #4 | 
+Forgotten Foundry | & | 4 | Your units get +4/+4 | #4 | 
+Defender of Summmervdial | 6 | @ |  | !9 | #5 | 
+Stomping Fountain of Snoduzdiathew | & | 4 | Your units get +2/+2 | #7 | 
+Guzdamuel, Barbarian of Matuzdiauel | 6 | @ | When you demolish a structure deal 1 to all structures | !9 | #9 | 
+Hallowed Tomb | & | 4 | Your units get +2/+4 | #4 | 
+Blood Garden of Matmervam | & | 6 | Each turn get 2 gold | #8 | 
+Barbarian of Guzamugrass | 2 | @ | When you build a structure deal 1 to a structure | !6 | #3 | 
+Mason of Guzuzdiaam | 2 | @ | When you demolish a structure gain a iron | !2 | #4 | 
+Overgrown Tomb of Snodamugrass | & | 5 | If you would build a structure do it twice instead | #8 | 
+Adaamudial, Defender of Summmervuel | 4 | @ | When you demolish a structure protect 4 structures until ~ dies | !9 | #9 | 
+Stomping Tomb | & | 2 | Each turn get 2 wood | #2 | 
+Summuzdiathew, Barbarian of Matmervville | 4 | @ | When you build a structure ~ gets +4/+4 until the end of the game | !7 | #7 | 
+Watery Garden of Samamuuel | & | 4 | Your units get +4/+4 | #8 | 
+Knight of Samamuuel | 5 | @ |  | !9 | #6 | 
+Steam Pool | & | 3 | Each turn get 2 crystal | #4 | 
+Warrior of Snodamudial | 5 | @ |  | !8 | #6 | 
+Ranger of Guzamuville | 4 | @ | When you draw deal 1 to a structure | !5 | #3 | 
+Steam Keep of Samuzdiaam | & | 6 | Your units get +4/+2 | #9 | 
+Matmervthew, Architect of Sammervville | 6 | @ | When you demolish a structure gain a crystal and When you play ~ gain a wood | !5 | #6 | 
+Barbarian of Summatheam | 3 | @ | When you build a structure protect 4 structures until your next turn | !4 | #4 | 
+Stomping Ground of Matmervville | & | 5 | If you would attack do it twice instead | #7 | 
+Guzmervdial, Warrior of Summmervdial | 4 | @ | When you draw ~ gets +4/+2 until ~ dies | !7 | #7 | 
+Watery Keep of Snodmervdial | & | 5 | Each turn get 2 wood | #8 | 
+Blood Fountain | & | 3 | Each turn get 2 food | #2 | 
+Architect of Summmervuel | 4 | @ | When you play ~ draw a card | !2 | #2 | 
+Stonecutter of Summmervville | 2 | @ | When ~ defends gain a food | !2 | #4 | 
+Knight of Summamuville | 4 | @ |  | !7 | #5 | 
+Overgrown Ground of Adauzdiauel | & | 6 | Your units get +3/+4 | #7 | 
+Godless Tomb of Guzdamam | & | 5 | Each turn get 2 gold | #8 | 
+Stonecutter of Samathegrass | 3 | @ | When you build a structure build a structure | !2 | #4 | 
+Snoddamam, Barbarian of Adamervthew | 4 | @ | When you build a structure protect 3 structures until ~ attacks | !9 | #8 | 
+Hallowed Pool of Snoddamam | & | 6 | Each turn get 2 food | #8 | 
+Barbarian of Matuzdiagrass | 4 | @ |  | !9 | #5 | 
+Matuzdiadial, Barbarian of Samdamdial | 5 | @ | When ~ defends deal 1 to all structures | !9 | #8 | 
+Architect of Summodgraville | 2 | @ | When ~ defends build a structure | !3 | #2 | 
+Forgotten Keep | & | 4 | Your units get +3/+4 | #2 | 
+Sacred Vents of Summmervdial | & | 4 | Each turn get 2 wood | #9 | 
+Artisan of Snoduzdiagrass | 4 | @ | When ~ attacks build a structure | !4 | #3 | 
+Farmer of Summatheuel | 3 | @ | When ~ defends gain a food | !3 | #4 | 
+Hallowed Garden | & | 4 | If you would protect a structure do it twice instead | #4 | 
+Mason of Samodgradial | 3 | @ | When you play ~ build a structure | !4 | #3 | 
+Watery Tomb of Matodgragrass | & | 6 | Your units get +2/+4 | #7 | 
+Godless Fountain | & | 2 | If you would build a structure do it twice instead | #2 | 
+Blacksmith of Matmervdial | 2 | @ | When ~ defends gain a iron | !4 | #4 | 
+Guzdamam, Artisan of Summathegrass | 6 | @ | When you demolish a structure gain a gold and When ~ defends build a structure | !6 | #6 | 
+Godless Garden of Guzuzdiauel | & | 4 | Each turn get 2 food | #8 | 
+Stomping Tomb of Sammervville | & | 4 | Each turn get 2 crystal | #9 | 
+Mason of Sammervville | 2 | @ | When you play ~ draw a card | !2 | #3 | 
+Barbarian of Samodgraville | 2 | @ | When ~ dies ~ gets +2/+2 until ~ attacks | !4 | #2 | 
+Breeding Keep of Adaodgrathew | & | 6 | Each turn get 2 crystal | #8 | 
+Blood Shrine of Summuzdiathew | & | 4 | If you would attack do it twice instead | #9 | 
+Matuzdiagrass, Knight of Matmervam | 5 | @ | When you demolish a structure protect 2 structures until ~ dies | !8 | #9 | 
+Hallowed Garden | & | 2 | Your units get +4/+4 | #4 | 
+Knight of Sammervgrass | 4 | @ |  | !8 | #4 | 
+Adamervthew, Blacksmith of Summatheuel | 4 | @ | When ~ attacks draw a card and When ~ defends gain a wood | !5 | #6 | 
+Overgrown Garden | & | 3 | Each turn get 2 iron | #2 | 
+Mason of Snodathedial | 3 | @ | When ~ defends draw a card | !2 | #4 | 
+Temple Foundry of Matuzdiaam | & | 6 | Each turn get 2 food | #7 | 
+Stomping Fountain | & | 2 | If you would attack do it twice instead | #2 | 
+Warrior of Adaodgragrass | 4 | @ |  | !9 | #4 | 
+Stomping Garden of Summathethew | & | 5 | Your units get +3/+4 | #8 | 
+Sacred Foundry | & | 4 | Each turn get 2 crystal | #4 | 
+Samathedial, Mason of Snoddamgrass | 4 | @ | When you build a structure draw a card and When you build a structure gain a iron | !6 | #4 | 
+Ranger of Guzdamgrass | 4 | @ | When ~ defends ~ gets +4/+2 until ~ attacks | !5 | #2 | 
+Blood Ground | & | 4 | If you would attack do it twice instead | #2 | 
+Steam Fountain of Guzuzdiaville | & | 4 | Each turn get 2 gold | #9 | 
+Architect of Summuzdiagrass | 2 | @ | When ~ attacks gain a food | !4 | #2 | 
+Godless Fountain | & | 4 | Each turn get 2 iron | #4 | 
+Blood Ground of Summuzdiadial | & | 6 | If you would protect a structure do it twice instead | #8 | 
+Matodgrathew, Stonecutter of Matuzdiaville | 5 | @ | When you draw build a structure and When ~ defends draw a card | !5 | #4 | 
+Blood Keep of Adaatheuel | & | 6 | Your units get +4/+4 | #8 | 
+Architect of Summatheuel | 3 | @ | When you demolish a structure draw a card | !4 | #3 | 
+Defender of Samuzdiathew | 6 | @ |  | !9 | #5 | 
+Forgotten Garden of Summmervville | & | 6 | If you would protect a structure do it twice instead | #8 | 
+Sacred Crypt of Adaatheuel | & | 4 | Your units get +4/+2 | #7 | 
+Snoddamgrass, Architect of Adaathedial | 4 | @ | When you build a structure build a structure and When you build a structure build a structure | !4 | #4 | 
+Guzamugrass, Warrior of Matmervdial | 4 | @ | When ~ defends ~ gets +4/+2 until the end of your next turn | !9 | #7 | 
+Architect of Snoduzdiadial | 2 | @ | When you draw draw a card | !4 | #3 | 
+Steam Tomb | & | 3 | Your units get +3/+4 | #4 | 
+Blood Tomb of Sammervdial | & | 6 | Your units get +3/+2 | #7 | 
+Samuzdiathew, Warrior of Snodamuville | 5 | @ | When ~ dies ~ gets +3/+2 until the end of your turn | !9 | #9 | 
+Forgotten Grave | & | 4 | If you would draw a card do it twice instead | #4 | 
+Watery Shrine | & | 4 | If you would attack do it twice instead | #2 | 
+Farmer of Guzuzdiathew | 4 | @ | When ~ attacks draw a card | !3 | #3 | 
+Forgotten Ground of Guzdamthew | & | 5 | Your units get +3/+2 | #9 | 
+Steam Garden of Adamervuel | & | 6 | Your units get +3/+4 | #8 | 
+Architect of Guzmervthew | 3 | @ | When you play ~ draw a card | !2 | #4 | 
+Barbarian of Adaamuthew | 4 | @ |  | !7 | #4 | 
+Hallowed Fountain of Summamudial | & | 5 | If you would protect a structure do it twice instead | #7 | 
+Artisan of Matdamthew | 2 | @ | When you demolish a structure build a structure | !3 | #3 | 
+Temple Pool of Guzmervgrass | & | 5 | If you would protect a structure do it twice instead | #7 | 
+Steam Fountain | & | 4 | Each turn get 2 wood | #4 | 
+Blacksmith of Matathethew | 4 | @ | When you build a structure gain a gold | !2 | #4 | 
+Mason of Samodgragrass | 3 | @ | When ~ defends draw a card | !3 | #2 | 
+Overgrown Pool of Samodgrathew | & | 6 | Your units get +2/+2 | #8 | 
+Breeding Fountain of Adadamam | & | 5 | If you would build a structure do it twice instead | #8 | 
+Guzathethew, Barbarian of Guzdamuel | 6 | @ | When you build a structure ~ gets +4/+2 until the end of the game | !9 | #8 | 
+Mason of Matodgrauel | 2 | @ | When you demolish a structure draw a card | !2 | #2 | 
+Guzmervdial, Defender of Snoduzdiathew | 5 | @ | When you demolish a structure ~ gets +3/+3 until ~ dies | !9 | #9 | 
+Guzuzdiadial, Ranger of Summuzdiathew | 6 | @ | When ~ dies protect all structures until the end of the game | !9 | #7 | 
+Summuzdiathew, Blacksmith of Samamuam | 6 | @ | When you draw gain a wood and When you draw gain a iron | !4 | #5 | 
+Summodgraam, Knight of Adamervdial | 6 | @ | When you play ~ deal 1 to a structure | !9 | #9 | 
+Adamervdial, Warrior of Guzuzdiauel | 6 | @ | When ~ attacks protect a structure until the end of your next turn | !7 | #8 | 
+Godless Garden | & | 2 | If you would attack do it twice instead | #2 | 
+Forgotten Foundry | & | 2 | Each turn get 2 food | #4 | 
+Farmer of Guzmervam | 4 | @ | When you play ~ build a structure | !2 | #4 | 
+Adaatheville, Architect of Guzmervdial | 5 | @ | When you draw draw a card and When you draw build a structure | !5 | #4 | 
+Forgotten Ground | & | 2 | Each turn get 2 food | #4 | 
+Steam Shrine | & | 2 | Your units get +3/+3 | #4 | 
+Forgotten Ground of Adamervdial | & | 5 | If you would build a structure do it twice instead | #8 | 
+Overgrown Tomb of Samodgrathew | & | 4 | Each turn get 2 wood | #7 | 
+Breeding Fountain of Summamuville | & | 6 | If you would build a structure do it twice instead | #8 | 
+Matodgragrass, Farmer of Guzodgragrass | 5 | @ | When you play ~ build a structure and When ~ dies gain a food | !5 | #6 | 
+Godless Castle of Summdamdial | & | 6 | Each turn get 2 gold | #7 | 
+Warrior of Matatheam | 5 | @ |  | !9 | #4 | 
+Godless Garden of Snoddamgrass | & | 6 | If you would draw a card do it twice instead | #7 | 
+Matmervville, Mason of Samuzdiathew | 4 | @ | When you play ~ build a structure and When ~ dies build a structure | !6 | #5 | 
+Hallowed Crypt | & | 4 | Each turn get 2 food | #4 | 
+Summuzdiadial, Blacksmith of Summmervthew | 4 | @ | When you build a structure gain a food and When you build a structure draw a card | !6 | #4 | 
+Breeding Tomb | & | 3 | Each turn get 2 gold | #2 | 
+Watery Pool | & | 3 | Each turn get 2 wood | #3 | 
+Stomping Grave | & | 4 | Your units get +2/+2 | #4 | 
+Mason of Snodamugrass | 4 | @ | When you demolish a structure gain a iron | !4 | #4 | 
+Steam Keep of Guzodgradial | & | 4 | If you would draw a card do it twice instead | #8 | 
+Watery Pool of Matmervuel | & | 4 | Each turn get 2 crystal | #9 | 
+Knight of Samuzdiaville | 4 | @ |  | !9 | #6 | 
+Warrior of Adaamuuel | 4 | @ |  | !8 | #4 | 
+Samodgraam, Warrior of Adauzdiauel | 4 | @ | When ~ attacks ~ gets +3/+3 until the end of your next turn | !7 | #8 | 
+Farmer of Adaodgradial | 2 | @ | When you demolish a structure build a structure | !2 | #4 | 
+Adadamdial, Ranger of Sammervthew | 6 | @ | When you demolish a structure protect 4 structures until the end of your turn | !7 | #8 | 
+Samuzdiauel, Stonecutter of Summatheam | 4 | @ | When you play ~ gain a food and When ~ attacks gain a food | !4 | #4 | 
+Summuzdiathew, Barbarian of Samdamgrass | 6 | @ | When ~ attacks protect all structures until the end of your turn | !9 | #8 | 
+Forgotten Garden of Adamervthew | & | 4 | Your units get +3/+4 | #8 | 
+Watery Shrine | & | 3 | If you would attack do it twice instead | #4 | 
+Watery Vents | & | 4 | If you would attack do it twice instead | #4 | 
+Adauzdiauel, Knight of Samuzdiaville | 6 | @ | When you play ~ deal 1 to 4 structures | !8 | #8 | 
+Forgotten Vents | & | 2 | Your units get +2/+2 | #3 | 
+Watery Fountain of Samamuuel | & | 5 | Your units get +4/+3 | #9 | 
+Summmervuel, Artisan of Guzathethew | 5 | @ | When ~ dies build a structure and When ~ attacks gain a wood | !6 | #5 | 
+Samamuam, Stonecutter of Summuzdiaam | 4 | @ | When you demolish a structure build a structure and When you build a structure gain a gold | !6 | #6 | 
+Stomping Fountain of Summuzdiaam | & | 5 | Your units get +3/+3 | #7 | 
+Forgotten Ground | & | 2 | If you would protect a structure do it twice instead | #4 | 
+Watery Tomb of Matathedial | & | 4 | Each turn get 2 wood | #7 | 
+Blood Garden | & | 2 | Each turn get 2 iron | #4 | 
+Watery Pool of Matamudial | & | 5 | Each turn get 2 crystal | #7 | 
+Farmer of Samatheuel | 4 | @ | When you play ~ draw a card | !2 | #3 | 
+Godless Garden of Guzatheam | & | 5 | Your units get +2/+3 | #7 | 
+Farmer of Sammervuel | 2 | @ | When you draw gain a gold | !3 | #4 | 
+Blacksmith of Adamervgrass | 4 | @ | When ~ defends draw a card | !3 | #3 | 
+Ranger of Samdamuel | 3 | @ |  | !4 | #5 | 
+Defender of Summamuuel | 4 | @ |  | !9 | #6 | 
+Hallowed Vents | & | 2 | Your units get +2/+2 | #3 | 
+Blood Grave | & | 4 | Your units get +2/+4 | #2 | 
+Ranger of Guzamuville | 4 | @ |  | !6 | #5 | 
+Stomping Fountain of Samodgragrass | & | 5 | Your units get +4/+2 | #7 | 
+Breeding Grave | & | 4 | Each turn get 2 food | #4 | 
+Sacred Castle | & | 3 | If you would draw a card do it twice instead | #2 | 
+Artisan of Matdamgrass | 3 | @ | When you draw build a structure | !4 | #4 | 
+Breeding Shrine | & | 2 | Each turn get 2 crystal | #3 | 
+Samamuthew, Warrior of Matdamdial | 4 | @ | When ~ attacks ~ gets +4/+4 until ~ attacks | !8 | #8 | 
+Guzuzdiagrass, Blacksmith of Summdamuel | 5 | @ | When you build a structure draw a card and When ~ defends draw a card | !5 | #4 | 
+Summmervuel, Blacksmith of Summatheuel | 4 | @ | When ~ dies draw a card and When ~ dies draw a card | !4 | #5 | 
+Farmer of Samamuville | 4 | @ | When you draw build a structure | !3 | #4 | 
+Hallowed Vents | & | 2 | Your units get +3/+4 | #2 | 
+Stonecutter of Samdamdial | 4 | @ | When ~ attacks gain a wood | !3 | #4 | 
+Forgotten Vents of Snoduzdiauel | & | 4 | Each turn get 2 gold | #9 | 
+Sacred Shrine | & | 4 | If you would attack do it twice instead | #3 | 
+Warrior of Adaatheuel | 2 | @ | When you build a structure ~ gets +2/+3 until the end of your turn | !5 | #2 | 
+Forgotten Keep | & | 2 | If you would build a structure do it twice instead | #4 | 
+Knight of Samuzdiaam | 3 | @ | When ~ defends ~ gets +4/+3 until the end of the game | !5 | #2 | 
+Samamuville, Stonecutter of Matuzdiadial | 6 | @ | When you build a structure draw a card and When you demolish a structure gain a food | !4 | #5 | 
+Guzodgradial, Defender of Summamugrass | 6 | @ | When ~ attacks protect all structures until ~ attacks | !8 | #8 | 
+Snodamuuel, Artisan of Samodgradial | 5 | @ | When you demolish a structure draw a card and When ~ defends draw a card | !6 | #5 | 
+Forgotten Keep | & | 3 | Each turn get 2 wood | #2 | 
+Watery Garden | & | 2 | Your units get +3/+4 | #3 | 
+Forgotten Ground | & | 3 | Each turn get 2 food | #4 | 
+Sacred Crypt | & | 2 | Your units get +3/+3 | #4 | 
+Architect of Summathegrass | 4 | @ | When you build a structure draw a card | !2 | #3 | 
+Watery Tomb | & | 2 | Your units get +3/+3 | #4 | 
+Ranger of Samodgradial | 4 | @ |  | !9 | #4 | 
+Overgrown Grave | & | 4 | Your units get +2/+3 | #3 | 
+Snododgrathew, Ranger of Matamudial | 4 | @ | When you demolish a structure ~ gets +4/+4 until your next turn | !8 | #9 | 
+Stomping Tomb of Matuzdiadial | & | 4 | Your units get +2/+4 | #8 | 
+Watery Foundry | & | 3 | Each turn get 2 crystal | #2 | 
+Sammervgrass, Defender of Samodgraam | 5 | @ | When you draw deal 1 to all structures | !9 | #9 | 
+Sammervam, Ranger of Summmervdial | 4 | @ | When you draw ~ gets +4/+3 until the end of the game | !8 | #8 | 
+Breeding Castle of Guzmervam | & | 5 | Your units get +3/+2 | #9 | 
+Temple Castle | & | 4 | Your units get +2/+4 | #4 | 
+Temple Tomb | & | 3 | Your units get +2/+3 | #4 | 
+Mason of Summodgradial | 4 | @ | When ~ dies gain a food | !3 | #4 | 
+Watery Keep | & | 4 | Your units get +3/+3 | #3 | 
+Architect of Guzuzdiaam | 2 | @ | When ~ dies draw a card | !3 | #3 | 
+Overgrown Castle of Sammervgrass | & | 6 | Each turn get 2 iron | #9 | 
+Breeding Keep of Adadamuel | & | 5 | Your units get +4/+2 | #8 | 
+Mason of Guzodgragrass | 4 | @ | When ~ attacks draw a card | !2 | #3 | 
+Matamudial, Artisan of Samathegrass | 6 | @ | When you play ~ draw a card and When you draw gain a crystal | !6 | #4 | 
+Warrior of Guzathegrass | 3 | @ |  | !4 | #4 | 
+Defender of Matmervthew | 5 | @ |  | !9 | #5 | 
+Temple Pool of Summmervville | & | 6 | Each turn get 2 iron | #8 | 
+Overgrown Shrine of Guzodgragrass | & | 6 | If you would build a structure do it twice instead | #7 | 
+Steam Castle of Summathegrass | & | 6 | If you would draw a card do it twice instead | #7 | 
+Sacred Keep of Samamugrass | & | 5 | Your units get +2/+3 | #8 | 
+Ranger of Adaamuuel | 5 | @ |  | !8 | #4 | 
+Samamuthew, Architect of Sammervam | 5 | @ | When ~ attacks gain a wood and When ~ attacks build a structure | !5 | #6 | 
+Defender of Snododgragrass | 5 | @ |  | !9 | #4 | 
+Hallowed Crypt | & | 2 | If you would draw a card do it twice instead | #3 | 
+Barbarian of Samdamdial | 2 | @ | When ~ attacks deal 1 to all structures | !4 | #3 | 
+Matamudial, Warrior of Summatheville | 5 | @ | When ~ dies protect a structure until ~ dies | !9 | #8 | 
+Barbarian of Snodmervuel | 5 | @ |  | !8 | #6 | 
+Temple Grave | & | 2 | If you would attack do it twice instead | #2 | 
+Summdamgrass, Knight of Samodgragrass | 4 | @ | When you play ~ ~ gets +3/+4 until ~ dies | !7 | #7 | 
+Barbarian of Samamugrass | 6 | @ |  | !8 | #5 | 
+Matodgrauel, Ranger of Snododgradial | 4 | @ | When you draw ~ gets +4/+4 until ~ attacks | !8 | #7 | 
+Farmer of Matdamam | 4 | @ | When you demolish a structure draw a card | !2 | #3 | 
+Warrior of Guzuzdiadial | 4 | @ | When ~ dies protect 3 structures until the end of your next turn | !5 | #4 | 
+Mason of Matodgrathew | 3 | @ | When you draw draw a card | !4 | #4 | 
+Blacksmith of Matatheuel | 4 | @ | When ~ defends draw a card | !4 | #2 | 
+Breeding Tomb of Adaatheam | & | 4 | Each turn get 2 food | #7 | 
+Breeding Tomb | & | 3 | Each turn get 2 food | #4 | 
+Hallowed Crypt of Adaodgradial | & | 6 | Each turn get 2 crystal | #8 | 
+Summdamthew, Architect of Samathedial | 6 | @ | When ~ defends draw a card and When ~ defends gain a wood | !5 | #4 | 
+Knight of Guzdamuel | 4 | @ | When you draw protect all structures until the end of your turn | !6 | #3 | 
+Guzdamuel, Defender of Guzodgrauel | 4 | @ | When ~ dies ~ gets +4/+2 until the end of the game | !9 | #7 | 
+Defender of Matodgragrass | 2 | @ |  | !6 | #6 | 
+Sacred Foundry of Summuzdiaam | & | 4 | Each turn get 2 food | #7 | 
+Forgotten Keep | & | 3 | Your units get +2/+3 | #4 | 
+Guzuzdiagrass, Barbarian of Guzmervam | 5 | @ | When ~ defends protect 4 structures until ~ attacks | !7 | #9 | 
+Overgrown Garden of Summatheam | & | 5 | Each turn get 2 food | #7 | 
+Overgrown Fountain | & | 4 | Each turn get 2 crystal | #4 | 
+Snoduzdiauel, Farmer of Summodgradial | 6 | @ | When you build a structure draw a card and When ~ dies draw a card | !5 | #6 | 
+Temple Pool of Snoduzdiagrass | & | 6 | Your units get +4/+3 | #9 | 
+Stomping Foundry | & | 2 | Your units get +2/+2 | #2 | 
+Forgotten Keep of Matdamville | & | 4 | Your units get +2/+2 | #7 | 
+Barbarian of Summamuthew | 4 | @ |  | !7 | #4 | 
+Sacred Grave | & | 3 | Each turn get 2 wood | #4 | 
+Ranger of Samamudial | 3 | @ | When ~ defends ~ gets +4/+4 until ~ attacks | !4 | #2 | 
+Stomping Vents of Summuzdiaville | & | 4 | Your units get +4/+2 | #7 | 
+Temple Crypt of Snododgragrass | & | 4 | Your units get +2/+3 | #7 | 
+Sacred Pool | & | 2 | Each turn get 2 iron | #3 | 
+Godless Keep of Guzamuville | & | 5 | Each turn get 2 crystal | #7 | 
+Breeding Grave | & | 3 | Your units get +4/+2 | #2 | 
+Watery Pool of Samdamthew | & | 6 | Your units get +4/+2 | #7 | 
+Hallowed Vents | & | 3 | Your units get +2/+2 | #2 | 
+Artisan of Adauzdiathew | 4 | @ | When you demolish a structure build a structure | !2 | #4 | 
+Summuzdiagrass, Ranger of Guzodgradial | 6 | @ | When you demolish a structure ~ gets +2/+2 until ~ attacks | !8 | #7 | 
+Temple Shrine of Samodgraam | & | 5 | Your units get +4/+4 | #7 | 
+Summmervthew, Mason of Matodgrauel | 5 | @ | When you build a structure gain a gold and When you play ~ draw a card | !6 | #5 | 
+Watery Tomb of Snoduzdiauel | & | 6 | Your units get +3/+4 | #8 | 
+Architect of Matuzdiaville | 3 | @ | When you build a structure build a structure | !4 | #3 | 
+Snoddamdial, Architect of Samamugrass | 6 | @ | When you play ~ build a structure and When you build a structure build a structure | !5 | #6 | 
+Temple Foundry | & | 3 | If you would protect a structure do it twice instead | #3 | 
+Sammervam, Knight of Snododgraam | 4 | @ | When ~ attacks ~ gets +2/+3 until the end of the game | !9 | #9 | 
+Watery Crypt of Guzmervam | & | 6 | If you would build a structure do it twice instead | #7 | 
+Overgrown Ground of Snoddamuel | & | 4 | Each turn get 2 food | #9 | 
+Farmer of Sammervdial | 4 | @ | When you demolish a structure gain a food | !3 | #3 | 
+Forgotten Ground of Snodamugrass | & | 5 | Each turn get 2 wood | #7 | 
+Blacksmith of Snodamuuel | 4 | @ | When you draw draw a card | !2 | #3 | 
+Ranger of Samuzdiathew | 2 | @ | When ~ dies ~ gets +2/+3 until the end of your next turn | !6 | #2 | 
+Stomping Foundry of Guzdamville | & | 5 | Your units get +4/+3 | #7 | 
+Stonecutter of Samamudial | 3 | @ | When you demolish a structure build a structure | !4 | #2 | 
+Mason of Samuzdiadial | 2 | @ | When you build a structure build a structure | !3 | #3 | 
+Hallowed Pool | & | 3 | If you would draw a card do it twice instead | #2 | 
+Warrior of Snoddamgrass | 5 | @ |  | !8 | #5 | 
+Breeding Tomb of Matamugrass | & | 4 | Your units get +3/+2 | #9 | 
+Farmer of Adauzdiaville | 3 | @ | When you draw gain a food | !2 | #3 | 
+Godless Castle of Adaatheam | & | 6 | Your units get +4/+2 | #7 | 
+Farmer of Adaatheville | 4 | @ | When you draw gain a gold | !3 | #3 | 
+Summmervam, Barbarian of Samuzdiagrass | 5 | @ | When ~ attacks deal 1 to 2 structures | !9 | #9 | 
+Hallowed Vents of Summmervville | & | 4 | If you would build a structure do it twice instead | #9 | 
+Guzamugrass, Mason of Snodamugrass | 4 | @ | When you build a structure draw a card and When ~ defends draw a card | !4 | #4 | 
+Snoduzdiauel, Architect of Matodgradial | 6 | @ | When ~ defends draw a card and When ~ dies gain a crystal | !5 | #6 | 
+Architect of Snodmervthew | 4 | @ | When ~ attacks gain a iron | !2 | #4 | 
+Breeding Fountain of Guzodgragrass | & | 6 | If you would attack do it twice instead | #8 | 
+Architect of Summuzdiauel | 4 | @ | When ~ dies gain a gold | !4 | #2 | 
+Sacred Vents of Samuzdiagrass | & | 5 | If you would protect a structure do it twice instead | #8 | 
+Overgrown Fountain | & | 4 | Each turn get 2 gold | #2 | 
+Blood Garden of Snodmervuel | & | 6 | If you would build a structure do it twice instead | #7 | 
+Adaodgraville, Defender of Snodmervthew | 4 | @ | When you build a structure deal 1 to all structures | !7 | #7 | 
+Blood Shrine | & | 2 | Your units get +2/+4 | #3 | 
+Adaamuthew, Warrior of Guzdamgrass | 4 | @ | When ~ defends protect 2 structures until your next turn | !7 | #9 | 
+Hallowed Vents of Summmervthew | & | 5 | Your units get +2/+2 | #8 | 
+Matmervville, Blacksmith of Samdamam | 6 | @ | When ~ attacks draw a card and When ~ dies gain a crystal | !5 | #4 | 
+Watery Keep | & | 2 | Your units get +3/+2 | #3 | 
+Forgotten Crypt of Samdamdial | & | 5 | Your units get +4/+3 | #8 | 
+Stomping Ground | & | 4 | If you would attack do it twice instead | #4 | 
+Guzmervuel, Mason of Adaamudial | 4 | @ | When ~ defends gain a crystal and When ~ dies draw a card | !5 | #6 | 
+Artisan of Summdamthew | 2 | @ | When ~ attacks gain a gold | !2 | #3 | 
+Mason of Adauzdiathew | 4 | @ | When you draw build a structure | !3 | #2 | 
+Snoduzdiaam, Stonecutter of Guzathedial | 6 | @ | When you play ~ draw a card and When you draw gain a iron | !6 | #4 | 
+Knight of Samdamgrass | 3 | @ | When ~ defends deal 1 to a structure | !4 | #4 | 
+Architect of Snododgrathew | 2 | @ | When you play ~ draw a card | !3 | #3 | 
+Snododgraville, Architect of Matamuthew | 4 | @ | When ~ dies draw a card and When ~ attacks gain a wood | !4 | #6 | 
+Temple Shrine of Samamuthew | & | 6 | If you would build a structure do it twice instead | #8 | 
+Adaathethew, Stonecutter of Snodamugrass | 4 | @ | When you play ~ gain a gold and When you demolish a structure draw a card | !5 | #6 | 
+Stomping Grave | & | 2 | Each turn get 2 iron | #2 | 
+Stonecutter of Guzmervville | 2 | @ | When you demolish a structure gain a food | !3 | #3 | 
+Ranger of Adaamudial | 2 | @ | When ~ defends protect a structure until your next turn | !4 | #4 | 
+Snoddamdial, Blacksmith of Guzdamville | 4 | @ | When ~ attacks gain a iron and When you draw gain a food | !6 | #6 | 
+Hallowed Fountain | & | 4 | If you would protect a structure do it twice instead | #4 | 
+Guzuzdiathew, Warrior of Snodathethew | 6 | @ | When you build a structure deal 1 to a structure | !9 | #7 | 
+Hallowed Keep of Matuzdiaam | & | 5 | Each turn get 2 gold | #7 | 
+Forgotten Tomb of Summuzdiauel | & | 5 | If you would draw a card do it twice instead | #9 | 
+Matdamgrass, Defender of Snodamugrass | 4 | @ | When you draw ~ gets +2/+3 until ~ attacks | !9 | #9 | 
+Godless Ground of Summdamam | & | 4 | Your units get +4/+3 | #9 | 
+Snodathethew, Ranger of Summmervam | 6 | @ | When you demolish a structure deal 1 to 4 structures | !9 | #8 | 
+Architect of Summamudial | 2 | @ | When ~ dies build a structure | !4 | #3 | 
+Blood Pool of Summuzdiadial | & | 4 | Your units get +3/+4 | #7 | 
+Temple Ground of Summdamgrass | & | 6 | Each turn get 2 crystal | #7 | 
+Summatheville, Stonecutter of Adaamudial | 4 | @ | When you demolish a structure draw a card and When ~ dies gain a food | !4 | #6 | 
+Stomping Grave | & | 4 | Your units get +4/+2 | #2 | 
+Snodmervgrass, Barbarian of Summodgragrass | 4 | @ | When ~ defends deal 1 to 4 structures | !7 | #8 | 
+Hallowed Vents of Guzuzdiadial | & | 5 | Your units get +2/+2 | #9 | 
+Stomping Crypt | & | 3 | Your units get +2/+2 | #4 | 
+Architect of Summdamam | 4 | @ | When ~ attacks draw a card | !2 | #2 | 
+Breeding Pool | & | 3 | If you would attack do it twice instead | #3 | 
+Steam Castle | & | 4 | If you would protect a structure do it twice instead | #4 | 
+Guzmervdial, Mason of Adadamam | 6 | @ | When you draw build a structure and When you build a structure build a structure | !5 | #5 | 
+Warrior of Guzdamville | 2 | @ |  | !4 | #6 | 
+Godless Pool | & | 3 | If you would protect a structure do it twice instead | #3 | 
+Hallowed Tomb | & | 4 | Your units get +3/+3 | #2 | 
+Artisan of Guzamuam | 2 | @ | When you build a structure gain a iron | !4 | #4 | 
+Breeding Foundry of Samdamthew | & | 6 | If you would build a structure do it twice instead | #7 | 
+Temple Crypt of Summamudial | & | 4 | Your units get +3/+2 | #7 | 
+Adamervthew, Mason of Summdamthew | 5 | @ | When you play ~ draw a card and When you build a structure draw a card | !4 | #6 | 
+Breeding Pool | & | 4 | Each turn get 2 wood | #3 | 
+Summdamam, Farmer of Snodamuthew | 4 | @ | When you build a structure draw a card and When you play ~ draw a card | !5 | #6 | 
+Overgrown Pool of Summodgragrass | & | 4 | Each turn get 2 gold | #8 | 
+Breeding Shrine of Summodgraville | & | 6 | Each turn get 2 gold | #7 | 
+Godless Shrine of Matdamville | & | 6 | If you would protect a structure do it twice instead | #9 | 
+Warrior of Summdamville | 4 | @ | When you play ~ deal 1 to a structure | !6 | #4 | 
+Overgrown Foundry of Matmervthew | & | 5 | Each turn get 2 crystal | #7 | 
+Hallowed Vents | & | 4 | Your units get +2/+4 | #3 | 
+Knight of Adamervam | 3 | @ |  | !4 | #4 | 
+Adaamuville, Farmer of Summdamgrass | 4 | @ | When you build a structure draw a card and When you build a structure gain a wood | !5 | #6 | 
+Sacred Grave | & | 3 | If you would draw a card do it twice instead | #4 | 
+Watery Keep of Adamervville | & | 4 | If you would attack do it twice instead | #7 | 
+Temple Garden of Adamervthew | & | 5 | If you would build a structure do it twice instead | #9 | 
+Mason of Snodatheuel | 3 | @ | When you draw build a structure | !4 | #4 | 
+Adaathethew, Blacksmith of Samodgraam | 4 | @ | When you demolish a structure build a structure and When ~ attacks draw a card | !6 | #4 | 
+Ranger of Matodgraam | 2 | @ |  | !5 | #6 | 
+Guzatheville, Stonecutter of Guzmervthew | 4 | @ | When you build a structure build a structure and When ~ attacks build a structure | !5 | #6 | 
+Snodmervdial, Defender of Samuzdiaville | 5 | @ | When you demolish a structure ~ gets +4/+3 until the end of your next turn | !9 | #7 | 
+Samdamthew, Defender of Snodmervgrass | 4 | @ | When ~ defends ~ gets +4/+4 until the end of your next turn | !7 | #9 | 
+Watery Foundry of Samatheam | & | 6 | Your units get +4/+2 | #7 | 
+Forgotten Crypt | & | 4 | Your units get +2/+2 | #2 | 
+Hallowed Tomb of Guzodgragrass | & | 6 | Each turn get 2 food | #9 | 
+Farmer of Matatheuel | 3 | @ | When you draw build a structure | !3 | #4 | 
+Snodamugrass, Stonecutter of Adamervthew | 5 | @ | When you build a structure gain a food and When you build a structure build a structure | !5 | #4 | 
+Overgrown Pool of Samodgrathew | & | 5 | Your units get +3/+3 | #7 | 
+Stomping Vents of Matdamam | & | 6 | If you would attack do it twice instead | #7 | 
+Breeding Pool | & | 2 | Your units get +3/+4 | #3 | 
+Godless Shrine | & | 4 | Each turn get 2 gold | #4 | 
+Adaodgradial, Barbarian of Snodamuuel | 5 | @ | When ~ defends protect all structures until ~ dies | !7 | #8 | 
+Samuzdiagrass, Blacksmith of Matuzdiauel | 6 | @ | When ~ defends build a structure and When ~ dies draw a card | !6 | #5 | 
+Snodamuthew, Defender of Adaamuam | 5 | @ | When you build a structure protect a structure until ~ dies | !8 | #8 | 
+Overgrown Castle | & | 4 | Each turn get 2 crystal | #4 | 
+Forgotten Keep of Samatheam | & | 6 | Your units get +3/+3 | #7 | 
+Breeding Ground | & | 2 | If you would protect a structure do it twice instead | #4 | 
+Temple Garden of Samuzdiagrass | & | 6 | If you would draw a card do it twice instead | #7 | 
+Blood Grave | & | 2 | Your units get +4/+3 | #2 | 
+Defender of Guzdamthew | 3 | @ | When ~ defends deal 1 to 4 structures | !4 | #2 | 
+Snodamugrass, Defender of Snodatheuel | 6 | @ | When you draw protect a structure until the end of your next turn | !7 | #8 | 
+Sacred Pool of Samdamam | & | 6 | Your units get +4/+3 | #9 | 
+Guzodgrathew, Artisan of Guzathethew | 4 | @ | When you draw gain a iron and When you play ~ gain a crystal | !4 | #4 | 
+Breeding Fountain | & | 4 | Your units get +4/+3 | #2 | 
+Godless Shrine | & | 3 | If you would protect a structure do it twice instead | #4 | 
+Hallowed Garden of Matmervthew | & | 4 | If you would draw a card do it twice instead | #9 | 
+Steam Garden | & | 4 | Your units get +2/+3 | #3 | 
+Stomping Crypt of Snodamugrass | & | 6 | If you would draw a card do it twice instead | #8 | 
+Temple Ground | & | 2 | If you would attack do it twice instead | #4 | 
+Stomping Castle of Snodamudial | & | 4 | Each turn get 2 gold | #8 | 
+Snoduzdiaville, Barbarian of Summodgrauel | 4 | @ | When ~ defends deal 1 to a structure | !8 | #8 | 
+Temple Crypt of Sammervuel | & | 6 | Your units get +4/+3 | #8 | 
+Ranger of Snodmervville | 6 | @ |  | !7 | #6 | 
+Architect of Snodatheam | 2 | @ | When ~ dies draw a card | !3 | #2 | 
+Defender of Snodmervthew | 3 | @ |  | !4 | #4 | 
+Breeding Foundry of Summodgradial | & | 6 | If you would draw a card do it twice instead | #8 | 
+Barbarian of Adaamuuel | 4 | @ | When ~ dies protect all structures until the end of your next turn | !5 | #3 | 
+Knight of Matodgradial | 5 | @ |  | !9 | #5 | 
+Godless Grave | & | 4 | Each turn get 2 wood | #4 | 
+Summmervthew, Ranger of Snododgraam | 4 | @ | When ~ dies ~ gets +3/+4 until the end of your next turn | !9 | #8 | 
+Sammervthew, Defender of Summathedial | 4 | @ | When ~ dies protect all structures until the end of your next turn | !8 | #8 | 
+Blood Grave of Adaamugrass | & | 4 | Each turn get 2 wood | #7 | 
+Hallowed Crypt | & | 4 | If you would build a structure do it twice instead | #4 | 
+Steam Shrine of Summodgragrass | & | 6 | Your units get +3/+2 | #9 | 
+Stomping Tomb of Guzuzdiadial | & | 5 | Your units get +4/+2 | #9 | 
+Blood Fountain of Matmervgrass | & | 5 | Each turn get 2 iron | #9 | 
+Samamuthew, Knight of Summodgraam | 4 | @ | When ~ attacks ~ gets +3/+4 until the end of your turn | !8 | #9 | 
+Blood Pool | & | 3 | If you would protect a structure do it twice instead | #3 | 
+Mason of Summamuuel | 3 | @ | When you play ~ draw a card | !4 | #2 | 
+Hallowed Grave | & | 4 | Each turn get 2 crystal | #3 | 
+Samdamam, Mason of Snodmervuel | 4 | @ | When you play ~ build a structure and When you demolish a structure build a structure | !5 | #6 | 
+Breeding Grave | & | 2 | If you would protect a structure do it twice instead | #3 | 
+Blood Pool | & | 2 | Each turn get 2 wood | #2 | 
+Stomping Grave | & | 2 | Your units get +2/+4 | #2 | 
+Snoduzdiagrass, Ranger of Adaamuam | 5 | @ | When ~ defends protect a structure until the end of your next turn | !7 | #7 | 
+Overgrown Pool of Matmervville | & | 4 | Your units get +2/+4 | #9 | 
+Snodatheam, Barbarian of Adamervthew | 6 | @ | When ~ attacks deal 1 to a structure | !9 | #8 | 
+Summmervgrass, Warrior of Snodathegrass | 4 | @ | When ~ defends ~ gets +2/+3 until ~ attacks | !7 | #9 | 
+Ranger of Matmervuel | 2 | @ | When you play ~ deal 1 to a structure | !4 | #4 | 
+Summamuuel, Ranger of Matodgraville | 5 | @ | When you build a structure ~ gets +4/+3 until the end of your next turn | !8 | #8 | 
+Stomping Castle | & | 4 | Your units get +2/+3 | #4 | 
+Godless Crypt | & | 3 | If you would build a structure do it twice instead | #2 | 
+Warrior of Matamudial | 4 | @ |  | !4 | #6 | 
+Breeding Foundry of Samdamgrass | & | 6 | Your units get +4/+2 | #8 | 
+Sacred Grave of Snododgraville | & | 5 | If you would draw a card do it twice instead | #8 | 
+Warrior of Snodmervdial | 6 | @ |  | !9 | #5 | 
+Matathegrass, Barbarian of Samuzdiaam | 5 | @ | When you play ~ protect 4 structures until ~ attacks | !8 | #9 | 
+Blood Vents of Adamervuel | & | 6 | Your units get +2/+2 | #9 | 
+Ranger of Guzathegrass | 2 | @ | When you build a structure deal 1 to a structure | !5 | #3 | 
+Hallowed Tomb | & | 4 | Each turn get 2 gold | #2 | 
+Summuzdiaville, Ranger of Matodgrauel | 5 | @ | When ~ dies deal 1 to all structures | !9 | #8 | 
+Architect of Guzdamdial | 4 | @ | When you play ~ build a structure | !3 | #2 | 
+Matmervam, Defender of Matmervam | 5 | @ | When ~ attacks deal 1 to a structure | !8 | #8 | 
+Artisan of Samamugrass | 4 | @ | When ~ defends gain a wood | !4 | #3 | 
+Stomping Fountain of Samdamdial | & | 5 | Your units get +2/+4 | #8 | 
+Ranger of Samdamdial | 4 | @ |  | !5 | #5 | 
+Guzdamthew, Blacksmith of Summatheuel | 6 | @ | When ~ defends draw a card and When ~ defends draw a card | !6 | #5 | 
+Forgotten Tomb of Snodathethew | & | 4 | Each turn get 2 food | #7 | 
+Artisan of Snodamuam | 3 | @ | When you play ~ draw a card | !4 | #4 | 
+Breeding Crypt | & | 3 | If you would build a structure do it twice instead | #4 | 
+Defender of Summatheuel | 4 | @ |  | !6 | #5 | 
+Summamuthew, Artisan of Samathedial | 5 | @ | When you build a structure gain a crystal and When ~ defends gain a wood | !6 | #6 | 
+Adaamuthew, Stonecutter of Adamervam | 4 | @ | When you draw build a structure and When you draw gain a food | !4 | #5 | 
+Godless Grave | & | 3 | Each turn get 2 wood | #2 | 
+Forgotten Castle | & | 4 | If you would draw a card do it twice instead | #2 | 
+Overgrown Crypt | & | 4 | Each turn get 2 wood | #3 | 
+Sacred Castle | & | 2 | Your units get +4/+4 | #4 | 
+Forgotten Shrine | & | 3 | If you would protect a structure do it twice instead | #2 | 
+Watery Tomb of Sammervdial | & | 6 | If you would protect a structure do it twice instead | #9 | 
+Godless Garden | & | 4 | If you would draw a card do it twice instead | #4 | 
+Sacred Garden of Snodamuam | & | 6 | Your units get +2/+3 | #7 | 
+Stomping Fountain of Matathegrass | & | 4 | If you would attack do it twice instead | #7 | 
+Matodgraville, Architect of Adaamuville | 6 | @ | When you draw gain a iron and When you build a structure draw a card | !4 | #4 | 
+Matodgradial, Artisan of Samatheuel | 4 | @ | When ~ defends gain a crystal and When you build a structure build a structure | !4 | #6 | 
+Ranger of Adauzdiauel | 4 | @ |  | !9 | #6 | 
+Samodgrauel, Stonecutter of Summamuuel | 4 | @ | When you play ~ draw a card and When you demolish a structure build a structure | !5 | #4 | 
+Architect of Snoduzdiaam | 4 | @ | When you draw build a structure | !4 | #3 | 
+Hallowed Tomb of Samdamgrass | & | 6 | Your units get +4/+4 | #8 | 
+Blood Fountain | & | 4 | If you would draw a card do it twice instead | #3 | 
+Stomping Tomb of Adaamuam | & | 4 | If you would draw a card do it twice instead | #8 | 
+Snoddamam, Mason of Adaatheam | 6 | @ | When you build a structure build a structure and When ~ dies build a structure | !6 | #5 | 
+Samuzdiaville, Artisan of Samathedial | 5 | @ | When you play ~ gain a food and When ~ dies draw a card | !4 | #6 | 
+Guzmervuel, Blacksmith of Matodgraville | 5 | @ | When you demolish a structure build a structure and When you play ~ build a structure | !4 | #5 | 
+Stomping Shrine of Summuzdiathew | & | 6 | Each turn get 2 iron | #9 | 
+Breeding Grave of Samodgraam | & | 4 | Each turn get 2 wood | #8 | 
+Breeding Vents | & | 4 | Your units get +3/+2 | #3 | 
+Guzodgraville, Ranger of Summmervville | 4 | @ | When you draw deal 1 to 3 structures | !8 | #8 | 
+Defender of Adaamuam | 3 | @ |  | !6 | #5 | 
+Warrior of Adaodgraam | 3 | @ |  | !6 | #6 | 
+Overgrown Tomb of Adamervville | & | 4 | If you would attack do it twice instead | #7 | 
+Adamervville, Barbarian of Summodgrauel | 4 | @ | When you demolish a structure ~ gets +2/+3 until the end of your turn | !9 | #9 | 
+Architect of Summuzdiadial | 2 | @ | When you play ~ build a structure | !2 | #2 | 
+Adaamugrass, Artisan of Summmervam | 5 | @ | When you demolish a structure gain a wood and When you play ~ build a structure | !6 | #4 | 
+Blood Pool | & | 4 | If you would build a structure do it twice instead | #3 | 
+Warrior of Summatheam | 5 | @ |  | !8 | #4 | 
+Steam Shrine of Summodgrauel | & | 6 | Each turn get 2 crystal | #7 | 
+Guzmervville, Defender of Adadamdial | 5 | @ | When you build a structure deal 1 to 3 structures | !7 | #9 | 
+Temple Garden | & | 4 | Each turn get 2 food | #4 | 
+Steam Ground of Adaathedial | & | 6 | Your units get +4/+3 | #7 | 
+Samodgragrass, Farmer of Guzamuville | 6 | @ | When ~ dies draw a card and When you demolish a structure build a structure | !6 | #6 | 
+Hallowed Pool | & | 3 | Each turn get 2 gold | #2 | 
+Breeding Vents of Sammervville | & | 5 | Your units get +3/+3 | #9 | 
+Adaodgrathew, Architect of Samuzdiaam | 6 | @ | When ~ dies build a structure and When you play ~ build a structure | !6 | #5 | 
+Barbarian of Adaamuthew | 2 | @ | When ~ dies deal 1 to all structures | !4 | #2 | 
+Overgrown Crypt of Matdamgrass | & | 6 | Each turn get 2 crystal | #9 | 
+Architect of Matathedial | 2 | @ | When you build a structure gain a wood | !4 | #3 | 
+Breeding Keep of Matamudial | & | 4 | Each turn get 2 crystal | #7 | 
+Overgrown Ground | & | 3 | If you would protect a structure do it twice instead | #2 | 
+Blood Castle of Adadamville | & | 5 | Each turn get 2 crystal | #7 | 
+Snododgradial, Barbarian of Guzamudial | 4 | @ | When you draw deal 1 to 3 structures | !8 | #7 | 
+Watery Castle of Guzathegrass | & | 5 | If you would attack do it twice instead | #8 | 
+Samamuam, Defender of Matuzdiaville | 4 | @ | When ~ dies protect 4 structures until ~ dies | !9 | #9 | 
+Summodgrauel, Barbarian of Matdamthew | 4 | @ | When you draw protect a structure until the end of your turn | !7 | #9 | 
+Snodmervam, Warrior of Matmervam | 4 | @ | When ~ dies ~ gets +4/+2 until the end of your next turn | !9 | #7 | 
+Breeding Shrine of Snodathedial | & | 6 | If you would protect a structure do it twice instead | #9 | 
+Blacksmith of Matodgraam | 2 | @ | When ~ dies draw a card | !4 | #4 | 
+Stomping Ground | & | 3 | Each turn get 2 wood | #2 | 
+Snodmervdial, Knight of Matathedial | 4 | @ | When you build a structure ~ gets +3/+4 until the end of your turn | !8 | #7 | 
+Breeding Vents of Guzdamdial | & | 5 | If you would attack do it twice instead | #8 | 
+Barbarian of Guzodgradial | 4 | @ | When you play ~ protect a structure until your next turn | !4 | #3 | 
+Summamuthew, Barbarian of Samdamgrass | 6 | @ | When ~ dies protect 4 structures until ~ attacks | !8 | #7 | 
+Godless Castle | & | 3 | If you would protect a structure do it twice instead | #2 | 
+Steam Crypt of Summatheville | & | 6 | Each turn get 2 wood | #9 | 
+Blacksmith of Matamudial | 4 | @ | When you play ~ build a structure | !3 | #2 | 
+Snodamudial, Stonecutter of Snoddamgrass | 6 | @ | When ~ attacks draw a card and When ~ attacks gain a wood | !6 | #4 | 
+Steam Fountain of Matmervthew | & | 6 | If you would draw a card do it twice instead | #9 | 
+Forgotten Tomb | & | 3 | Each turn get 2 food | #4 | 
+Stomping Shrine of Matdamam | & | 5 | Your units get +2/+3 | #7 | 
+Watery Foundry | & | 2 | Your units get +2/+4 | #4 | 
+Warrior of Adadamam | 4 | @ |  | !6 | #4 | 
+Adaamuam, Barbarian of Snoduzdiauel | 5 | @ | When you draw protect all structures until the end of your next turn | !7 | #9 | 
+Temple Crypt of Matmervdial | & | 4 | Your units get +3/+3 | #9 | 
+Godless Ground | & | 4 | Each turn get 2 wood | #3 | 
+Sammervuel, Mason of Adaodgragrass | 6 | @ | When ~ dies gain a food and When ~ dies build a structure | !5 | #6 | 
+Guzmervam, Artisan of Guzuzdiaville | 6 | @ | When you play ~ gain a crystal and When ~ dies gain a crystal | !5 | #6 | 
+Watery Vents of Guzamuuel | & | 4 | Each turn get 2 crystal | #7 | 
+Hallowed Vents | & | 2 | If you would protect a structure do it twice instead | #3 | 
+Farmer of Guzdamam | 2 | @ | When ~ dies gain a crystal | !4 | #4 | 
+Hallowed Vents | & | 3 | Your units get +2/+3 | #4 | 
+Samodgraam, Blacksmith of Guzamugrass | 5 | @ | When you play ~ draw a card and When ~ defends build a structure | !5 | #5 | 
+Breeding Pool | & | 2 | Each turn get 2 gold | #4 | 
+Defender of Matuzdiaam | 2 | @ |  | !6 | #6 | 
+Forgotten Crypt of Samuzdiauel | & | 4 | Each turn get 2 wood | #7 | 
+Watery Tomb | & | 2 | Your units get +4/+2 | #4 | 
+Breeding Keep | & | 3 | Your units get +4/+3 | #3 | 
+Samuzdiathew, Architect of Samdamthew | 6 | @ | When you play ~ build a structure and When ~ dies draw a card | !4 | #4 | 
+Watery Fountain of Samdamuel | & | 5 | If you would draw a card do it twice instead | #7 | 
+Guzodgragrass, Warrior of Samamudial | 5 | @ | When you play ~ deal 1 to all structures | !8 | #9 | 
+Blacksmith of Summatheuel | 2 | @ | When you build a structure draw a card | !2 | #2 | 
+Overgrown Foundry of Samathegrass | & | 4 | Your units get +4/+2 | #7 | 
+Artisan of Matamuthew | 4 | @ | When you play ~ draw a card | !3 | #2 | 
+Hallowed Vents of Guzdamthew | & | 4 | Your units get +4/+3 | #8 | 
+Forgotten Keep of Samodgraville | & | 6 | If you would draw a card do it twice instead | #9 | 
+Watery Garden of Snoduzdiaam | & | 5 | Your units get +2/+4 | #8 | 
+Adadamdial, Artisan of Samatheam | 6 | @ | When you demolish a structure build a structure and When ~ dies build a structure | !4 | #6 | 
+Samdamam, Blacksmith of Snododgrauel | 4 | @ | When you build a structure gain a iron and When ~ dies gain a iron | !5 | #5 | 
+Architect of Summmervuel | 2 | @ | When you demolish a structure gain a iron | !2 | #2 | 
+Stomping Tomb | & | 2 | Your units get +2/+3 | #4 | 
+Godless Garden | & | 2 | Each turn get 2 gold | #2 | 
+Ranger of Samdamgrass | 3 | @ | When you play ~ ~ gets +2/+3 until your next turn | !5 | #4 | 
+Blood Vents of Guzatheville | & | 4 | Each turn get 2 iron | #9 | 
+Architect of Matathedial | 4 | @ | When ~ dies build a structure | !2 | #2 | 
+Overgrown Fountain | & | 4 | Your units get +3/+4 | #2 | 
+Stonecutter of Snodatheam | 3 | @ | When ~ defends draw a card | !3 | #4 | 
+Watery Garden of Snododgrauel | & | 5 | Your units get +2/+2 | #9 | 
+Sacred Grave of Snoduzdiagrass | & | 4 | Each turn get 2 gold | #8 | 
+Blacksmith of Adauzdiaam | 3 | @ | When you demolish a structure gain a iron | !3 | #3 | 
+Hallowed Vents of Matatheuel | & | 5 | If you would attack do it twice instead | #7 | 
+Defender of Guzatheam | 3 | @ |  | !4 | #4 | 
+Summodgraam, Artisan of Matodgraam | 6 | @ | When ~ attacks draw a card and When you build a structure draw a card | !4 | #6 | 
+Forgotten Tomb | & | 2 | Your units get +2/+2 | #4 | 
+Stomping Fountain of Guzatheuel | & | 6 | Your units get +4/+3 | #8 | 
+Warrior of Snoddamgrass | 3 | @ | When you play ~ deal 1 to 2 structures | !6 | #2 | 
+Blood Fountain of Snodmervdial | & | 5 | Each turn get 2 crystal | #9 | 
+Adadamthew, Mason of Samatheam | 4 | @ | When you draw build a structure and When you draw draw a card | !4 | #5 | 
+Stomping Grave of Guzodgraam | & | 4 | If you would build a structure do it twice instead | #7 | 
+Watery Fountain of Matathedial | & | 4 | Your units get +4/+3 | #7 | 
+Ranger of Snodamugrass | 4 | @ | When you build a structure deal 1 to a structure | !4 | #3 | 
+Samodgraam, Warrior of Guzatheuel | 6 | @ | When ~ defends ~ gets +4/+2 until your next turn | !9 | #7 | 
+Artisan of Guzuzdiaville | 3 | @ | When ~ dies gain a iron | !4 | #4 | 
+Architect of Guzmervam | 3 | @ | When you draw gain a food | !2 | #2 | 
+Steam Castle | & | 3 | If you would build a structure do it twice instead | #4 | 
+Sammervdial, Mason of Snoduzdiaam | 5 | @ | When you draw draw a card and When you draw draw a card | !4 | #4 | 
+Guzatheuel, Knight of Guzatheam | 6 | @ | When ~ defends protect a structure until the end of your turn | !7 | #9 | 
+Stonecutter of Summamuam | 2 | @ | When ~ attacks draw a card | !2 | #2 | 
+Godless Keep | & | 3 | Each turn get 2 wood | #2 | 
+Defender of Snododgraville | 4 | @ |  | !7 | #5 | 
+Architect of Summathedial | 3 | @ | When ~ defends build a structure | !4 | #2 | 
+Hallowed Shrine of Samuzdiaville | & | 5 | If you would protect a structure do it twice instead | #9 | 
+Sacred Fountain | & | 4 | Your units get +3/+4 | #2 | 
+Godless Castle | & | 3 | Your units get +4/+3 | #3 | 
+Overgrown Shrine | & | 3 | Your units get +2/+2 | #3 | 
+Godless Grave of Adauzdiadial | & | 5 | Each turn get 2 wood | #8 | 
+Hallowed Crypt | & | 3 | If you would attack do it twice instead | #4 | 
+Temple Crypt | & | 2 | Each turn get 2 crystal | #2 | 
+Architect of Snoddamthew | 2 | @ | When ~ attacks build a structure | !3 | #4 | 
+Blood Shrine | & | 3 | Your units get +4/+4 | #2 | 
+Watery Foundry of Adamervville | & | 6 | If you would draw a card do it twice instead | #7 | 
+Adadamdial, Defender of Matatheuel | 6 | @ | When ~ attacks ~ gets +3/+4 until ~ attacks | !7 | #9 | 
+Overgrown Pool | & | 3 | Each turn get 2 wood | #4 | 
+Sacred Garden of Matdamthew | & | 4 | Your units get +4/+4 | #8 | 
+Architect of Samodgragrass | 2 | @ | When ~ defends build a structure | !2 | #4 | 
+Temple Shrine | & | 3 | Your units get +4/+2 | #4 | 
+Breeding Garden of Summuzdiagrass | & | 4 | Each turn get 2 wood | #8 | 
+Ranger of Adamervgrass | 6 | @ |  | !8 | #6 | 
+Temple Castle of Adadamdial | & | 6 | Each turn get 2 crystal | #8 | 
+Farmer of Snoddamville | 3 | @ | When you build a structure gain a food | !3 | #3 | 
+Adamervuel, Artisan of Adaamugrass | 5 | @ | When you play ~ build a structure and When ~ defends gain a wood | !6 | #4 | 
+Godless Foundry of Guzdamuel | & | 5 | Each turn get 2 iron | #9 | 
+Godless Foundry of Samodgraam | & | 4 | If you would build a structure do it twice instead | #9 | 
+Forgotten Fountain | & | 4 | Each turn get 2 wood | #2 | 
+Steam Crypt of Adadamam | & | 5 | If you would protect a structure do it twice instead | #8 | 
+Overgrown Ground | & | 4 | Each turn get 2 gold | #3 | 
+Artisan of Matamugrass | 3 | @ | When you play ~ draw a card | !4 | #3 | 
+Snoddamdial, Knight of Matamuthew | 6 | @ | When you draw deal 1 to all structures | !8 | #9 | 
+Warrior of Samodgrathew | 4 | @ |  | !9 | #5 | 
+Summdamgrass, Artisan of Matmervam | 4 | @ | When you demolish a structure gain a crystal and When you build a structure draw a card | !4 | #4 | 
+Breeding Tomb of Summodgragrass | & | 5 | Your units get +4/+3 | #7 | 
+Forgotten Tomb | & | 3 | Each turn get 2 gold | #3 | 
+Mason of Snoddamdial | 2 | @ | When ~ attacks build a structure | !3 | #3 | 
+Matdamville, Barbarian of Summmervville | 5 | @ | When you draw ~ gets +2/+3 until your next turn | !7 | #8 | 
+Overgrown Ground | & | 2 | If you would draw a card do it twice instead | #3 | 
+Forgotten Foundry of Guzmervgrass | & | 6 | Your units get +2/+2 | #8 | 
+Breeding Garden | & | 4 | Each turn get 2 gold | #4 | 
+Sacred Garden | & | 4 | If you would draw a card do it twice instead | #2 | 
+Breeding Keep | & | 3 | Your units get +3/+2 | #3 | 
+Knight of Guzmervam | 6 | @ |  | !7 | #6 | 
+Blood Ground of Adaathegrass | & | 4 | If you would attack do it twice instead | #9 | 
+Adaamuam, Ranger of Adadamuel | 4 | @ | When you demolish a structure deal 1 to a structure | !9 | #7 | 
+Watery Garden of Guzodgrauel | & | 6 | Your units get +2/+3 | #9 | 
+Knight of Matamuuel | 3 | @ |  | !4 | #6 | 
+Godless Fountain of Summmervthew | & | 6 | If you would build a structure do it twice instead | #8 | 
+Godless Foundry of Adamervdial | & | 5 | Your units get +3/+3 | #9 | 
+Overgrown Shrine of Snoddamuel | & | 6 | Your units get +3/+3 | #8 | 
+Stonecutter of Adauzdiaam | 3 | @ | When you demolish a structure draw a card | !3 | #4 | 
+Overgrown Castle | & | 3 | Each turn get 2 wood | #4 | 
+Snodamuthew, Farmer of Summodgradial | 6 | @ | When you play ~ draw a card and When ~ attacks gain a iron | !6 | #6 | 
+Matathethew, Blacksmith of Adadamuel | 4 | @ | When you play ~ gain a food and When ~ attacks build a structure | !6 | #6 | 
+Samamugrass, Farmer of Snoduzdiadial | 5 | @ | When you play ~ draw a card and When ~ defends build a structure | !6 | #6 | 
+Snodathedial, Warrior of Adaathethew | 4 | @ | When you build a structure protect a structure until the end of the game | !9 | #9 | 
+Snoduzdiadial, Blacksmith of Summathegrass | 6 | @ | When you build a structure draw a card and When ~ defends gain a food | !6 | #5 | 
+Knight of Guzamudial | 3 | @ |  | !6 | #5 | 
+Steam Keep | & | 2 | If you would draw a card do it twice instead | #4 | 
+Farmer of Adaamugrass | 3 | @ | When ~ dies gain a crystal | !3 | #4 | 
+Overgrown Tomb of Snododgragrass | & | 6 | Your units get +2/+4 | #9 | 
+Forgotten Ground of Guzathedial | & | 6 | Your units get +2/+2 | #8 | 
+Snododgrauel, Ranger of Matdamdial | 6 | @ | When ~ attacks protect a structure until the end of your next turn | !7 | #8 | 
+Adamervgrass, Ranger of Samuzdiaville | 6 | @ | When ~ dies deal 1 to 2 structures | !7 | #8 | 
+Guzodgrathew, Stonecutter of Guzuzdiadial | 6 | @ | When you build a structure gain a crystal and When you demolish a structure gain a gold | !4 | #6 | 
+Samodgrathew, Ranger of Snodatheuel | 4 | @ | When you demolish a structure protect all structures until the end of your next turn | !8 | #7 | 
+Stomping Crypt of Summmervthew | & | 4 | Your units get +4/+3 | #8 | 
+Snoddamdial, Warrior of Guzmervgrass | 6 | @ | When ~ defends deal 1 to all structures | !8 | #7 | 
+Watery Foundry of Adadamdial | & | 4 | If you would attack do it twice instead | #9 | 
+Samathegrass, Blacksmith of Guzmervville | 4 | @ | When you play ~ draw a card and When ~ attacks draw a card | !4 | #5 | 
+Hallowed Vents | & | 3 | Each turn get 2 iron | #2 | 
+Blood Foundry | & | 3 | If you would draw a card do it twice instead | #2 | 
+Artisan of Adaodgraam | 4 | @ | When you play ~ gain a wood | !3 | #3 | 
+Hallowed Garden of Snoddamthew | & | 5 | Your units get +4/+2 | #8 | 
+Artisan of Guzmervthew | 2 | @ | When ~ dies draw a card | !3 | #2 | 
+Matdamuel, Artisan of Matuzdiaam | 6 | @ | When ~ defends gain a iron and When you play ~ build a structure | !6 | #6 | 
+Adaodgrathew, Artisan of Summmervuel | 6 | @ | When you draw build a structure and When ~ dies gain a wood | !6 | #5 | 
+Artisan of Snodmervam | 2 | @ | When ~ defends draw a card | !4 | #4 | 
+Forgotten Tomb of Samdamam | & | 5 | Each turn get 2 gold | #7 | 
+Warrior of Guzmervthew | 4 | @ | When you build a structure protect a structure until ~ attacks | !5 | #4 | 
+Knight of Adaamuthew | 6 | @ |  | !8 | #6 | 
+Blacksmith of Summamuthew | 2 | @ | When you play ~ build a structure | !3 | #2 | 
+Blood Ground of Adaathethew | & | 6 | Each turn get 2 gold | #9 | 
+Stomping Fountain of Matodgrauel | & | 4 | Each turn get 2 food | #7 | 
+Defender of Snoddamgrass | 4 | @ |  | !5 | #4 | 
+Samuzdiaville, Barbarian of Guzodgrathew | 5 | @ | When ~ defends deal 1 to a structure | !7 | #9 | 
+Mason of Adaathedial | 2 | @ | When you build a structure draw a card | !4 | #3 | 
+Defender of Summodgradial | 2 | @ |  | !5 | #5 | 
+Warrior of Adaodgrathew | 6 | @ |  | !9 | #6 | 
+Warrior of Adaatheuel | 3 | @ | When ~ dies ~ gets +2/+3 until ~ dies | !4 | #4 | 
+Snodmervgrass, Blacksmith of Samamuuel | 4 | @ | When ~ attacks gain a iron and When you play ~ gain a gold | !4 | #4 | 
+Blood Tomb | & | 2 | If you would protect a structure do it twice instead | #4 | 
+Guzmervville, Warrior of Matamuuel | 6 | @ | When you draw deal 1 to a structure | !8 | #9 | 
+Godless Foundry of Matmervthew | & | 4 | Each turn get 2 food | #9 | 
+Knight of Samuzdiathew | 3 | @ |  | !6 | #4 | 
+Knight of Snodamuthew | 2 | @ |  | !6 | #6 | 
+Snodmervville, Stonecutter of Matmervuel | 6 | @ | When you build a structure build a structure and When you play ~ draw a card | !4 | #6 | 
+Summatheville, Barbarian of Guzdamdial | 6 | @ | When you play ~ ~ gets +4/+4 until your next turn | !8 | #7 | 
+Sacred Garden | & | 4 | Your units get +2/+2 | #3 | 
+Ranger of Snoduzdiaam | 4 | @ |  | !4 | #4 | 
+Temple Garden | & | 4 | Your units get +4/+2 | #2 | 
+Sacred Tomb of Snododgraam | & | 5 | Your units get +3/+4 | #7 | 
+Farmer of Guzuzdiauel | 4 | @ | When you draw draw a card | !2 | #2 | 
+Samdamam, Warrior of Matdamthew | 5 | @ | When ~ attacks protect all structures until the end of your next turn | !9 | #9 | 
+Adaodgragrass, Blacksmith of Matodgraam | 5 | @ | When you draw gain a food and When you play ~ gain a gold | !6 | #4 | 
+Blood Fountain of Snodathegrass | & | 4 | If you would build a structure do it twice instead | #9 | 
+Forgotten Keep of Adauzdiauel | & | 4 | If you would build a structure do it twice instead | #8 | 
+Barbarian of Adaodgragrass | 4 | @ |  | !7 | #5 | 
+Forgotten Ground | & | 3 | Each turn get 2 food | #2 | 
+Breeding Garden of Summdamam | & | 6 | Each turn get 2 crystal | #9 | 
+Hallowed Tomb | & | 3 | If you would attack do it twice instead | #3 | 
+Matuzdiaville, Knight of Matamuuel | 6 | @ | When you draw protect 3 structures until the end of your turn | !8 | #9 | 
+Forgotten Shrine of Matdamam | & | 6 | If you would draw a card do it twice instead | #9 | 
+Barbarian of Snodamuthew | 3 | @ |  | !6 | #4 | 
+Sacred Shrine of Matamuville | & | 4 | If you would protect a structure do it twice instead | #8 | 
+Watery Castle of Adadamam | & | 5 | Your units get +2/+3 | #7 | 
+Stonecutter of Matdamthew | 2 | @ | When ~ attacks draw a card | !2 | #4 | 
+Overgrown Tomb of Snodamuville | & | 4 | If you would protect a structure do it twice instead | #8 | 
+Stonecutter of Guzamuuel | 4 | @ | When you build a structure gain a crystal | !3 | #4 | 
+Steam Grave of Summodgraam | & | 4 | Your units get +3/+3 | #7 | 
+Warrior of Summathethew | 3 | @ | When you play ~ ~ gets +3/+2 until the end of your next turn | !4 | #4 | 
+Adadamthew, Warrior of Summamuuel | 6 | @ | When ~ dies ~ gets +3/+2 until the end of the game | !9 | #9 | 
+Mason of Matdamdial | 2 | @ | When you draw draw a card | !2 | #2 | 
+Blood Ground | & | 2 | Each turn get 2 wood | #4 | 
+Stonecutter of Samathedial | 3 | @ | When ~ dies draw a card | !3 | #4 | 
+Watery Ground of Guzodgraville | & | 5 | If you would build a structure do it twice instead | #8 | 
+Hallowed Tomb of Snoduzdiagrass | & | 5 | Each turn get 2 iron | #8 | 
+Overgrown Fountain | & | 3 | Each turn get 2 food | #4 | 
+Stomping Fountain of Guzuzdiagrass | & | 6 | Your units get +2/+4 | #9 | 
+Snodamuuel, Blacksmith of Samuzdiathew | 6 | @ | When ~ defends draw a card and When you draw build a structure | !5 | #5 | 
+Matamuuel, Ranger of Summatheuel | 5 | @ | When you build a structure deal 1 to 4 structures | !9 | #7 | 
+Snodamugrass, Knight of Snodatheuel | 4 | @ | When you play ~ protect a structure until ~ attacks | !8 | #8 | 
+Overgrown Ground of Matmervdial | & | 6 | Each turn get 2 food | #7 | 
+Knight of Samamuville | 4 | @ |  | !6 | #5 | 
+Stomping Vents | & | 3 | Each turn get 2 food | #2 | 
+Knight of Summmervgrass | 4 | @ |  | !6 | #5 | 
+Warrior of Samodgrauel | 2 | @ |  | !6 | #5 | 
+Watery Tomb | & | 3 | Each turn get 2 crystal | #2 | 
+Overgrown Ground of Matodgraam | & | 5 | If you would protect a structure do it twice instead | #8 | 
+Blood Vents | & | 2 | If you would build a structure do it twice instead | #2 | 
+Breeding Castle of Guzuzdiadial | & | 4 | Each turn get 2 wood | #9 | 
+Summmervuel, Ranger of Matuzdiagrass | 5 | @ | When ~ defends deal 1 to a structure | !9 | #9 | 
+Samodgrathew, Warrior of Adaathedial | 5 | @ | When you build a structure deal 1 to 2 structures | !9 | #9 | 
+Samatheville, Artisan of Samodgraam | 5 | @ | When you draw draw a card and When you demolish a structure build a structure | !5 | #4 | 
+Sacred Vents of Summmervgrass | & | 6 | Each turn get 2 gold | #9 | 
+Farmer of Matuzdiaville | 4 | @ | When ~ attacks draw a card | !4 | #2 | 
+Temple Pool of Snoduzdiadial | & | 4 | Each turn get 2 food | #8 | 
+Godless Shrine of Matodgraam | & | 6 | Your units get +4/+2 | #7 | 
+Temple Castle | & | 4 | If you would attack do it twice instead | #3 | 
+Guzuzdiathew, Defender of Adaodgraville | 6 | @ | When ~ attacks ~ gets +2/+4 until ~ dies | !8 | #8 | 
+Watery Shrine of Matathedial | & | 5 | If you would draw a card do it twice instead | #9 | 
+Matdamuel, Architect of Snoduzdiaam | 4 | @ | When you demolish a structure build a structure and When ~ dies draw a card | !5 | #5 | 
+Steam Grave | & | 3 | If you would draw a card do it twice instead | #2 | 
+Godless Tomb | & | 4 | Each turn get 2 food | #4 | 
+Forgotten Keep | & | 4 | If you would draw a card do it twice instead | #3 | 
+Summmervuel, Farmer of Matamuville | 4 | @ | When ~ dies gain a iron and When you play ~ draw a card | !4 | #4 | 
+Guzatheuel, Farmer of Samamudial | 4 | @ | When ~ attacks gain a food and When you draw draw a card | !5 | #4 | 
+Steam Fountain of Snodatheville | & | 4 | Each turn get 2 crystal | #7 | 
+Hallowed Ground of Adaatheuel | & | 4 | If you would protect a structure do it twice instead | #7 | 
+Steam Fountain of Matmervam | & | 4 | If you would build a structure do it twice instead | #7 | 
+Stomping Pool of Guzathegrass | & | 5 | Your units get +4/+2 | #8 | 
+Summamugrass, Farmer of Guzodgradial | 5 | @ | When you build a structure draw a card and When you demolish a structure draw a card | !4 | #4 | 
+Overgrown Foundry of Samdamgrass | & | 6 | Your units get +2/+3 | #7 | 
+Sacred Castle of Samamudial | & | 4 | If you would build a structure do it twice instead | #8 | 
+Stonecutter of Summuzdiauel | 2 | @ | When you demolish a structure draw a card | !3 | #4 | 
+Blood Ground of Guzmervdial | & | 5 | If you would attack do it twice instead | #9 | 
+Barbarian of Samuzdiaville | 4 | @ |  | !5 | #4 | 
+Guzmervdial, Architect of Snododgragrass | 4 | @ | When you draw draw a card and When you build a structure draw a card | !5 | #4 | 
+Guzamuuel, Ranger of Matdamthew | 6 | @ | When you build a structure ~ gets +3/+2 until the end of your next turn | !9 | #7 | 
+Godless Garden of Summamuthew | & | 6 | Each turn get 2 gold | #9 | 
+Blacksmith of Adadamuel | 4 | @ | When you draw draw a card | !4 | #3 | 
+Stomping Garden of Guzmervgrass | & | 6 | Each turn get 2 crystal | #7 | 
+Sacred Grave | & | 3 | Your units get +3/+2 | #2 | 
+Breeding Pool | & | 4 | Each turn get 2 food | #4 | 
+Architect of Snodatheam | 2 | @ | When you build a structure build a structure | !4 | #2 | 
+Guzodgrauel, Defender of Snododgraville | 6 | @ | When you build a structure protect a structure until the end of the game | !7 | #9 | 
+Blood Fountain of Matamuville | & | 6 | Your units get +3/+3 | #8 | 
+Summmervuel, Barbarian of Guzamuuel | 4 | @ | When you play ~ protect all structures until your next turn | !9 | #9 | 
+Steam Tomb | & | 4 | If you would build a structure do it twice instead | #4 | 
+Snoduzdiauel, Barbarian of Adamervdial | 5 | @ | When ~ defends protect a structure until your next turn | !7 | #8 | 
+Matamudial, Barbarian of Matmervthew | 4 | @ | When ~ attacks protect a structure until the end of your next turn | !9 | #9 | 
+Blacksmith of Summathethew | 2 | @ | When you build a structure draw a card | !3 | #4 | 
+Farmer of Samathegrass | 3 | @ | When ~ attacks gain a gold | !3 | #4 | 
+Godless Foundry of Adaodgradial | & | 4 | Each turn get 2 wood | #9 | 
+Defender of Guzathethew | 3 | @ | When you build a structure ~ gets +2/+2 until ~ dies | !6 | #3 | 
+Snoduzdiaville, Defender of Adauzdiadial | 5 | @ | When ~ attacks deal 1 to 4 structures | !9 | #8 | 
+Sacred Vents | & | 4 | If you would protect a structure do it twice instead | #3 | 
+Watery Pool of Guzdamville | & | 6 | Each turn get 2 gold | #7 | 
+Summdamdial, Blacksmith of Guzamuthew | 5 | @ | When you demolish a structure draw a card and When you play ~ draw a card | !6 | #4 | 
+Breeding Crypt | & | 2 | If you would attack do it twice instead | #4 | 
+Forgotten Grave | & | 2 | If you would attack do it twice instead | #2 | 
+Snoduzdiaville, Barbarian of Adadamuel | 6 | @ | When ~ attacks ~ gets +2/+2 until the end of your next turn | !7 | #9 | 
+Warrior of Summamugrass | 4 | @ | When ~ dies deal 1 to a structure | !6 | #3 | 
+Watery Grave | & | 2 | Each turn get 2 gold | #3 | 
+Ranger of Guzmervam | 4 | @ | When you build a structure protect 3 structures until your next turn | !4 | #2 | 
+Stomping Grave of Summmervville | & | 6 | If you would build a structure do it twice instead | #7 | 
+Godless Pool | & | 4 | Each turn get 2 gold | #3 | 
+Defender of Snoddamgrass | 5 | @ |  | !8 | #4 | 
+Artisan of Sammervam | 4 | @ | When you build a structure gain a wood | !3 | #4 | 
+Forgotten Pool | & | 3 | If you would draw a card do it twice instead | #3 | 
+Farmer of Samdamthew | 3 | @ | When you demolish a structure build a structure | !2 | #4 | 
+Sacred Tomb of Adadamgrass | & | 6 | Your units get +3/+4 | #8 | 
+Samuzdiadial, Warrior of Snodmervgrass | 4 | @ | When ~ defends deal 1 to a structure | !7 | #7 | 
+Stomping Vents of Samdamthew | & | 4 | Your units get +2/+2 | #8 | 
+Godless Crypt | & | 4 | Your units get +4/+4 | #2 | 
+Overgrown Ground | & | 2 | Your units get +4/+2 | #3 | 
+Steam Castle of Guzodgrathew | & | 4 | Your units get +3/+4 | #9 | 
+Warrior of Snoddamam | 2 | @ |  | !6 | #5 | 
+Snodathethew, Ranger of Summdamgrass | 4 | @ | When you demolish a structure deal 1 to all structures | !7 | #7 | 
+Snododgradial, Stonecutter of Samatheam | 4 | @ | When ~ defends build a structure and When ~ defends build a structure | !5 | #4 | 
+Hallowed Fountain | & | 4 | If you would attack do it twice instead | #2 | 
+Overgrown Keep of Guzodgraville | & | 6 | If you would attack do it twice instead | #8 | 
+Steam Fountain | & | 2 | Each turn get 2 crystal | #4 | 
+Watery Crypt | & | 4 | Each turn get 2 iron | #2 | 
+Mason of Matdamam | 4 | @ | When you play ~ build a structure | !4 | #4 | 
+Knight of Samuzdiagrass | 3 | @ |  | !6 | #4 | 
+Temple Shrine of Snododgragrass | & | 4 | Each turn get 2 iron | #7 | 
+Breeding Crypt of Summamugrass | & | 4 | Your units get +4/+3 | #8 | 
+Blacksmith of Matodgraam | 2 | @ | When you draw draw a card | !3 | #2 | 
+Stomping Tomb | & | 2 | Your units get +3/+3 | #3 | 
+Architect of Summathedial | 3 | @ | When you demolish a structure gain a wood | !3 | #4 | 
+Forgotten Castle | & | 2 | If you would build a structure do it twice instead | #4 | 
+Defender of Guzmervdial | 4 | @ |  | !6 | #4 | 
+Barbarian of Samuzdiagrass | 5 | @ |  | !7 | #4 | 
+Architect of Adaodgragrass | 3 | @ | When you draw draw a card | !4 | #3 | 
+Knight of Matmervam | 2 | @ |  | !6 | #6 | 
+Snoddamdial, Ranger of Snodmervville | 5 | @ | When you build a structure protect a structure until the end of the game | !8 | #7 | 
+Artisan of Matmervuel | 4 | @ | When ~ defends build a structure | !3 | #2 | 
+Overgrown Tomb of Adaatheuel | & | 6 | Your units get +2/+4 | #7 | 
+Stomping Fountain | & | 4 | Your units get +4/+2 | #3 | 
+Matdamgrass, Architect of Adaamuam | 5 | @ | When you play ~ draw a card and When you draw gain a food | !6 | #6 | 
+Forgotten Foundry of Samathegrass | & | 5 | Each turn get 2 wood | #7 | 
+Summodgragrass, Architect of Adaodgragrass | 6 | @ | When you demolish a structure gain a food and When you build a structure draw a card | !6 | #6 | 
+Architect of Matdamuel | 3 | @ | When you build a structure draw a card | !3 | #2 | 
+Knight of Snododgragrass | 4 | @ |  | !8 | #5 | 
+Sacred Grave | & | 2 | If you would build a structure do it twice instead | #2 | 
+Matodgraville, Knight of Sammervuel | 5 | @ | When ~ dies ~ gets +2/+4 until your next turn | !7 | #7 | 
+Summamuthew, Architect of Guzdamville | 5 | @ | When you draw draw a card and When you draw draw a card | !4 | #6 | 
+Breeding Foundry of Guzdamdial | & | 4 | Each turn get 2 crystal | #9 | 
+Warrior of Guzatheuel | 2 | @ | When ~ defends deal 1 to all structures | !6 | #4 | 
+Watery Vents of Summmervdial | & | 6 | Each turn get 2 food | #8 | 
+Farmer of Guzodgrathew | 4 | @ | When you draw gain a iron | !3 | #4 | 
+Steam Ground | & | 3 | Your units get +2/+2 | #2 | 
+Mason of Adamervthew | 4 | @ | When you draw gain a gold | !2 | #3 | 
+Godless Tomb of Guzdamuel | & | 6 | Your units get +2/+3 | #8 | 
+Overgrown Garden of Snodmervam | & | 6 | Each turn get 2 gold | #8 | 
+Forgotten Foundry | & | 3 | Your units get +2/+4 | #2 | 
+Samuzdiathew, Architect of Guzmervdial | 6 | @ | When ~ attacks draw a card and When you demolish a structure draw a card | !6 | #6 | 
+Mason of Guzdamthew | 4 | @ | When ~ defends gain a food | !4 | #4 | 
+Temple Pool of Matatheam | & | 5 | Your units get +3/+3 | #7 | 
+Mason of Matuzdiagrass | 3 | @ | When you demolish a structure gain a food | !2 | #4 | 
+Artisan of Guzuzdiagrass | 3 | @ | When you demolish a structure draw a card | !4 | #3 | 
+Stomping Pool | & | 4 | Each turn get 2 food | #3 | 
+Stonecutter of Summmervville | 4 | @ | When you build a structure gain a food | !4 | #2 | 
+Watery Crypt of Snodmervam | & | 4 | If you would build a structure do it twice instead | #8 | 
+Blood Garden of Snododgragrass | & | 4 | Each turn get 2 wood | #9 | 
+Overgrown Shrine of Adamervville | & | 5 | Each turn get 2 gold | #8 | 
+Guzathethew, Farmer of Summuzdiauel | 6 | @ | When ~ attacks gain a gold and When ~ defends build a structure | !5 | #6 | 
+Ranger of Matodgrathew | 2 | @ |  | !4 | #5 | 
+Blacksmith of Snodmervuel | 2 | @ | When you draw draw a card | !3 | #4 | 
+Watery Shrine of Samamudial | & | 5 | If you would build a structure do it twice instead | #7 | 
+Farmer of Adaatheuel | 2 | @ | When ~ attacks draw a card | !4 | #4 | 
+Mason of Summathegrass | 4 | @ | When you draw draw a card | !3 | #2 | 
+Sacred Ground of Snodamuam | & | 4 | Each turn get 2 food | #7 | 
+Steam Ground of Sammervville | & | 5 | Your units get +4/+3 | #7 | 
+Forgotten Castle of Adaodgraam | & | 6 | Each turn get 2 wood | #9 | 
+Matodgragrass, Defender of Guzodgrathew | 4 | @ | When you demolish a structure deal 1 to a structure | !7 | #9 | 
+Barbarian of Adauzdiaam | 6 | @ |  | !9 | #6 | 
+Artisan of Matodgradial | 4 | @ | When ~ dies build a structure | !2 | #4 | 
+Samathethew, Knight of Matuzdiaville | 6 | @ | When you play ~ protect all structures until the end of your turn | !7 | #7 | 
+Farmer of Sammervam | 4 | @ | When ~ defends build a structure | !4 | #3 | 
+Stonecutter of Adaathethew | 3 | @ | When you play ~ gain a crystal | !4 | #4 | 
+Snoduzdiauel, Architect of Samuzdiauel | 6 | @ | When ~ attacks gain a wood and When ~ attacks gain a wood | !6 | #4 | 
+Stomping Garden | & | 2 | If you would attack do it twice instead | #2 | 
+Sacred Garden of Guzuzdiadial | & | 6 | If you would draw a card do it twice instead | #9 | 
+Forgotten Fountain | & | 4 | Your units get +2/+3 | #3 | 
+Snododgraam, Knight of Adamervville | 6 | @ | When ~ defends protect all structures until the end of your turn | !8 | #9 | 
+Mason of Snoduzdiauel | 3 | @ | When ~ defends draw a card | !2 | #3 | 
+Adaathegrass, Farmer of Snodathedial | 4 | @ | When you build a structure gain a food and When ~ attacks draw a card | !6 | #4 | 
+Warrior of Adamervuel | 3 | @ |  | !4 | #5 | 
+Adaodgraville, Stonecutter of Snodamugrass | 5 | @ | When ~ attacks build a structure and When ~ defends build a structure | !4 | #5 | 
+Architect of Summdamville | 4 | @ | When ~ attacks build a structure | !2 | #4 | 
+Architect of Adaodgraam | 2 | @ | When ~ attacks gain a iron | !4 | #4 | 
+Blood Castle of Summodgrauel | & | 4 | Your units get +2/+4 | #7 | 
+Overgrown Vents of Samatheville | & | 6 | If you would protect a structure do it twice instead | #7 | 
+Blacksmith of Snoddamdial | 4 | @ | When ~ defends draw a card | !2 | #2 | 
+Breeding Grave | & | 4 | If you would protect a structure do it twice instead | #3 | 
+Farmer of Matathegrass | 3 | @ | When you play ~ draw a card | !3 | #3 | 
+Blood Tomb | & | 2 | Your units get +3/+2 | #4 | 
+Forgotten Tomb | & | 2 | Each turn get 2 iron | #2 | 
+Snodathethew, Ranger of Samamuville | 4 | @ | When you draw protect a structure until the end of your turn | !7 | #9 | 
+Guzmervthew, Mason of Summamuthew | 4 | @ | When you draw draw a card and When you draw draw a card | !5 | #4 | 
+Samatheuel, Barbarian of Matamuville | 6 | @ | When you demolish a structure ~ gets +4/+3 until ~ dies | !8 | #7 | 
+Warrior of Matuzdiagrass | 3 | @ |  | !5 | #4 | 
+Blacksmith of Adamervthew | 3 | @ | When you play ~ build a structure | !2 | #2 | 
+Hallowed Keep | & | 2 | Your units get +4/+4 | #2 | 
+Farmer of Snoduzdiadial | 4 | @ | When you draw build a structure | !3 | #2 | 
+Samathedial, Farmer of Samuzdiaam | 4 | @ | When you draw draw a card and When ~ attacks gain a gold | !5 | #5 | 
+Architect of Snoduzdiathew | 4 | @ | When you demolish a structure draw a card | !4 | #3 | 
+Adauzdiathew, Blacksmith of Snodmervville | 4 | @ | When you draw draw a card and When ~ defends draw a card | !6 | #5 | 
+Steam Garden of Snodamuville | & | 6 | Your units get +2/+2 | #7 | 
+Guzatheuel, Mason of Guzamuuel | 4 | @ | When you draw build a structure and When you play ~ draw a card | !4 | #5 | 
+Sacred Castle of Adaodgrathew | & | 6 | Your units get +3/+2 | #7 | 
+Overgrown Shrine of Snoddamdial | & | 5 | Your units get +2/+3 | #9 | 
+Overgrown Grave | & | 4 | If you would build a structure do it twice instead | #4 | 
+Snodmervuel, Stonecutter of Adaatheville | 4 | @ | When you draw draw a card and When you draw draw a card | !5 | #5 | 
+Sacred Garden of Guzodgrathew | & | 6 | Each turn get 2 iron | #9 | 
+Summatheuel, Mason of Samdamthew | 6 | @ | When you play ~ build a structure and When you draw build a structure | !4 | #5 | 
+Forgotten Garden of Summmervthew | & | 4 | Your units get +3/+3 | #9 | 
+Godless Shrine of Summamuuel | & | 5 | Each turn get 2 food | #7 | 
+Mason of Summodgraville | 4 | @ | When ~ defends build a structure | !2 | #2 | 
+Adadamuel, Defender of Matatheam | 4 | @ | When you demolish a structure deal 1 to all structures | !9 | #8 | 
+Overgrown Ground of Summamugrass | & | 6 | If you would build a structure do it twice instead | #7 | 
+Ranger of Matodgraam | 2 | @ |  | !4 | #6 | 
+Blacksmith of Samamuthew | 4 | @ | When you draw gain a iron | !3 | #2 | 
+Summdamam, Artisan of Guzmervuel | 5 | @ | When you build a structure gain a iron and When you draw draw a card | !4 | #4 | 
+Breeding Grave of Snodatheuel | & | 5 | Your units get +3/+3 | #8 | 
+Blood Fountain of Snodatheville | & | 6 | If you would build a structure do it twice instead | #7 | 
+Guzmervthew, Ranger of Snoduzdiagrass | 5 | @ | When you build a structure ~ gets +3/+3 until the end of your next turn | !9 | #9 | 
+Adaamugrass, Barbarian of Summamuville | 4 | @ | When you draw protect a structure until ~ dies | !7 | #9 | 
+Forgotten Ground of Adaodgraam | & | 6 | Your units get +4/+3 | #7 | 
+Blood Tomb | & | 3 | Each turn get 2 iron | #2 | 
+Defender of Snodatheville | 3 | @ |  | !4 | #5 | 
+Sacred Tomb of Guzodgrauel | & | 6 | If you would attack do it twice instead | #9 | 
+Architect of Guzdamville | 3 | @ | When ~ attacks build a structure | !2 | #4 | 
+Guzuzdiauel, Defender of Adamervthew | 6 | @ | When you play ~ deal 1 to a structure | !8 | #7 | 
+Adaathethew, Barbarian of Samamugrass | 6 | @ | When ~ attacks deal 1 to a structure | !8 | #9 | 
+Stomping Foundry of Samatheuel | & | 5 | Your units get +4/+2 | #8 | 
+Temple Keep of Matathegrass | & | 6 | If you would build a structure do it twice instead | #8 | 
+Godless Tomb of Snodmervthew | & | 5 | If you would protect a structure do it twice instead | #7 | 
+Matmervam, Stonecutter of Summamugrass | 6 | @ | When ~ dies draw a card and When you draw draw a card | !6 | #4 | 
+Hallowed Keep | & | 3 | Your units get +3/+3 | #4 | 
+Breeding Tomb of Adaodgragrass | & | 4 | Each turn get 2 wood | #7 | 
+Ranger of Summamuville | 2 | @ |  | !6 | #5 | 
+Godless Fountain | & | 3 | Each turn get 2 wood | #2 | 
+Stomping Vents | & | 3 | If you would draw a card do it twice instead | #3 | 
+Ranger of Snodamudial | 4 | @ | When ~ attacks protect a structure until your next turn | !5 | #2 | 
+Knight of Samathegrass | 5 | @ |  | !7 | #6 | 
+Hallowed Pool of Adaodgrauel | & | 4 | Each turn get 2 iron | #9 | 
+Defender of Guzathedial | 4 | @ |  | !5 | #6 | 
+Adadamam, Farmer of Snododgragrass | 5 | @ | When ~ dies gain a crystal and When you draw draw a card | !5 | #4 | 
+Matatheam, Blacksmith of Snodamuthew | 4 | @ | When ~ attacks build a structure and When you build a structure gain a food | !4 | #5 | 
+Hallowed Shrine | & | 2 | Your units get +3/+3 | #4 | 
+Defender of Samdamgrass | 4 | @ |  | !4 | #6 | 
+Forgotten Garden of Guzodgrathew | & | 5 | Each turn get 2 crystal | #9 | 
+Snoduzdiadial, Stonecutter of Snoddamam | 5 | @ | When you play ~ gain a iron and When you demolish a structure gain a gold | !4 | #6 | 
+Samamudial, Mason of Adamervdial | 4 | @ | When ~ attacks draw a card and When you demolish a structure gain a crystal | !6 | #6 | 
+Matdamthew, Ranger of Guzamugrass | 6 | @ | When you demolish a structure deal 1 to all structures | !7 | #7 | 
+Steam Garden | & | 3 | If you would draw a card do it twice instead | #3 | 
+Breeding Shrine | & | 4 | Your units get +3/+2 | #3 | 
+Godless Keep of Matatheam | & | 5 | Your units get +3/+2 | #8 | 
+Overgrown Keep of Adaamuam | & | 5 | Your units get +3/+2 | #7 | 
+Architect of Guzuzdiagrass | 3 | @ | When ~ dies build a structure | !3 | #3 | 
+Godless Crypt of Adaamuuel | & | 6 | Each turn get 2 wood | #9 | 
+Defender of Guzathedial | 5 | @ |  | !8 | #4 | 
+Defender of Matodgragrass | 6 | @ |  | !9 | #6 | 
+Godless Crypt | & | 2 | If you would draw a card do it twice instead | #3 | 
+Temple Castle | & | 2 | Each turn get 2 wood | #3 | 
+Samamugrass, Warrior of Sammervgrass | 6 | @ | When you demolish a structure protect 3 structures until the end of your turn | !8 | #7 | 
+Knight of Matamugrass | 3 | @ | When you demolish a structure deal 1 to a structure | !5 | #2 | 
+Watery Keep of Matdamam | & | 5 | Your units get +2/+2 | #9 | 
+Farmer of Snododgrauel | 4 | @ | When you demolish a structure gain a iron | !2 | #3 | 
+Guzdamgrass, Artisan of Samatheuel | 4 | @ | When you demolish a structure gain a iron and When you demolish a structure draw a card | !5 | #4 | 
+Warrior of Guzamuthew | 6 | @ |  | !8 | #6 | 
+Sacred Grave | & | 3 | Each turn get 2 gold | #2 | 
+Steam Grave | & | 2 | Your units get +2/+3 | #3 | 
+Adaathegrass, Blacksmith of Matodgraam | 4 | @ | When ~ attacks gain a gold and When ~ attacks draw a card | !5 | #6 | 
+Godless Tomb | & | 2 | If you would build a structure do it twice instead | #4 | 
+Snoddamuel, Farmer of Matamugrass | 5 | @ | When you build a structure draw a card and When ~ dies draw a card | !6 | #5 | 
+Stomping Tomb of Guzamuuel | & | 6 | Each turn get 2 gold | #9 | 
+Warrior of Adauzdiathew | 3 | @ | When ~ attacks ~ gets +4/+4 until your next turn | !5 | #2 | 
+Mason of Guzodgragrass | 3 | @ | When ~ dies draw a card | !3 | #4 | 
+Sacred Shrine of Guzdamdial | & | 6 | Each turn get 2 food | #9 | 
+Godless Fountain | & | 2 | If you would draw a card do it twice instead | #2 | 
+Watery Vents of Guzuzdiaville | & | 4 | If you would protect a structure do it twice instead | #7 | 
+Godless Ground of Samuzdiagrass | & | 5 | Each turn get 2 food | #7 | 
+Temple Pool of Summuzdiagrass | & | 5 | Each turn get 2 wood | #9 | 
+Guzamuville, Barbarian of Snododgrathew | 4 | @ | When you draw protect 3 structures until the end of the game | !7 | #9 | 
+Forgotten Tomb | & | 2 | If you would draw a card do it twice instead | #4 | 
+Forgotten Grave | & | 2 | If you would attack do it twice instead | #4 | 
+Stomping Fountain | & | 2 | Your units get +2/+4 | #3 | 
+Temple Ground | & | 2 | Your units get +4/+3 | #3 | 
+Hallowed Garden | & | 4 | If you would protect a structure do it twice instead | #4 | 
+Matmervam, Ranger of Snoduzdiaam | 6 | @ | When you demolish a structure ~ gets +3/+3 until ~ dies | !9 | #9 | 
+Blood Tomb of Matmervuel | & | 5 | Your units get +2/+3 | #7 | 
+Matmervthew, Defender of Guzuzdiagrass | 6 | @ | When ~ defends protect a structure until the end of the game | !9 | #8 | 
+Snoddamgrass, Ranger of Snodmervam | 4 | @ | When ~ defends deal 1 to all structures | !9 | #7 | 
+Overgrown Shrine of Snodatheam | & | 4 | If you would protect a structure do it twice instead | #8 | 
+Architect of Guzodgraam | 4 | @ | When you build a structure draw a card | !3 | #3 | 
+Guzathegrass, Knight of Snoduzdiauel | 6 | @ | When you build a structure ~ gets +4/+3 until the end of the game | !8 | #9 | 
+Sammervdial, Blacksmith of Sammervville | 6 | @ | When you demolish a structure gain a iron and When ~ dies build a structure | !6 | #6 | 
+Artisan of Snodatheam | 2 | @ | When you play ~ draw a card | !2 | #3 | 
+Stomping Fountain | & | 3 | Each turn get 2 gold | #4 | 
+Artisan of Adadamuel | 4 | @ | When you build a structure gain a wood | !3 | #3 | 
+Matamugrass, Warrior of Adamervam | 6 | @ | When you build a structure deal 1 to 2 structures | !7 | #8 | 
+Summdamam, Architect of Samuzdiadial | 5 | @ | When ~ defends gain a iron and When ~ attacks draw a card | !4 | #5 | 
+Adaodgraville, Stonecutter of Adauzdiathew | 5 | @ | When you demolish a structure gain a crystal and When you play ~ draw a card | !5 | #4 | 
+Mason of Snodatheuel | 4 | @ | When ~ attacks gain a food | !2 | #4 | 
+Snodamudial, Barbarian of Adaathethew | 6 | @ | When you build a structure deal 1 to all structures | !7 | #9 | 
+Defender of Snododgrauel | 2 | @ | When you play ~ ~ gets +4/+4 until the end of your turn | !4 | #3 | 
+Watery Tomb | & | 2 | Each turn get 2 crystal | #4 | 
+Hallowed Grave of Snodamuthew | & | 5 | Each turn get 2 crystal | #7 | 
+Knight of Snoddamthew | 4 | @ |  | !4 | #4 | 
+Breeding Castle of Guzodgragrass | & | 6 | If you would build a structure do it twice instead | #9 | 
+Stonecutter of Adamervuel | 4 | @ | When ~ attacks gain a wood | !3 | #4 | 
+Knight of Samuzdiaville | 4 | @ |  | !7 | #5 | 
+Architect of Sammervgrass | 3 | @ | When ~ attacks gain a crystal | !4 | #3 | 
+Overgrown Ground of Snoddamville | & | 4 | Each turn get 2 gold | #8 | 
+Adaodgrauel, Blacksmith of Snoddamgrass | 4 | @ | When you play ~ gain a iron and When ~ attacks build a structure | !6 | #4 | 
+Sammervgrass, Mason of Summdamthew | 6 | @ | When you demolish a structure gain a wood and When you play ~ gain a gold | !4 | #4 | 
+Watery Foundry of Snododgraville | & | 6 | Each turn get 2 gold | #9 | 
+Breeding Tomb | & | 4 | If you would draw a card do it twice instead | #2 | 
+Sacred Ground | & | 3 | If you would draw a card do it twice instead | #2 | 
+Watery Pool | & | 3 | Your units get +4/+3 | #2 | 
+Stomping Vents | & | 3 | Your units get +3/+3 | #4 | 
+Forgotten Vents of Samdamville | & | 5 | Each turn get 2 food | #9 | 
+Knight of Adaamuuel | 2 | @ | When ~ attacks protect 3 structures until ~ attacks | !5 | #4 | 
+Steam Crypt | & | 3 | Your units get +4/+4 | #4 | 
+Samodgraam, Blacksmith of Samdamam | 5 | @ | When ~ defends gain a iron and When you play ~ gain a wood | !5 | #5 | 
+Warrior of Guzdamdial | 4 | @ | When you demolish a structure ~ gets +3/+3 until your next turn | !6 | #4 | 
+Sacred Ground of Adaathegrass | & | 6 | Each turn get 2 iron | #7 | 
+Watery Tomb | & | 4 | Your units get +3/+3 | #4 | 
+Overgrown Ground | & | 2 | Your units get +3/+3 | #3 | 
+Guzdamgrass, Farmer of Adadamgrass | 6 | @ | When you demolish a structure draw a card and When ~ defends gain a wood | !6 | #6 | 
+Warrior of Summdamuel | 6 | @ |  | !7 | #6 | 
+Blacksmith of Samodgradial | 2 | @ | When you draw gain a gold | !4 | #4 | 
+Sacred Shrine | & | 3 | If you would build a structure do it twice instead | #4 | 
+Snodamudial, Stonecutter of Summamuthew | 6 | @ | When you demolish a structure build a structure and When you draw build a structure | !5 | #5 | 
+Temple Tomb | & | 4 | Your units get +3/+3 | #2 | 
+Steam Ground of Adaamuam | & | 4 | If you would draw a card do it twice instead | #8 | 
+Guzuzdiaam, Farmer of Snodamuthew | 4 | @ | When you demolish a structure draw a card and When you draw gain a food | !5 | #6 | 
+Steam Grave | & | 3 | Your units get +3/+2 | #2 | 
+Godless Garden | & | 4 | If you would draw a card do it twice instead | #2 | 
+Forgotten Tomb | & | 3 | Each turn get 2 crystal | #3 | 
+Ranger of Matdamam | 3 | @ | When ~ attacks ~ gets +3/+3 until the end of the game | !5 | #3 | 
+Stonecutter of Snoduzdiauel | 2 | @ | When you play ~ gain a gold | !3 | #2 | 
+Temple Vents of Matamugrass | & | 6 | Each turn get 2 iron | #7 | 
+Godless Grave of Matathedial | & | 5 | Each turn get 2 gold | #7 | 
+Watery Fountain | & | 4 | If you would protect a structure do it twice instead | #3 | 
+Guzdamdial, Warrior of Snodamuam | 5 | @ | When ~ attacks protect a structure until ~ dies | !8 | #8 | 
+Stomping Castle of Summuzdiagrass | & | 6 | Each turn get 2 gold | #7 | 
+Architect of Summdamville | 4 | @ | When ~ dies draw a card | !2 | #4 | 
+Hallowed Fountain | & | 2 | Your units get +4/+3 | #2 | 
+Barbarian of Sammervuel | 2 | @ | When you draw protect all structures until the end of your next turn | !4 | #3 | 
+Summmervdial, Farmer of Adaodgrauel | 5 | @ | When you build a structure gain a iron and When you demolish a structure draw a card | !6 | #6 | 
+Artisan of Guzdamdial | 2 | @ | When you demolish a structure gain a wood | !4 | #3 | 
+Snododgrauel, Artisan of Guzdamville | 5 | @ | When ~ defends gain a wood and When you draw gain a wood | !5 | #5 | 
+Hallowed Vents of Guzdamthew | & | 6 | Each turn get 2 gold | #7 | 
+Barbarian of Matdamthew | 4 | @ |  | !5 | #6 | 
+Temple Fountain of Adaodgradial | & | 6 | Each turn get 2 wood | #9 | 
+Stomping Foundry of Adadamam | & | 4 | Your units get +4/+4 | #7 | 
+Ranger of Samdamam | 3 | @ |  | !6 | #6 | 
+Godless Grave | & | 3 | Each turn get 2 crystal | #4 | 
+Ranger of Summdamthew | 4 | @ |  | !9 | #6 | 
+Summdamdial, Mason of Adaamuam | 6 | @ | When you play ~ gain a wood and When ~ dies gain a wood | !5 | #5 | 
+Stomping Garden of Guzmervam | & | 5 | If you would build a structure do it twice instead | #9 | 
+Adamervam, Farmer of Guzathedial | 5 | @ | When ~ attacks gain a iron and When you draw build a structure | !6 | #4 | 
+Snodmervam, Ranger of Adadamdial | 6 | @ | When you play ~ deal 1 to all structures | !8 | #8 | 
+Mason of Guzamuthew | 3 | @ | When you demolish a structure build a structure | !4 | #4 | 
+Blood Crypt of Matathedial | & | 5 | Each turn get 2 crystal | #7 | 
+Defender of Samuzdiaam | 3 | @ |  | !6 | #4 | 
+Stomping Garden of Matuzdiathew | & | 4 | Your units get +3/+4 | #9 | 
+Stomping Tomb of Matodgragrass | & | 5 | If you would draw a card do it twice instead | #9 | 
+Blood Castle | & | 4 | If you would attack do it twice instead | #4 | 
+Forgotten Tomb | & | 3 | Your units get +2/+2 | #3 | 
+Sacred Fountain | & | 4 | Your units get +2/+2 | #2 | 
+Forgotten Vents | & | 4 | Your units get +4/+3 | #4 | 
+Sacred Shrine of Adaodgrathew | & | 5 | If you would draw a card do it twice instead | #7 | 
+Overgrown Garden of Matamuthew | & | 5 | Your units get +4/+2 | #8 | 
+Barbarian of Snoduzdiaville | 5 | @ |  | !9 | #6 | 
+Warrior of Guzmervthew | 4 | @ | When you play ~ deal 1 to 3 structures | !4 | #2 | 
+Adaatheville, Ranger of Adaathethew | 5 | @ | When you draw ~ gets +4/+2 until the end of your turn | !9 | #8 | 
+Godless Shrine | & | 2 | If you would attack do it twice instead | #2 | 
+Hallowed Fountain of Matuzdiaam | & | 6 | If you would protect a structure do it twice instead | #8 | 
+Stomping Castle of Summmervam | & | 6 | If you would protect a structure do it twice instead | #7 | 
+Artisan of Snodamuville | 2 | @ | When you draw build a structure | !4 | #4 | 
+Defender of Snodathedial | 3 | @ | When you play ~ ~ gets +2/+4 until your next turn | !6 | #4 | 
+Breeding Keep of Samamugrass | & | 6 | Your units get +3/+2 | #7 | 
+Knight of Summdamville | 5 | @ |  | !8 | #4 | 
+Blacksmith of Summodgraam | 2 | @ | When you draw gain a food | !2 | #4 | 
+Samamudial, Defender of Adaodgraam | 6 | @ | When ~ dies ~ gets +4/+2 until the end of the game | !8 | #8 | 
+Defender of Samuzdiadial | 5 | @ |  | !8 | #5 | 
+Barbarian of Guzodgragrass | 4 | @ |  | !4 | #4 | 
+Hallowed Castle | & | 2 | Each turn get 2 gold | #3 | 
+Overgrown Keep of Summathedial | & | 4 | If you would attack do it twice instead | #7 | 
+Godless Keep of Adaatheuel | & | 4 | Your units get +4/+3 | #9 | 
+Forgotten Grave of Summamuuel | & | 4 | Your units get +3/+4 | #8 | 
+Summdamdial, Knight of Matdamdial | 4 | @ | When ~ attacks protect 2 structures until the end of the game | !7 | #7 | 
+Steam Garden of Snodamuville | & | 6 | Each turn get 2 food | #9 | 
+Artisan of Matamuthew | 4 | @ | When you draw draw a card | !4 | #4 | 
+Watery Shrine | & | 2 | If you would draw a card do it twice instead | #2 | 
+Sacred Shrine of Snodatheville | & | 6 | If you would build a structure do it twice instead | #8 | 
+Knight of Sammervville | 6 | @ |  | !9 | #6 | 
+Hallowed Tomb | & | 2 | Each turn get 2 iron | #2 | 
+Barbarian of Samodgraville | 4 | @ | When ~ attacks protect a structure until ~ attacks | !6 | #3 | 
+Sacred Fountain | & | 4 | Your units get +2/+2 | #4 | 
+Godless Tomb | & | 4 | If you would build a structure do it twice instead | #4 | 
+Stonecutter of Guzodgrauel | 4 | @ | When you demolish a structure build a structure | !4 | #2 | 
+Blood Fountain | & | 3 | Each turn get 2 crystal | #2 | 
+Ranger of Sammervdial | 5 | @ |  | !7 | #4 | 
+Knight of Matuzdiagrass | 6 | @ |  | !9 | #5 | 
+Forgotten Tomb | & | 3 | Each turn get 2 crystal | #4 | 
+Blood Fountain of Matodgraam | & | 5 | If you would draw a card do it twice instead | #7 | 
+Sacred Tomb of Summathethew | & | 6 | If you would draw a card do it twice instead | #9 | 
+Matdamville, Knight of Matdamville | 4 | @ | When ~ attacks deal 1 to a structure | !7 | #7 | 
+Godless Tomb | & | 2 | If you would attack do it twice instead | #4 | 
+Adauzdiagrass, Ranger of Guzatheuel | 5 | @ | When ~ dies deal 1 to all structures | !9 | #7 | 
+Architect of Snodmervdial | 2 | @ | When you demolish a structure gain a gold | !3 | #2 | 
+Ranger of Summdamuel | 3 | @ | When ~ attacks protect a structure until the end of your next turn | !4 | #3 | 
+Blood Garden | & | 4 | Each turn get 2 iron | #2 | 
+Watery Pool of Sammervville | & | 6 | If you would build a structure do it twice instead | #9 | 
+Artisan of Adadamuel | 3 | @ | When you demolish a structure draw a card | !3 | #4 | 
+Godless Castle | & | 4 | Your units get +3/+2 | #4 | 
+Blood Keep of Samuzdiadial | & | 6 | Each turn get 2 food | #8 | 
+Steam Castle of Summatheam | & | 4 | If you would build a structure do it twice instead | #7 | 
+Architect of Adaodgrathew | 2 | @ | When ~ dies draw a card | !3 | #4 | 
+Overgrown Tomb of Summmervuel | & | 4 | Each turn get 2 food | #8 | 
+Warrior of Snododgraville | 3 | @ |  | !5 | #5 | 
+Adaodgragrass, Warrior of Snododgrauel | 4 | @ | When you build a structure ~ gets +3/+3 until your next turn | !7 | #9 | 
+Warrior of Adaodgrathew | 4 | @ |  | !6 | #4 | 
+Sacred Castle | & | 2 | Each turn get 2 gold | #2 | 
+Overgrown Shrine of Samodgragrass | & | 6 | Your units get +3/+3 | #8 | 
+Defender of Snododgraville | 4 | @ | When you demolish a structure ~ gets +2/+3 until the end of the game | !5 | #2 | 
+Steam Ground | & | 2 | If you would build a structure do it twice instead | #4 | 
+Guzamudial, Warrior of Snodamudial | 4 | @ | When you play ~ protect 4 structures until ~ attacks | !9 | #9 | 
+Watery Ground of Samatheville | & | 4 | Your units get +4/+2 | #8 | 
+Knight of Guzodgrathew | 4 | @ |  | !8 | #4 | 
+Warrior of Summmervville | 3 | @ |  | !6 | #5 | 
+Watery Keep | & | 3 | If you would draw a card do it twice instead | #4 | 
+Blood Shrine | & | 2 | Your units get +3/+3 | #4 | 
+Overgrown Ground | & | 3 | Each turn get 2 food | #3 | 
+Blacksmith of Adaodgragrass | 2 | @ | When ~ defends build a structure | !2 | #4 | 
+Godless Castle | & | 4 | If you would build a structure do it twice instead | #2 | 
+Guzdamville, Farmer of Snodatheam | 6 | @ | When you build a structure draw a card and When you demolish a structure draw a card | !6 | #6 | 
+Sacred Vents | & | 4 | Each turn get 2 iron | #2 | 
+Forgotten Keep | & | 4 | Your units get +4/+2 | #3 | 
+Defender of Summuzdiathew | 2 | @ |  | !6 | #4 | 
+Snodatheam, Knight of Adamervdial | 5 | @ | When you play ~ protect 2 structures until ~ dies | !9 | #7 | 
+Ranger of Samamuville | 2 | @ | When ~ defends protect all structures until ~ dies | !5 | #3 | 
+Blacksmith of Guzodgraville | 3 | @ | When ~ defends draw a card | !4 | #4 | 
+Forgotten Tomb of Guzmervdial | & | 4 | Your units get +3/+3 | #9 | 
+Samamuthew, Barbarian of Matmervthew | 5 | @ | When you play ~ ~ gets +4/+2 until the end of the game | !7 | #8 | 
+Adaatheam, Artisan of Matodgraam | 4 | @ | When you draw gain a food and When ~ attacks gain a iron | !4 | #4 | 
+Temple Garden of Summodgragrass | & | 4 | Each turn get 2 crystal | #7 | 
+Adamervuel, Ranger of Guzmervthew | 4 | @ | When you draw ~ gets +3/+4 until your next turn | !8 | #7 | 
+Forgotten Foundry | & | 4 | Each turn get 2 wood | #3 | 
+Farmer of Adadamthew | 3 | @ | When ~ attacks draw a card | !4 | #2 | 
+Stonecutter of Matdamthew | 4 | @ | When you demolish a structure build a structure | !4 | #3 | 
+Hallowed Tomb of Matamuuel | & | 4 | If you would build a structure do it twice instead | #8 | 
+Barbarian of Summamugrass | 3 | @ | When you draw protect all structures until the end of your turn | !6 | #4 | 
+Artisan of Samodgrathew | 2 | @ | When you draw build a structure | !2 | #2 | 
+Artisan of Samamudial | 2 | @ | When ~ dies build a structure | !2 | #3 | 
+Farmer of Adauzdiagrass | 3 | @ | When ~ dies draw a card | !3 | #3 | 
+Stomping Shrine of Sammervville | & | 5 | Your units get +4/+4 | #7 | 
+Summdamthew, Mason of Guzamuuel | 5 | @ | When you build a structure gain a gold and When ~ dies draw a card | !5 | #5 | 
+Sacred Castle | & | 2 | Your units get +2/+2 | #3 | 
+Matdamam, Warrior of Snodmervville | 6 | @ | When ~ defends deal 1 to a structure | !7 | #9 | 
+Stomping Foundry | & | 4 | Each turn get 2 gold | #4 | 
+Steam Tomb of Guzdamthew | & | 5 | If you would build a structure do it twice instead | #9 | 
+Barbarian of Snodmervdial | 3 | @ |  | !6 | #4 | 
+Architect of Matmervville | 2 | @ | When ~ defends gain a gold | !4 | #2 | 
+Hallowed Pool | & | 4 | Each turn get 2 wood | #3 | 
+Defender of Samamuam | 6 | @ |  | !9 | #5 | 
+Forgotten Castle of Samuzdiaville | & | 4 | Each turn get 2 crystal | #7 | 
+Blood Foundry | & | 2 | Your units get +2/+4 | #2 | 
+Summathegrass, Blacksmith of Snoddamam | 6 | @ | When you build a structure draw a card and When you draw gain a iron | !5 | #6 | 
+Ranger of Guzdamthew | 2 | @ |  | !6 | #6 | 
+Barbarian of Adaodgrauel | 3 | @ |  | !6 | #4 | 
+Steam Castle of Summodgraam | & | 4 | If you would build a structure do it twice instead | #7 | 
+Architect of Snodamugrass | 4 | @ | When you demolish a structure draw a card | !2 | #4 | 
+Blood Shrine | & | 4 | Each turn get 2 gold | #4 | 
+Hallowed Pool | & | 2 | Your units get +3/+4 | #3 | 
+Forgotten Fountain of Guzamuuel | & | 4 | Your units get +4/+3 | #9 | 
+Blood Foundry | & | 3 | Your units get +2/+4 | #2 | 
+Temple Fountain | & | 2 | Each turn get 2 crystal | #3 | 
+Sacred Crypt of Snodatheville | & | 5 | Each turn get 2 iron | #7 | 
+Artisan of Summathedial | 2 | @ | When you demolish a structure gain a food | !4 | #2 | 
+Guzuzdiadial, Warrior of Summathedial | 5 | @ | When ~ dies protect all structures until ~ dies | !7 | #7 | 
+Watery Pool | & | 3 | Your units get +4/+4 | #3 | 
+Guzdamdial, Warrior of Summdamam | 4 | @ | When you demolish a structure deal 1 to a structure | !7 | #7 | 
+Overgrown Crypt | & | 2 | If you would draw a card do it twice instead | #3 | 
+Temple Tomb | & | 4 | If you would build a structure do it twice instead | #2 | 
+Barbarian of Guzatheam | 2 | @ | When you demolish a structure deal 1 to 2 structures | !4 | #4 | 
+Forgotten Tomb of Snododgrauel | & | 6 | Your units get +2/+3 | #8 | 
+Samuzdiagrass, Knight of Sammervdial | 5 | @ | When ~ dies ~ gets +3/+3 until the end of your next turn | !9 | #9 | 
+Guzodgradial, Warrior of Summathedial | 5 | @ | When you build a structure protect 3 structures until the end of the game | !8 | #9 | 
+Summdamthew, Warrior of Summodgradial | 4 | @ | When you play ~ protect 2 structures until your next turn | !9 | #7 | 
+Warrior of Snodatheville | 6 | @ |  | !7 | #4 | 
+Snododgradial, Artisan of Matodgrauel | 5 | @ | When you play ~ gain a iron and When you build a structure gain a food | !5 | #4 | 
+Godless Keep of Adadamdial | & | 6 | Your units get +4/+3 | #8 | 
+Guzathegrass, Farmer of Snodamuam | 6 | @ | When you build a structure build a structure and When ~ attacks draw a card | !6 | #5 | 
+Samdamville, Artisan of Samamuville | 6 | @ | When you play ~ build a structure and When you demolish a structure build a structure | !5 | #4 | 
+Forgotten Shrine | & | 3 | If you would protect a structure do it twice instead | #4 | 
+Forgotten Ground of Guzathethew | & | 6 | Your units get +4/+2 | #8 | 
+Samamuthew, Knight of Adauzdiaam | 4 | @ | When you build a structure protect a structure until the end of your next turn | !9 | #8 | 
+Godless Fountain | & | 4 | Each turn get 2 wood | #2 | 
+Matathedial, Artisan of Adauzdiaam | 6 | @ | When you demolish a structure build a structure and When ~ defends draw a card | !6 | #4 | 
+Stomping Shrine of Guzatheville | & | 6 | If you would protect a structure do it twice instead | #7 | 
+Warrior of Snodmervdial | 3 | @ | When you build a structure protect all structures until the end of your next turn | !5 | #2 | 
+Watery Keep of Matuzdiaville | & | 5 | Each turn get 2 gold | #9 | 
+Mason of Snodatheuel | 3 | @ | When you build a structure gain a wood | !4 | #3 | 
+Snoddamuel, Knight of Matatheuel | 6 | @ | When you demolish a structure protect a structure until your next turn | !8 | #7 | 
+Blacksmith of Matamuthew | 4 | @ | When you build a structure draw a card | !4 | #2 | 
+Sacred Grave | & | 4 | Each turn get 2 food | #4 | 
+Guzuzdiadial, Ranger of Guzamugrass | 6 | @ | When ~ attacks protect 2 structures until your next turn | !8 | #7 | 
+Watery Garden of Adauzdiagrass | & | 6 | If you would build a structure do it twice instead | #7 | 
+Barbarian of Summmervthew | 6 | @ |  | !9 | #5 | 
+Watery Keep of Adaathethew | & | 6 | Your units get +4/+3 | #9 | 
+Matamugrass, Barbarian of Summamuville | 5 | @ | When ~ dies protect a structure until your next turn | !7 | #7 | 
+Sacred Ground of Matodgrauel | & | 5 | If you would draw a card do it twice instead | #8 | 
+Temple Fountain | & | 2 | Your units get +3/+4 | #2 | 
+Watery Pool | & | 4 | Each turn get 2 food | #2 | 
+Steam Shrine of Snodathethew | & | 5 | Your units get +3/+2 | #9 | 
+Forgotten Crypt | & | 4 | Your units get +2/+3 | #2 | 
+Adaodgraam, Artisan of Guzamuville | 5 | @ | When you build a structure build a structure and When ~ dies build a structure | !5 | #6 | 
+Stonecutter of Snoduzdiathew | 2 | @ | When you draw build a structure | !4 | #3 | 
+Matamuam, Warrior of Samodgradial | 4 | @ | When ~ defends protect a structure until ~ dies | !9 | #9 | 
+Knight of Guzdamuel | 3 | @ |  | !5 | #4 | 
+Samdamville, Warrior of Matmervuel | 5 | @ | When you build a structure deal 1 to all structures | !7 | #7 | 
+Stomping Keep | & | 3 | Each turn get 2 gold | #4 | 
+Steam Ground of Snoduzdiauel | & | 4 | If you would draw a card do it twice instead | #8 | 
+Steam Shrine | & | 2 | Your units get +4/+4 | #4 | 
+Guzamuam, Ranger of Summamuam | 4 | @ | When you build a structure deal 1 to a structure | !8 | #7 | 
+Stomping Shrine | & | 3 | If you would attack do it twice instead | #4 | 
+Blood Tomb of Matatheuel | & | 5 | Your units get +2/+4 | #7 | 
+Guzamuuel, Warrior of Matatheville | 5 | @ | When you build a structure deal 1 to a structure | !7 | #8 | 
+Blood Castle | & | 4 | Each turn get 2 crystal | #3 | 
+Sacred Tomb of Summuzdiaam | & | 4 | Each turn get 2 iron | #7 | 
+Godless Foundry of Summuzdiagrass | & | 5 | If you would draw a card do it twice instead | #7 | 
+Forgotten Grave | & | 3 | If you would draw a card do it twice instead | #2 | 
+Barbarian of Summodgrathew | 2 | @ | When you play ~ protect a structure until ~ dies | !5 | #3 | 
+Forgotten Fountain | & | 2 | Each turn get 2 iron | #3 | 
+Stonecutter of Sammervville | 2 | @ | When ~ attacks build a structure | !3 | #2 | 
+Blood Crypt of Samamugrass | & | 5 | If you would build a structure do it twice instead | #8 | 
+Artisan of Samatheville | 3 | @ | When you build a structure draw a card | !3 | #3 | 
+Watery Pool | & | 2 | Your units get +2/+3 | #4 | 
+Defender of Adauzdiauel | 6 | @ |  | !9 | #4 | 
+Matdamam, Architect of Samamuville | 6 | @ | When you build a structure gain a gold and When ~ defends draw a card | !4 | #5 | 
+Ranger of Sammervgrass | 6 | @ |  | !8 | #5 | 
+Overgrown Keep of Adaatheville | & | 4 | Your units get +4/+4 | #8 | 
+Warrior of Summmervville | 4 | @ | When ~ dies protect a structure until the end of your next turn | !5 | #2 | 
+Samdamgrass, Warrior of Snododgraville | 6 | @ | When ~ defends deal 1 to all structures | !8 | #7 | 
+Temple Shrine of Samathethew | & | 5 | If you would attack do it twice instead | #9 | 
+Blood Castle | & | 3 | Each turn get 2 wood | #3 | 
+Overgrown Vents of Summmervgrass | & | 4 | If you would draw a card do it twice instead | #9 | 
+Blood Crypt of Guzdamthew | & | 4 | Your units get +4/+3 | #7 | 
+Snododgrathew, Knight of Adadamdial | 4 | @ | When ~ dies protect a structure until ~ attacks | !7 | #8 | 
+Matdamam, Defender of Snoddamgrass | 5 | @ | When ~ defends protect 3 structures until the end of your turn | !9 | #8 | 
+Samamuthew, Stonecutter of Summdamam | 4 | @ | When you build a structure build a structure and When you play ~ build a structure | !4 | #4 | 
+Defender of Guzodgraville | 3 | @ | When you build a structure deal 1 to all structures | !6 | #2 | 
+Breeding Vents of Summamugrass | & | 4 | Your units get +2/+3 | #9 | 
+Sacred Fountain | & | 4 | Your units get +4/+4 | #3 | 
+Godless Ground of Adadamdial | & | 4 | Each turn get 2 food | #9 | 
+Godless Ground of Guzamudial | & | 5 | Your units get +3/+3 | #8 | 
+Defender of Samdamgrass | 5 | @ |  | !9 | #4 | 
+Adauzdiagrass, Defender of Guzmervdial | 4 | @ | When you draw ~ gets +3/+3 until the end of your next turn | !9 | #7 | 
+Snodamuthew, Farmer of Snodmervgrass | 4 | @ | When you demolish a structure draw a card and When ~ attacks draw a card | !4 | #6 | 
+Forgotten Foundry of Samatheville | & | 6 | Your units get +3/+4 | #7 | 
+Artisan of Samathegrass | 2 | @ | When ~ dies gain a food | !3 | #4 | 
+Sacred Tomb of Summuzdiauel | & | 5 | If you would build a structure do it twice instead | #8 | 
+Forgotten Castle of Matdamville | & | 6 | Your units get +3/+3 | #9 | 
+Adaathedial, Knight of Samodgragrass | 5 | @ | When you demolish a structure protect 4 structures until the end of your turn | !7 | #9 | 
+Watery Keep | & | 2 | Each turn get 2 gold | #4 | 
+Farmer of Summuzdiaam | 3 | @ | When you play ~ build a structure | !2 | #2 | 
+Snodmervthew, Knight of Samodgragrass | 4 | @ | When ~ defends deal 1 to 3 structures | !9 | #7 | 
+Godless Tomb of Matdamthew | & | 5 | Each turn get 2 wood | #7 | 
+Snoduzdiaam, Blacksmith of Samuzdiaville | 4 | @ | When you play ~ gain a wood and When you demolish a structure gain a crystal | !6 | #6 | 
+Overgrown Pool of Matathethew | & | 5 | If you would build a structure do it twice instead | #7 | 
+Sacred Tomb of Adaathegrass | & | 5 | Each turn get 2 iron | #9 | 
+Adaodgraam, Mason of Guzamuthew | 5 | @ | When ~ dies gain a iron and When ~ dies build a structure | !6 | #4 | 
+Forgotten Tomb of Adaatheam | & | 5 | Your units get +3/+2 | #9 | 
+Blacksmith of Samdamthew | 2 | @ | When you demolish a structure gain a crystal | !3 | #2 | 
+Stomping Fountain of Matodgragrass | & | 5 | Each turn get 2 wood | #9 | 
+Steam Fountain | & | 3 | Each turn get 2 iron | #4 | 
+Artisan of Summodgraam | 2 | @ | When you demolish a structure draw a card | !4 | #3 | 
+Barbarian of Sammervam | 4 | @ |  | !9 | #4 | 
+Blood Foundry of Samathethew | & | 6 | Your units get +3/+2 | #7 | 
+Breeding Tomb of Matodgraam | & | 5 | If you would protect a structure do it twice instead | #9 | 
+Barbarian of Matamuthew | 5 | @ |  | !8 | #5 | 
+Defender of Samatheville | 2 | @ | When ~ attacks deal 1 to a structure | !6 | #3 | 
+Artisan of Matamuville | 3 | @ | When you build a structure draw a card | !4 | #4 | 
+Warrior of Adadamuel | 4 | @ |  | !7 | #5 | 
+Blood Vents | & | 3 | Your units get +4/+4 | #3 | 
+Snoduzdiadial, Mason of Samatheam | 5 | @ | When you demolish a structure draw a card and When you draw draw a card | !6 | #6 | 
+Blood Garden of Summatheville | & | 6 | Each turn get 2 iron | #9 | 
+Watery Castle of Matodgradial | & | 5 | Each turn get 2 food | #7 | 
+Stonecutter of Summmervville | 3 | @ | When you demolish a structure draw a card | !4 | #3 | 
+Blood Crypt | & | 4 | If you would draw a card do it twice instead | #4 | 
+Snododgraam, Knight of Summodgrathew | 5 | @ | When ~ dies protect all structures until the end of the game | !8 | #9 | 
+Breeding Fountain | & | 2 | Your units get +2/+2 | #4 | 
+Adaamuuel, Knight of Summuzdiathew | 6 | @ | When ~ attacks protect a structure until ~ attacks | !9 | #9 | 
+Godless Pool | & | 4 | If you would protect a structure do it twice instead | #3 | 
+Watery Crypt of Samodgraville | & | 5 | Your units get +4/+3 | #9 | 
+Snodmervam, Blacksmith of Adadamville | 4 | @ | When ~ dies gain a gold and When ~ attacks draw a card | !4 | #4 | 
+Steam Grave of Summmervthew | & | 4 | Your units get +2/+3 | #7 | 
+Snododgrauel, Warrior of Samodgrauel | 4 | @ | When ~ attacks protect a structure until ~ attacks | !8 | #9 | 
+Samamuam, Defender of Summodgrauel | 4 | @ | When you play ~ ~ gets +4/+3 until the end of the game | !9 | #9 | 
+Sacred Garden | & | 2 | If you would protect a structure do it twice instead | #3 | 
+Temple Pool of Guzathegrass | & | 6 | If you would attack do it twice instead | #9 | 
+Hallowed Tomb | & | 4 | If you would attack do it twice instead | #3 | 
+Stomping Castle of Matdamville | & | 4 | Each turn get 2 crystal | #9 | 
+Mason of Adaatheam | 2 | @ | When ~ dies draw a card | !3 | #4 | 
+Godless Tomb of Matdamuel | & | 6 | If you would attack do it twice instead | #8 | 
+Sacred Ground of Adauzdiathew | & | 6 | Your units get +3/+3 | #7 | 
+Knight of Matuzdiaville | 4 | @ | When you draw protect 2 structures until the end of your next turn | !6 | #2 | 
+Overgrown Garden of Summdamgrass | & | 5 | Each turn get 2 crystal | #8 | 
+Mason of Matdamville | 4 | @ | When ~ defends gain a gold | !4 | #2 | 
+Barbarian of Matuzdiaam | 2 | @ | When you build a structure deal 1 to 3 structures | !6 | #2 | 
+Hallowed Pool | & | 2 | Your units get +2/+4 | #4 | 
+Matuzdiauel, Ranger of Samodgrauel | 6 | @ | When you demolish a structure deal 1 to 2 structures | !8 | #8 | 
+Adaodgraville, Defender of Adaatheuel | 6 | @ | When ~ dies protect a structure until the end of your next turn | !7 | #7 | 
